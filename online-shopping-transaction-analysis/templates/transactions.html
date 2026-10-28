@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Transactions</h2>
+<form method="get" class="row">
+  <input name="q" value="{{ q }}" placeholder="Search order, customer, product, category">
+  <button>Search</button>
+</form>
+<p>Showing up to 200 latest matching rows.</p>
+<table>
+  <tr><th>Order</th><th>Date</th><th>Customer</th><th>Product</th><th>Category</th><th>Qty</th><th>Price</th><th>Total</th><th>Payment</th><th>Status</th></tr>
+  {% for r in rows %}
+  <tr><td>{{ r.order_id }}</td><td>{{ r.order_date }}</td><td>{{ r.customer_id }}</td><td>{{ r.product }}</td>
+      <td>{{ r.category }}</td><td>{{ r.quantity }}</td><td>{{ "%.2f"|format(r.unit_price) }}</td>
+      <td>{{ "%.2f"|format(r.total) }}</td><td>{{ r.payment_method }}</td><td>{{ r.status }}</td></tr>
+  {% else %}<tr><td colspan="10">No transactions found.</td></tr>{% endfor %}
+</table>
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="row">
+  <label>From <input type="date" id="start"></label>
+  <label>To <input type="date" id="end"></label>
+  <button id="apply">Apply</button>
+  <button id="reset" class="ghost">Reset</button>
+</div>
+
+<p id="empty" class="alert" hidden>No data yet. Go to <a href="{{ url_for('upload') }}">Upload data</a> and import data/sample_transactions.csv.</p>
+
+<section class="cards" id="kpis"></section>
+
+<section class="grid">
+  <div class="panel wide"><h3>Monthly revenue</h3><canvas id="monthly"></canvas></div>
+  <div class="panel"><h3>Revenue by category</h3><canvas id="category"></canvas></div>
+  <div class="panel"><h3>Payment methods</h3><canvas id="payment"></canvas></div>
+  <div class="panel"><h3>Order status</h3><canvas id="status"></canvas></div>
+</section>
+
+<section class="grid">
+  <div class="panel"><h3>Top products</h3><table id="products"></table></div>
+  <div class="panel"><h3>Top customers</h3><table id="customers"></table></div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+{% endblock %}

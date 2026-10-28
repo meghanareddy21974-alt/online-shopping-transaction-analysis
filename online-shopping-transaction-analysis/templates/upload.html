@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Upload transactions</h2>
+{% if message %}<p class="{{ 'good' if ok else 'alert' }}">{{ message }}</p>{% endif %}
+<p>CSV columns required: <code>order_id, order_date (YYYY-MM-DD), customer_id, product, category, quantity, unit_price, payment_method, status</code></p>
+<form method="post" enctype="multipart/form-data" class="row">
+  <input type="file" name="file" accept=".csv" required>
+  <button>Import</button>
+</form>
+<p>Re-uploading an existing order_id updates that order instead of duplicating it.</p>
+<form method="post" action="{{ url_for('clear') }}" onsubmit="return confirm('Delete all transactions?')">
+  <button class="danger">Delete all data</button>
+</form>
+{% endblock %}

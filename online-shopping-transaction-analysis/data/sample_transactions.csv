@@ -1,0 +1,2501 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,payment_method,status
+ORD00391,2025-01-01,CUST0170,Smart Watch,Electronics,3,112.84,Credit Card,Completed
+ORD01294,2025-01-01,CUST0026,Power Bank,Electronics,1,27.16,Credit Card,Completed
+ORD01307,2025-01-01,CUST0079,Wireless Earbuds,Electronics,2,54.53,Credit Card,Completed
+ORD01745,2025-01-01,CUST0156,Perfume,Beauty,1,50.2,Cash on Delivery,Completed
+ORD01844,2025-01-01,CUST0034,Smartphone Case,Electronics,1,10.89,UPI,Completed
+ORD02447,2025-01-01,CUST0022,Denim Jacket,Fashion,2,51.45,Cash on Delivery,Returned
+ORD00399,2025-01-02,CUST0025,Wireless Earbuds,Electronics,1,61.74,Cash on Delivery,Returned
+ORD01160,2025-01-02,CUST0178,Wireless Earbuds,Electronics,2,64.57,Debit Card,Cancelled
+ORD02227,2025-01-02,CUST0229,Perfume,Beauty,1,44.17,UPI,Returned
+ORD00972,2025-01-03,CUST0219,Air Fryer,Home,2,97.98,Credit Card,Returned
+ORD01178,2025-01-03,CUST0077,Desk Lamp,Home,2,23.23,Credit Card,Completed
+ORD01872,2025-01-03,CUST0054,Bed Sheet Set,Home,1,42.59,UPI,Completed
+ORD01878,2025-01-03,CUST0221,Backpack,Fashion,1,32.03,PayPal,Completed
+ORD00040,2025-01-04,CUST0171,Python Handbook,Books,2,30.82,Credit Card,Completed
+ORD00406,2025-01-04,CUST0219,Power Bank,Electronics,1,29.81,UPI,Completed
+ORD00733,2025-01-04,CUST0264,Hair Dryer,Beauty,2,40.06,Debit Card,Completed
+ORD01073,2025-01-04,CUST0234,Running Shoes,Fashion,3,68.63,PayPal,Returned
+ORD01980,2025-01-04,CUST0110,Air Fryer,Home,1,91.98,Debit Card,Returned
+ORD02223,2025-01-04,CUST0102,Python Handbook,Books,2,32.97,Debit Card,Completed
+ORD00751,2025-01-05,CUST0286,Backpack,Fashion,1,32.32,UPI,Completed
+ORD00814,2025-01-05,CUST0051,USB-C Cable,Electronics,3,8.67,Cash on Delivery,Completed
+ORD01903,2025-01-05,CUST0055,Hair Dryer,Beauty,3,34.52,PayPal,Completed
+ORD02251,2025-01-05,CUST0248,Desk Lamp,Home,1,26.0,Cash on Delivery,Completed
+ORD00058,2025-01-06,CUST0055,Denim Jacket,Fashion,2,51.91,PayPal,Completed
+ORD00875,2025-01-06,CUST0130,Desk Lamp,Home,1,24.4,Cash on Delivery,Completed
+ORD00887,2025-01-06,CUST0169,Hair Dryer,Beauty,4,39.19,Cash on Delivery,Completed
+ORD01135,2025-01-06,CUST0184,Backpack,Fashion,3,36.46,Credit Card,Completed
+ORD01415,2025-01-06,CUST0138,Backpack,Fashion,2,36.79,PayPal,Completed
+ORD01423,2025-01-06,CUST0160,Wireless Earbuds,Electronics,2,55.45,Credit Card,Completed
+ORD01463,2025-01-06,CUST0245,Bed Sheet Set,Home,1,36.8,UPI,Completed
+ORD01776,2025-01-06,CUST0199,Denim Jacket,Fashion,2,58.37,Cash on Delivery,Completed
+ORD00613,2025-01-07,CUST0154,Power Bank,Electronics,4,26.4,Debit Card,Completed
+ORD00748,2025-01-07,CUST0004,Face Serum,Beauty,1,23.86,UPI,Returned
+ORD01131,2025-01-07,CUST0236,Cotton T-Shirt,Fashion,1,14.56,Credit Card,Returned
+ORD02247,2025-01-07,CUST0247,Cotton T-Shirt,Fashion,1,15.86,Cash on Delivery,Completed
+ORD02294,2025-01-07,CUST0093,USB-C Cable,Electronics,1,8.32,Credit Card,Completed
+ORD02363,2025-01-07,CUST0249,Smartphone Case,Electronics,2,11.35,UPI,Completed
+ORD02466,2025-01-07,CUST0276,Python Handbook,Books,1,32.14,PayPal,Completed
+ORD01133,2025-01-08,CUST0080,Backpack,Fashion,2,33.25,Debit Card,Completed
+ORD01937,2025-01-08,CUST0088,Smart Watch,Electronics,1,120.79,UPI,Returned
+ORD02058,2025-01-08,CUST0100,Python Handbook,Books,1,30.74,Cash on Delivery,Returned
+ORD00927,2025-01-09,CUST0144,Cotton T-Shirt,Fashion,3,15.33,Credit Card,Completed
+ORD01009,2025-01-09,CUST0154,Bed Sheet Set,Home,1,38.77,Cash on Delivery,Cancelled
+ORD01455,2025-01-09,CUST0082,Bed Sheet Set,Home,1,38.68,UPI,Completed
+ORD02283,2025-01-09,CUST0112,Power Bank,Electronics,1,27.15,Credit Card,Completed
+ORD02385,2025-01-09,CUST0092,Backpack,Fashion,1,32.27,UPI,Completed
+ORD00035,2025-01-10,CUST0235,Python Handbook,Books,2,30.38,Credit Card,Completed
+ORD00245,2025-01-10,CUST0153,Wireless Earbuds,Electronics,1,54.37,Cash on Delivery,Completed
+ORD00429,2025-01-10,CUST0243,Cookbook,Books,3,22.65,UPI,Completed
+ORD00494,2025-01-10,CUST0059,Hair Dryer,Beauty,2,37.59,Cash on Delivery,Completed
+ORD00593,2025-01-10,CUST0022,Smartphone Case,Electronics,1,12.46,UPI,Completed
+ORD01132,2025-01-10,CUST0052,Power Bank,Electronics,1,26.31,UPI,Returned
+ORD02186,2025-01-10,CUST0218,Wireless Earbuds,Electronics,1,55.3,Credit Card,Completed
+ORD00579,2025-01-11,CUST0001,Power Bank,Electronics,1,29.45,Credit Card,Completed
+ORD01124,2025-01-11,CUST0218,Air Fryer,Home,2,97.78,Credit Card,Completed
+ORD01435,2025-01-11,CUST0101,Denim Jacket,Fashion,1,55.29,Credit Card,Completed
+ORD01977,2025-01-11,CUST0095,Desk Lamp,Home,1,22.63,PayPal,Completed
+ORD01784,2025-01-12,CUST0191,Smart Watch,Electronics,1,126.91,Credit Card,Completed
+ORD01929,2025-01-12,CUST0210,Power Bank,Electronics,1,26.77,UPI,Completed
+ORD00765,2025-01-13,CUST0209,USB-C Cable,Electronics,3,7.41,Credit Card,Completed
+ORD01010,2025-01-13,CUST0242,Cookbook,Books,2,24.15,Cash on Delivery,Returned
+ORD01039,2025-01-13,CUST0200,Cotton T-Shirt,Fashion,1,14.16,UPI,Completed
+ORD01061,2025-01-13,CUST0060,Coffee Maker,Home,2,66.88,Cash on Delivery,Completed
+ORD02205,2025-01-13,CUST0019,Novel Bestseller,Books,3,15.02,PayPal,Completed
+ORD01044,2025-01-14,CUST0120,USB-C Cable,Electronics,1,8.41,Credit Card,Completed
+ORD01404,2025-01-14,CUST0019,Coffee Maker,Home,2,68.32,UPI,Completed
+ORD01693,2025-01-14,CUST0175,Face Serum,Beauty,3,26.61,Credit Card,Completed
+ORD01712,2025-01-14,CUST0158,Smart Watch,Electronics,2,116.13,Debit Card,Completed
+ORD00086,2025-01-15,CUST0274,Cotton T-Shirt,Fashion,1,13.64,Credit Card,Completed
+ORD00628,2025-01-15,CUST0176,Novel Bestseller,Books,2,12.91,Debit Card,Completed
+ORD01220,2025-01-15,CUST0078,Bed Sheet Set,Home,3,43.47,Debit Card,Completed
+ORD01917,2025-01-15,CUST0243,Smart Watch,Electronics,2,120.71,UPI,Completed
+ORD02008,2025-01-16,CUST0288,Coffee Maker,Home,1,64.04,UPI,Completed
+ORD02034,2025-01-16,CUST0187,Denim Jacket,Fashion,2,53.64,Credit Card,Completed
+ORD02190,2025-01-16,CUST0056,Hair Dryer,Beauty,1,38.12,Debit Card,Completed
+ORD02209,2025-01-16,CUST0165,Python Handbook,Books,1,30.57,Credit Card,Completed
+ORD01685,2025-01-17,CUST0214,Perfume,Beauty,4,46.71,Credit Card,Completed
+ORD01879,2025-01-17,CUST0257,Perfume,Beauty,3,50.23,PayPal,Completed
+ORD02039,2025-01-17,CUST0082,USB-C Cable,Electronics,1,8.67,Cash on Delivery,Completed
+ORD00228,2025-01-18,CUST0189,Air Fryer,Home,1,82.97,Debit Card,Completed
+ORD00284,2025-01-18,CUST0258,Bed Sheet Set,Home,2,41.39,PayPal,Returned
+ORD00501,2025-01-18,CUST0200,Cotton T-Shirt,Fashion,2,15.1,UPI,Completed
+ORD01355,2025-01-18,CUST0226,Smart Watch,Electronics,1,108.89,Debit Card,Completed
+ORD01583,2025-01-18,CUST0102,Python Handbook,Books,2,29.12,UPI,Completed
+ORD01919,2025-01-18,CUST0121,Denim Jacket,Fashion,2,53.73,Cash on Delivery,Completed
+ORD00630,2025-01-19,CUST0193,Hair Dryer,Beauty,1,39.24,Credit Card,Completed
+ORD00914,2025-01-19,CUST0184,Wireless Earbuds,Electronics,3,57.31,Credit Card,Completed
+ORD01258,2025-01-19,CUST0295,Bed Sheet Set,Home,4,43.29,Credit Card,Completed
+ORD01888,2025-01-19,CUST0045,Hair Dryer,Beauty,4,35.43,Debit Card,Completed
+ORD01987,2025-01-19,CUST0022,Air Fryer,Home,3,96.75,Credit Card,Returned
+ORD02370,2025-01-19,CUST0130,Python Handbook,Books,1,32.86,UPI,Completed
+ORD00528,2025-01-20,CUST0146,Hair Dryer,Beauty,3,35.85,UPI,Completed
+ORD00809,2025-01-20,CUST0248,Python Handbook,Books,2,27.26,Credit Card,Completed
+ORD02133,2025-01-20,CUST0017,Air Fryer,Home,1,85.79,Debit Card,Completed
+ORD00071,2025-01-21,CUST0079,Face Serum,Beauty,1,25.86,Credit Card,Cancelled
+ORD00420,2025-01-21,CUST0173,Perfume,Beauty,2,46.11,Credit Card,Completed
+ORD01407,2025-01-21,CUST0008,Smart Watch,Electronics,2,121.0,Cash on Delivery,Completed
+ORD01923,2025-01-21,CUST0168,Denim Jacket,Fashion,2,57.97,Debit Card,Completed
+ORD01172,2025-01-22,CUST0023,Desk Lamp,Home,1,23.98,UPI,Completed
+ORD01335,2025-01-22,CUST0029,Denim Jacket,Fashion,1,58.1,Credit Card,Completed
+ORD01551,2025-01-22,CUST0206,Novel Bestseller,Books,1,12.62,PayPal,Completed
+ORD02433,2025-01-22,CUST0086,Smart Watch,Electronics,1,116.98,UPI,Completed
+ORD00526,2025-01-23,CUST0125,Smart Watch,Electronics,1,121.76,Credit Card,Completed
+ORD00585,2025-01-23,CUST0096,USB-C Cable,Electronics,4,7.65,Credit Card,Completed
+ORD01092,2025-01-23,CUST0281,Smartphone Case,Electronics,1,11.81,Debit Card,Completed
+ORD01543,2025-01-23,CUST0072,Bed Sheet Set,Home,2,36.54,PayPal,Completed
+ORD02474,2025-01-23,CUST0288,Air Fryer,Home,1,95.07,Debit Card,Completed
+ORD00262,2025-01-24,CUST0153,Face Serum,Beauty,1,27.14,Debit Card,Completed
+ORD00930,2025-01-24,CUST0015,Python Handbook,Books,3,30.24,Credit Card,Completed
+ORD01215,2025-01-24,CUST0217,Smartphone Case,Electronics,1,12.33,Credit Card,Completed
+ORD02032,2025-01-24,CUST0253,Air Fryer,Home,2,91.6,UPI,Completed
+ORD02110,2025-01-24,CUST0286,Power Bank,Electronics,2,28.7,Credit Card,Completed
+ORD02310,2025-01-24,CUST0083,Wireless Earbuds,Electronics,4,54.16,UPI,Completed
+ORD02382,2025-01-24,CUST0209,Face Serum,Beauty,1,25.04,Credit Card,Completed
+ORD01173,2025-01-25,CUST0117,Smartphone Case,Electronics,1,11.15,UPI,Completed
+ORD01949,2025-01-25,CUST0016,Wireless Earbuds,Electronics,1,55.05,UPI,Completed
+ORD02129,2025-01-26,CUST0009,Smartphone Case,Electronics,1,11.24,UPI,Completed
+ORD02344,2025-01-26,CUST0189,Running Shoes,Fashion,1,70.27,Cash on Delivery,Completed
+ORD00097,2025-01-27,CUST0047,Cotton T-Shirt,Fashion,1,15.52,Cash on Delivery,Completed
+ORD00885,2025-01-27,CUST0146,Power Bank,Electronics,2,29.01,Debit Card,Completed
+ORD01186,2025-01-27,CUST0218,Air Fryer,Home,1,93.63,UPI,Completed
+ORD01349,2025-01-27,CUST0173,Cotton T-Shirt,Fashion,3,16.22,PayPal,Completed
+ORD00350,2025-01-28,CUST0155,Bed Sheet Set,Home,1,40.86,Credit Card,Completed
+ORD00903,2025-01-28,CUST0108,Coffee Maker,Home,1,60.39,Credit Card,Completed
+ORD01301,2025-01-28,CUST0216,USB-C Cable,Electronics,1,7.42,Cash on Delivery,Completed
+ORD02346,2025-01-28,CUST0155,Smart Watch,Electronics,1,121.77,PayPal,Completed
+ORD00048,2025-01-29,CUST0060,Cotton T-Shirt,Fashion,3,14.28,UPI,Cancelled
+ORD00976,2025-01-29,CUST0246,Wireless Earbuds,Electronics,1,53.38,PayPal,Returned
+ORD01060,2025-01-29,CUST0076,Cookbook,Books,1,21.8,UPI,Completed
+ORD01632,2025-01-29,CUST0291,Cotton T-Shirt,Fashion,1,16.08,Cash on Delivery,Completed
+ORD02188,2025-01-29,CUST0054,Air Fryer,Home,1,86.06,Cash on Delivery,Completed
+ORD02405,2025-01-29,CUST0017,Cookbook,Books,1,23.77,Cash on Delivery,Completed
+ORD01567,2025-01-30,CUST0014,Power Bank,Electronics,1,30.18,Credit Card,Returned
+ORD01604,2025-01-30,CUST0234,Smart Watch,Electronics,2,114.08,PayPal,Completed
+ORD00636,2025-01-31,CUST0285,Air Fryer,Home,3,85.06,Debit Card,Completed
+ORD00641,2025-01-31,CUST0164,Hair Dryer,Beauty,3,37.35,Debit Card,Completed
+ORD01069,2025-01-31,CUST0300,Power Bank,Electronics,1,27.92,PayPal,Completed
+ORD01187,2025-01-31,CUST0076,Python Handbook,Books,1,27.47,Credit Card,Completed
+ORD01246,2025-01-31,CUST0168,Denim Jacket,Fashion,1,50.42,UPI,Completed
+ORD01492,2025-01-31,CUST0080,Backpack,Fashion,2,32.67,Debit Card,Completed
+ORD01750,2025-01-31,CUST0020,Smart Watch,Electronics,1,127.93,Debit Card,Cancelled
+ORD02006,2025-01-31,CUST0282,Bed Sheet Set,Home,2,42.27,Debit Card,Completed
+ORD02011,2025-01-31,CUST0085,Wireless Earbuds,Electronics,1,55.74,Credit Card,Completed
+ORD00676,2025-02-01,CUST0174,Perfume,Beauty,4,49.21,PayPal,Completed
+ORD00702,2025-02-01,CUST0121,Power Bank,Electronics,1,28.5,UPI,Completed
+ORD02126,2025-02-01,CUST0056,USB-C Cable,Electronics,4,8.33,Debit Card,Completed
+ORD00002,2025-02-02,CUST0016,Smart Watch,Electronics,1,113.58,UPI,Completed
+ORD00231,2025-02-02,CUST0294,Denim Jacket,Fashion,3,50.71,Credit Card,Completed
+ORD00287,2025-02-02,CUST0048,Python Handbook,Books,1,29.26,Debit Card,Completed
+ORD00587,2025-02-02,CUST0170,Perfume,Beauty,1,50.41,Credit Card,Completed
+ORD00759,2025-02-02,CUST0292,Smartphone Case,Electronics,1,11.13,Cash on Delivery,Completed
+ORD01214,2025-02-02,CUST0195,USB-C Cable,Electronics,1,8.49,PayPal,Cancelled
+ORD00708,2025-02-04,CUST0020,Cotton T-Shirt,Fashion,1,15.61,Credit Card,Completed
+ORD01033,2025-02-05,CUST0273,Denim Jacket,Fashion,1,57.16,PayPal,Completed
+ORD01089,2025-02-05,CUST0164,Cookbook,Books,1,24.16,Credit Card,Cancelled
+ORD02325,2025-02-05,CUST0124,Smartphone Case,Electronics,1,12.5,Debit Card,Completed
+ORD00435,2025-02-06,CUST0299,Backpack,Fashion,2,35.5,Credit Card,Completed
+ORD00469,2025-02-06,CUST0286,Smart Watch,Electronics,1,127.82,PayPal,Cancelled
+ORD00244,2025-02-07,CUST0204,Smartphone Case,Electronics,2,11.25,UPI,Returned
+ORD00516,2025-02-07,CUST0283,Python Handbook,Books,1,32.36,UPI,Completed
+ORD00681,2025-02-07,CUST0236,Face Serum,Beauty,1,27.9,Credit Card,Completed
+ORD01451,2025-02-07,CUST0300,Coffee Maker,Home,1,65.49,Credit Card,Completed
+ORD00835,2025-02-08,CUST0236,Power Bank,Electronics,2,27.57,UPI,Completed
+ORD02396,2025-02-08,CUST0126,Coffee Maker,Home,1,62.42,UPI,Completed
+ORD00419,2025-02-09,CUST0203,Air Fryer,Home,3,86.97,Credit Card,Completed
+ORD01007,2025-02-09,CUST0280,Power Bank,Electronics,1,26.3,Debit Card,Completed
+ORD01143,2025-02-09,CUST0141,Smart Watch,Electronics,4,130.3,Debit Card,Completed
+ORD02047,2025-02-09,CUST0273,Air Fryer,Home,1,90.44,Debit Card,Completed
+ORD00033,2025-02-10,CUST0042,USB-C Cable,Electronics,1,8.13,UPI,Returned
+ORD00490,2025-02-10,CUST0079,Denim Jacket,Fashion,3,56.07,PayPal,Completed
+ORD00634,2025-02-10,CUST0127,Running Shoes,Fashion,3,67.27,Debit Card,Completed
+ORD00650,2025-02-10,CUST0286,Backpack,Fashion,1,36.86,Cash on Delivery,Completed
+ORD01476,2025-02-10,CUST0063,Power Bank,Electronics,3,27.78,Credit Card,Completed
+ORD01507,2025-02-10,CUST0187,Cookbook,Books,1,23.88,UPI,Completed
+ORD01858,2025-02-10,CUST0001,Face Serum,Beauty,2,24.4,Credit Card,Completed
+ORD01975,2025-02-10,CUST0209,Denim Jacket,Fashion,3,57.46,Cash on Delivery,Returned
+ORD01458,2025-02-11,CUST0120,Bed Sheet Set,Home,2,43.21,UPI,Completed
+ORD00075,2025-02-12,CUST0178,USB-C Cable,Electronics,1,8.26,Credit Card,Completed
+ORD00876,2025-02-12,CUST0298,USB-C Cable,Electronics,1,7.47,Debit Card,Completed
+ORD01805,2025-02-12,CUST0036,Python Handbook,Books,1,30.29,Credit Card,Completed
+ORD02228,2025-02-12,CUST0268,Air Fryer,Home,2,87.61,UPI,Completed
+ORD02482,2025-02-12,CUST0169,Coffee Maker,Home,1,67.17,UPI,Completed
+ORD00740,2025-02-13,CUST0208,Cotton T-Shirt,Fashion,1,15.92,UPI,Completed
+ORD01313,2025-02-13,CUST0182,Air Fryer,Home,4,89.42,UPI,Completed
+ORD01789,2025-02-13,CUST0165,Smart Watch,Electronics,2,108.66,UPI,Returned
+ORD02125,2025-02-13,CUST0279,USB-C Cable,Electronics,1,7.36,UPI,Completed
+ORD02137,2025-02-13,CUST0131,Denim Jacket,Fashion,2,55.02,PayPal,Completed
+ORD02155,2025-02-14,CUST0182,Bed Sheet Set,Home,1,36.94,Cash on Delivery,Completed
+ORD02167,2025-02-14,CUST0131,Smartphone Case,Electronics,1,12.03,Debit Card,Completed
+ORD02490,2025-02-14,CUST0202,USB-C Cable,Electronics,1,8.26,Cash on Delivery,Completed
+ORD01931,2025-02-15,CUST0244,Face Serum,Beauty,2,26.21,UPI,Completed
+ORD02123,2025-02-15,CUST0285,Running Shoes,Fashion,1,64.66,PayPal,Completed
+ORD02176,2025-02-15,CUST0180,Air Fryer,Home,1,89.54,Debit Card,Completed
+ORD00502,2025-02-16,CUST0038,Cookbook,Books,1,22.01,Credit Card,Completed
+ORD01076,2025-02-16,CUST0167,Cotton T-Shirt,Fashion,2,14.2,Debit Card,Completed
+ORD01197,2025-02-16,CUST0025,Air Fryer,Home,1,97.98,Credit Card,Completed
+ORD01283,2025-02-16,CUST0009,Wireless Earbuds,Electronics,1,64.79,PayPal,Completed
+ORD01539,2025-02-17,CUST0200,Air Fryer,Home,2,97.36,Debit Card,Completed
+ORD02225,2025-02-17,CUST0224,Wireless Earbuds,Electronics,1,63.68,Debit Card,Completed
+ORD02287,2025-02-17,CUST0183,Hair Dryer,Beauty,1,39.04,Cash on Delivery,Completed
+ORD02416,2025-02-17,CUST0066,Smartphone Case,Electronics,1,11.9,Cash on Delivery,Completed
+ORD00839,2025-02-18,CUST0153,Power Bank,Electronics,4,27.45,Credit Card,Completed
+ORD00974,2025-02-18,CUST0143,Face Serum,Beauty,3,26.17,Debit Card,Completed
+ORD01584,2025-02-18,CUST0273,Hair Dryer,Beauty,1,35.95,Cash on Delivery,Completed
+ORD02197,2025-02-18,CUST0017,Power Bank,Electronics,2,27.6,Debit Card,Completed
+ORD02308,2025-02-18,CUST0209,Power Bank,Electronics,1,26.3,UPI,Completed
+ORD00340,2025-02-19,CUST0024,Cotton T-Shirt,Fashion,1,15.85,Debit Card,Completed
+ORD01820,2025-02-19,CUST0118,Perfume,Beauty,1,51.99,Credit Card,Completed
+ORD02340,2025-02-19,CUST0058,Air Fryer,Home,1,92.57,Credit Card,Completed
+ORD00604,2025-02-20,CUST0188,Cotton T-Shirt,Fashion,1,15.65,Credit Card,Returned
+ORD01358,2025-02-20,CUST0120,Hair Dryer,Beauty,1,34.49,UPI,Returned
+ORD01484,2025-02-20,CUST0192,Coffee Maker,Home,1,61.3,Cash on Delivery,Completed
+ORD00031,2025-02-21,CUST0300,Desk Lamp,Home,1,27.1,UPI,Completed
+ORD00221,2025-02-21,CUST0145,Desk Lamp,Home,1,26.91,UPI,Completed
+ORD00467,2025-02-21,CUST0260,Power Bank,Electronics,1,28.8,Debit Card,Completed
+ORD02262,2025-02-21,CUST0202,Novel Bestseller,Books,1,14.34,Debit Card,Completed
+ORD00230,2025-02-22,CUST0299,Coffee Maker,Home,1,65.32,UPI,Completed
+ORD00906,2025-02-22,CUST0171,Air Fryer,Home,1,92.35,UPI,Cancelled
+ORD01672,2025-02-22,CUST0103,Backpack,Fashion,1,35.36,Credit Card,Completed
+ORD01880,2025-02-22,CUST0255,Cookbook,Books,4,20.74,UPI,Completed
+ORD00153,2025-02-23,CUST0080,Desk Lamp,Home,1,25.59,UPI,Completed
+ORD00862,2025-02-23,CUST0095,Running Shoes,Fashion,2,74.07,Credit Card,Completed
+ORD00953,2025-02-23,CUST0104,Running Shoes,Fashion,1,71.36,Credit Card,Completed
+ORD00293,2025-02-24,CUST0051,Power Bank,Electronics,1,29.9,Debit Card,Completed
+ORD01944,2025-02-24,CUST0266,Denim Jacket,Fashion,1,59.13,PayPal,Completed
+ORD01958,2025-02-24,CUST0209,Air Fryer,Home,1,88.38,Cash on Delivery,Completed
+ORD02250,2025-02-24,CUST0292,Smart Watch,Electronics,1,109.05,Debit Card,Completed
+ORD02301,2025-02-24,CUST0050,Cotton T-Shirt,Fashion,4,13.91,UPI,Completed
+ORD00558,2025-02-25,CUST0270,Python Handbook,Books,2,29.87,UPI,Completed
+ORD00687,2025-02-25,CUST0045,Smart Watch,Electronics,1,112.3,UPI,Completed
+ORD00856,2025-02-25,CUST0123,Face Serum,Beauty,1,25.4,UPI,Completed
+ORD01943,2025-02-25,CUST0118,Python Handbook,Books,2,30.2,Cash on Delivery,Completed
+ORD00788,2025-02-26,CUST0100,Cotton T-Shirt,Fashion,1,14.17,Cash on Delivery,Completed
+ORD01733,2025-02-27,CUST0286,Smartphone Case,Electronics,1,12.34,UPI,Completed
+ORD00987,2025-02-28,CUST0122,Coffee Maker,Home,1,69.36,Cash on Delivery,Completed
+ORD00018,2025-03-01,CUST0124,Python Handbook,Books,3,32.68,Credit Card,Completed
+ORD00386,2025-03-01,CUST0242,Power Bank,Electronics,1,29.49,Cash on Delivery,Cancelled
+ORD00952,2025-03-01,CUST0153,Running Shoes,Fashion,1,67.48,Debit Card,Completed
+ORD01059,2025-03-01,CUST0198,Bed Sheet Set,Home,3,41.89,Credit Card,Completed
+ORD01356,2025-03-01,CUST0297,Air Fryer,Home,3,85.98,UPI,Completed
+ORD02245,2025-03-01,CUST0046,Python Handbook,Books,1,30.91,Cash on Delivery,Completed
+ORD02418,2025-03-01,CUST0225,Power Bank,Electronics,2,29.24,Cash on Delivery,Completed
+ORD00392,2025-03-02,CUST0012,Perfume,Beauty,1,49.97,Credit Card,Completed
+ORD01414,2025-03-02,CUST0253,Python Handbook,Books,1,28.87,Debit Card,Completed
+ORD01540,2025-03-02,CUST0052,Air Fryer,Home,1,87.17,UPI,Completed
+ORD01631,2025-03-02,CUST0192,USB-C Cable,Electronics,1,7.2,Cash on Delivery,Completed
+ORD02303,2025-03-02,CUST0130,Smartphone Case,Electronics,1,11.47,Cash on Delivery,Completed
+ORD00985,2025-03-03,CUST0066,Wireless Earbuds,Electronics,1,58.24,Cash on Delivery,Completed
+ORD01184,2025-03-03,CUST0179,Face Serum,Beauty,1,27.82,PayPal,Completed
+ORD01347,2025-03-03,CUST0143,Python Handbook,Books,3,29.3,Credit Card,Completed
+ORD01546,2025-03-03,CUST0263,Cookbook,Books,1,22.29,Cash on Delivery,Cancelled
+ORD02458,2025-03-03,CUST0231,Desk Lamp,Home,1,25.99,Credit Card,Completed
+ORD00025,2025-03-04,CUST0207,Desk Lamp,Home,2,26.5,Credit Card,Completed
+ORD00135,2025-03-04,CUST0204,Cotton T-Shirt,Fashion,1,16.4,Cash on Delivery,Completed
+ORD01398,2025-03-04,CUST0288,Smart Watch,Electronics,2,114.28,Debit Card,Completed
+ORD01564,2025-03-04,CUST0108,Running Shoes,Fashion,3,72.25,Debit Card,Completed
+ORD01320,2025-03-05,CUST0129,Running Shoes,Fashion,1,74.86,Credit Card,Completed
+ORD02220,2025-03-05,CUST0121,Novel Bestseller,Books,3,13.41,Debit Card,Completed
+ORD02343,2025-03-05,CUST0024,Power Bank,Electronics,3,28.72,Debit Card,Completed
+ORD00186,2025-03-06,CUST0057,Backpack,Fashion,2,35.0,UPI,Completed
+ORD01036,2025-03-06,CUST0113,Cookbook,Books,4,20.23,PayPal,Completed
+ORD01714,2025-03-06,CUST0010,Air Fryer,Home,1,88.51,Credit Card,Completed
+ORD01751,2025-03-06,CUST0144,Desk Lamp,Home,2,26.09,Credit Card,Completed
+ORD02085,2025-03-06,CUST0235,Coffee Maker,Home,2,61.08,PayPal,Completed
+ORD00915,2025-03-07,CUST0173,Face Serum,Beauty,1,26.61,Credit Card,Completed
+ORD02276,2025-03-07,CUST0037,Bed Sheet Set,Home,1,41.01,Cash on Delivery,Cancelled
+ORD00821,2025-03-08,CUST0187,Face Serum,Beauty,4,25.16,UPI,Cancelled
+ORD00970,2025-03-08,CUST0066,Coffee Maker,Home,2,60.16,Cash on Delivery,Completed
+ORD00996,2025-03-08,CUST0061,Air Fryer,Home,1,97.63,PayPal,Completed
+ORD01676,2025-03-08,CUST0044,Wireless Earbuds,Electronics,1,63.96,Cash on Delivery,Completed
+ORD01995,2025-03-08,CUST0149,Hair Dryer,Beauty,1,35.58,Credit Card,Cancelled
+ORD02170,2025-03-08,CUST0265,Backpack,Fashion,1,33.31,UPI,Completed
+ORD00170,2025-03-09,CUST0169,Power Bank,Electronics,1,29.0,Credit Card,Completed
+ORD02304,2025-03-09,CUST0216,Desk Lamp,Home,4,27.28,UPI,Completed
+ORD01040,2025-03-10,CUST0112,Desk Lamp,Home,1,26.34,Debit Card,Cancelled
+ORD01179,2025-03-10,CUST0058,Novel Bestseller,Books,1,15.29,Credit Card,Completed
+ORD01326,2025-03-10,CUST0225,Denim Jacket,Fashion,1,53.64,Credit Card,Completed
+ORD01802,2025-03-10,CUST0097,Face Serum,Beauty,2,24.73,Debit Card,Returned
+ORD02020,2025-03-10,CUST0100,Cotton T-Shirt,Fashion,1,14.86,Credit Card,Completed
+ORD02362,2025-03-10,CUST0059,Denim Jacket,Fashion,1,52.49,UPI,Completed
+ORD02367,2025-03-10,CUST0189,Cookbook,Books,1,24.1,Credit Card,Completed
+ORD00188,2025-03-11,CUST0270,Bed Sheet Set,Home,1,42.29,UPI,Completed
+ORD00492,2025-03-11,CUST0259,Hair Dryer,Beauty,1,38.33,Debit Card,Completed
+ORD00825,2025-03-11,CUST0256,Wireless Earbuds,Electronics,2,64.57,Debit Card,Completed
+ORD01837,2025-03-11,CUST0181,Perfume,Beauty,1,46.18,UPI,Completed
+ORD02295,2025-03-11,CUST0181,Coffee Maker,Home,3,65.32,Credit Card,Completed
+ORD00032,2025-03-12,CUST0035,Denim Jacket,Fashion,2,52.09,Credit Card,Returned
+ORD00107,2025-03-13,CUST0142,Denim Jacket,Fashion,2,58.9,Debit Card,Completed
+ORD01049,2025-03-13,CUST0099,Smart Watch,Electronics,1,131.81,Cash on Delivery,Completed
+ORD00500,2025-03-14,CUST0295,Cookbook,Books,2,23.81,Debit Card,Completed
+ORD01112,2025-03-14,CUST0138,Coffee Maker,Home,4,67.56,Credit Card,Completed
+ORD01652,2025-03-14,CUST0059,Coffee Maker,Home,1,70.23,Debit Card,Completed
+ORD01981,2025-03-14,CUST0064,USB-C Cable,Electronics,3,8.22,UPI,Completed
+ORD00570,2025-03-15,CUST0041,Backpack,Fashion,1,33.1,Debit Card,Completed
+ORD00353,2025-03-16,CUST0009,Smart Watch,Electronics,1,108.33,Credit Card,Returned
+ORD00393,2025-03-16,CUST0192,Cotton T-Shirt,Fashion,2,15.49,UPI,Completed
+ORD01549,2025-03-16,CUST0221,Denim Jacket,Fashion,2,54.62,Cash on Delivery,Cancelled
+ORD01550,2025-03-16,CUST0094,Power Bank,Electronics,2,27.1,UPI,Completed
+ORD00209,2025-03-17,CUST0231,Hair Dryer,Beauty,1,38.13,Credit Card,Completed
+ORD00296,2025-03-17,CUST0043,Cookbook,Books,1,21.47,PayPal,Completed
+ORD00757,2025-03-17,CUST0242,Denim Jacket,Fashion,1,50.1,Debit Card,Completed
+ORD01264,2025-03-18,CUST0136,Power Bank,Electronics,1,28.63,PayPal,Completed
+ORD01388,2025-03-18,CUST0168,Cookbook,Books,1,21.28,Debit Card,Completed
+ORD01692,2025-03-18,CUST0091,Python Handbook,Books,1,27.92,PayPal,Completed
+ORD00074,2025-03-19,CUST0125,Denim Jacket,Fashion,1,58.0,Cash on Delivery,Completed
+ORD00163,2025-03-19,CUST0091,Cookbook,Books,4,22.56,Debit Card,Completed
+ORD00515,2025-03-19,CUST0010,Wireless Earbuds,Electronics,2,60.55,PayPal,Completed
+ORD02193,2025-03-19,CUST0076,Air Fryer,Home,2,97.55,Credit Card,Completed
+ORD01481,2025-03-20,CUST0168,Desk Lamp,Home,1,23.23,Cash on Delivery,Completed
+ORD01824,2025-03-20,CUST0035,Hair Dryer,Beauty,2,36.24,PayPal,Completed
+ORD01927,2025-03-20,CUST0053,Face Serum,Beauty,1,24.11,Debit Card,Completed
+ORD01984,2025-03-20,CUST0048,Backpack,Fashion,1,31.76,UPI,Completed
+ORD00062,2025-03-21,CUST0147,Smart Watch,Electronics,1,116.06,Cash on Delivery,Completed
+ORD00616,2025-03-21,CUST0167,Coffee Maker,Home,2,60.75,PayPal,Completed
+ORD01193,2025-03-21,CUST0240,Hair Dryer,Beauty,1,39.16,Debit Card,Completed
+ORD01219,2025-03-21,CUST0297,Face Serum,Beauty,2,25.08,Cash on Delivery,Returned
+ORD00196,2025-03-22,CUST0221,Smart Watch,Electronics,2,127.74,UPI,Completed
+ORD02400,2025-03-22,CUST0294,Air Fryer,Home,2,98.0,Credit Card,Completed
+ORD01052,2025-03-23,CUST0185,Perfume,Beauty,1,44.81,Debit Card,Completed
+ORD01123,2025-03-23,CUST0040,Cookbook,Books,2,23.96,Credit Card,Completed
+ORD01483,2025-03-23,CUST0222,Power Bank,Electronics,4,29.64,UPI,Cancelled
+ORD01702,2025-03-23,CUST0229,Air Fryer,Home,1,94.4,Credit Card,Completed
+ORD00442,2025-03-24,CUST0250,Smartphone Case,Electronics,1,13.17,Debit Card,Completed
+ORD00736,2025-03-24,CUST0236,Cotton T-Shirt,Fashion,2,14.37,Credit Card,Completed
+ORD00769,2025-03-24,CUST0172,Coffee Maker,Home,2,59.21,Cash on Delivery,Completed
+ORD01462,2025-03-24,CUST0095,Power Bank,Electronics,1,26.34,Credit Card,Completed
+ORD01372,2025-03-25,CUST0210,Running Shoes,Fashion,1,76.77,UPI,Completed
+ORD01630,2025-03-25,CUST0174,Hair Dryer,Beauty,1,34.91,Credit Card,Returned
+ORD01718,2025-03-25,CUST0271,Power Bank,Electronics,1,28.57,Cash on Delivery,Cancelled
+ORD01851,2025-03-25,CUST0125,Bed Sheet Set,Home,1,39.85,Cash on Delivery,Completed
+ORD00497,2025-03-26,CUST0050,USB-C Cable,Electronics,1,8.73,UPI,Completed
+ORD00817,2025-03-26,CUST0168,Wireless Earbuds,Electronics,1,57.64,Debit Card,Completed
+ORD01770,2025-03-26,CUST0126,Wireless Earbuds,Electronics,2,61.54,Cash on Delivery,Completed
+ORD01965,2025-03-26,CUST0237,Cotton T-Shirt,Fashion,3,15.97,Credit Card,Cancelled
+ORD00068,2025-03-27,CUST0220,Desk Lamp,Home,1,24.81,Credit Card,Completed
+ORD01491,2025-03-27,CUST0107,Cotton T-Shirt,Fashion,2,15.09,Debit Card,Completed
+ORD01887,2025-03-27,CUST0183,Cotton T-Shirt,Fashion,2,14.56,Debit Card,Completed
+ORD02147,2025-03-27,CUST0228,Face Serum,Beauty,4,27.2,UPI,Completed
+ORD02268,2025-03-27,CUST0091,Perfume,Beauty,4,51.77,UPI,Completed
+ORD00168,2025-03-28,CUST0259,Novel Bestseller,Books,2,12.71,UPI,Cancelled
+ORD00717,2025-03-28,CUST0075,Perfume,Beauty,1,51.09,PayPal,Completed
+ORD00924,2025-03-28,CUST0174,Running Shoes,Fashion,1,76.75,Credit Card,Completed
+ORD01106,2025-03-28,CUST0064,Desk Lamp,Home,1,24.32,UPI,Completed
+ORD01691,2025-03-28,CUST0164,Hair Dryer,Beauty,3,41.01,Credit Card,Completed
+ORD02424,2025-03-28,CUST0045,Smartphone Case,Electronics,4,11.09,Debit Card,Completed
+ORD00146,2025-03-29,CUST0048,Running Shoes,Fashion,1,73.42,Debit Card,Completed
+ORD00627,2025-03-29,CUST0058,Coffee Maker,Home,2,61.66,UPI,Completed
+ORD01353,2025-03-29,CUST0128,Power Bank,Electronics,2,26.86,UPI,Completed
+ORD01683,2025-03-29,CUST0190,Bed Sheet Set,Home,1,37.08,Debit Card,Completed
+ORD00546,2025-03-30,CUST0142,Coffee Maker,Home,2,63.09,Debit Card,Completed
+ORD01295,2025-03-30,CUST0139,Coffee Maker,Home,1,68.03,Debit Card,Returned
+ORD01323,2025-03-30,CUST0299,Python Handbook,Books,1,32.76,Credit Card,Completed
+ORD01654,2025-03-30,CUST0285,Smartphone Case,Electronics,2,11.28,UPI,Completed
+ORD02249,2025-03-30,CUST0162,Face Serum,Beauty,1,23.82,Cash on Delivery,Completed
+ORD00682,2025-03-31,CUST0171,USB-C Cable,Electronics,1,7.27,UPI,Completed
+ORD00775,2025-03-31,CUST0042,Smart Watch,Electronics,1,112.29,Cash on Delivery,Completed
+ORD00101,2025-04-01,CUST0162,Air Fryer,Home,1,83.09,PayPal,Returned
+ORD00160,2025-04-01,CUST0224,Cotton T-Shirt,Fashion,2,14.23,UPI,Completed
+ORD00468,2025-04-01,CUST0256,Backpack,Fashion,1,32.33,Debit Card,Completed
+ORD00542,2025-04-01,CUST0033,Perfume,Beauty,1,46.76,UPI,Completed
+ORD00794,2025-04-01,CUST0004,Backpack,Fashion,1,37.9,Debit Card,Completed
+ORD01595,2025-04-01,CUST0186,Wireless Earbuds,Electronics,1,63.13,Debit Card,Completed
+ORD00951,2025-04-02,CUST0079,Power Bank,Electronics,1,27.48,Credit Card,Completed
+ORD01099,2025-04-02,CUST0238,Smart Watch,Electronics,3,123.61,Credit Card,Completed
+ORD01206,2025-04-02,CUST0037,Bed Sheet Set,Home,1,42.18,Credit Card,Completed
+ORD01228,2025-04-02,CUST0009,Wireless Earbuds,Electronics,2,57.95,Debit Card,Completed
+ORD01818,2025-04-02,CUST0224,Air Fryer,Home,1,85.11,Debit Card,Cancelled
+ORD01998,2025-04-02,CUST0268,Air Fryer,Home,1,90.63,Debit Card,Completed
+ORD02144,2025-04-02,CUST0211,Python Handbook,Books,1,27.95,UPI,Completed
+ORD00125,2025-04-03,CUST0152,Coffee Maker,Home,1,63.9,Credit Card,Completed
+ORD00456,2025-04-03,CUST0262,Coffee Maker,Home,1,67.91,Cash on Delivery,Completed
+ORD00547,2025-04-03,CUST0282,Running Shoes,Fashion,1,74.62,Cash on Delivery,Completed
+ORD00152,2025-04-04,CUST0272,Wireless Earbuds,Electronics,1,58.05,Debit Card,Completed
+ORD00181,2025-04-04,CUST0114,Smart Watch,Electronics,2,129.23,Cash on Delivery,Completed
+ORD00408,2025-04-04,CUST0279,Cotton T-Shirt,Fashion,1,14.61,Debit Card,Completed
+ORD00655,2025-04-04,CUST0059,Desk Lamp,Home,2,25.67,Credit Card,Completed
+ORD02248,2025-04-04,CUST0060,Python Handbook,Books,1,32.85,UPI,Completed
+ORD02353,2025-04-04,CUST0026,Smart Watch,Electronics,1,119.02,UPI,Completed
+ORD02417,2025-04-04,CUST0233,Python Handbook,Books,2,32.75,UPI,Completed
+ORD00272,2025-04-05,CUST0275,Perfume,Beauty,2,45.03,Credit Card,Completed
+ORD00889,2025-04-05,CUST0205,Backpack,Fashion,1,33.18,PayPal,Completed
+ORD01247,2025-04-05,CUST0179,Smartphone Case,Electronics,2,12.36,Debit Card,Completed
+ORD01569,2025-04-05,CUST0215,Denim Jacket,Fashion,4,50.74,Debit Card,Cancelled
+ORD00082,2025-04-06,CUST0151,Running Shoes,Fashion,1,72.69,Debit Card,Completed
+ORD01211,2025-04-06,CUST0179,Backpack,Fashion,1,36.0,Cash on Delivery,Completed
+ORD01558,2025-04-06,CUST0090,Running Shoes,Fashion,1,71.1,UPI,Completed
+ORD01842,2025-04-06,CUST0197,Smartphone Case,Electronics,1,11.33,Credit Card,Completed
+ORD01898,2025-04-06,CUST0071,Smartphone Case,Electronics,3,12.25,Cash on Delivery,Completed
+ORD02101,2025-04-06,CUST0012,Hair Dryer,Beauty,2,39.09,Credit Card,Returned
+ORD02104,2025-04-06,CUST0059,Air Fryer,Home,1,81.87,Credit Card,Completed
+ORD01284,2025-04-07,CUST0052,Smartphone Case,Electronics,1,12.57,Debit Card,Completed
+ORD01973,2025-04-07,CUST0233,Python Handbook,Books,1,31.33,PayPal,Completed
+ORD00840,2025-04-08,CUST0173,USB-C Cable,Electronics,1,8.11,UPI,Completed
+ORD01772,2025-04-08,CUST0006,Smart Watch,Electronics,2,122.24,UPI,Completed
+ORD02286,2025-04-08,CUST0036,Power Bank,Electronics,1,29.61,UPI,Completed
+ORD00803,2025-04-09,CUST0274,Cotton T-Shirt,Fashion,1,15.97,Credit Card,Completed
+ORD01395,2025-04-09,CUST0113,Cotton T-Shirt,Fashion,1,16.14,PayPal,Completed
+ORD01619,2025-04-09,CUST0260,Coffee Maker,Home,2,65.46,Credit Card,Completed
+ORD02371,2025-04-09,CUST0070,Perfume,Beauty,2,44.06,Debit Card,Cancelled
+ORD00607,2025-04-10,CUST0052,USB-C Cable,Electronics,2,8.05,Credit Card,Completed
+ORD01204,2025-04-10,CUST0008,Air Fryer,Home,1,96.67,UPI,Cancelled
+ORD01379,2025-04-10,CUST0119,Cotton T-Shirt,Fashion,1,14.52,UPI,Returned
+ORD01494,2025-04-10,CUST0203,Running Shoes,Fashion,1,76.89,UPI,Completed
+ORD00027,2025-04-11,CUST0026,Hair Dryer,Beauty,2,38.31,Credit Card,Completed
+ORD00813,2025-04-12,CUST0297,Running Shoes,Fashion,2,70.4,UPI,Cancelled
+ORD01102,2025-04-12,CUST0167,Denim Jacket,Fashion,1,59.5,PayPal,Completed
+ORD01109,2025-04-12,CUST0023,Denim Jacket,Fashion,1,51.57,Credit Card,Completed
+ORD01151,2025-04-12,CUST0039,Smart Watch,Electronics,3,122.86,Debit Card,Completed
+ORD00112,2025-04-13,CUST0270,Perfume,Beauty,3,43.35,Credit Card,Returned
+ORD01525,2025-04-13,CUST0278,Smartphone Case,Electronics,1,12.24,Credit Card,Completed
+ORD01989,2025-04-13,CUST0090,Smartphone Case,Electronics,2,11.41,Debit Card,Completed
+ORD02178,2025-04-13,CUST0264,Coffee Maker,Home,1,62.76,UPI,Completed
+ORD02265,2025-04-13,CUST0043,Coffee Maker,Home,4,64.52,UPI,Completed
+ORD02272,2025-04-13,CUST0227,Smart Watch,Electronics,2,128.27,Debit Card,Completed
+ORD02355,2025-04-13,CUST0182,Smart Watch,Electronics,2,130.85,Cash on Delivery,Completed
+ORD02393,2025-04-13,CUST0128,Perfume,Beauty,1,52.49,Cash on Delivery,Completed
+ORD00404,2025-04-14,CUST0170,Running Shoes,Fashion,1,65.66,UPI,Completed
+ORD00560,2025-04-14,CUST0167,USB-C Cable,Electronics,1,8.58,Credit Card,Completed
+ORD01278,2025-04-14,CUST0113,Backpack,Fashion,2,37.66,Credit Card,Completed
+ORD01327,2025-04-14,CUST0061,Novel Bestseller,Books,1,12.74,UPI,Completed
+ORD01608,2025-04-14,CUST0047,Power Bank,Electronics,2,26.95,Debit Card,Completed
+ORD01778,2025-04-14,CUST0085,Python Handbook,Books,1,31.44,Cash on Delivery,Completed
+ORD01855,2025-04-14,CUST0043,Desk Lamp,Home,1,26.19,Credit Card,Completed
+ORD00330,2025-04-15,CUST0127,Smart Watch,Electronics,1,131.98,Debit Card,Completed
+ORD00378,2025-04-15,CUST0072,Smart Watch,Electronics,1,109.48,PayPal,Completed
+ORD02084,2025-04-15,CUST0201,Denim Jacket,Fashion,1,59.06,UPI,Cancelled
+ORD02127,2025-04-15,CUST0127,Smart Watch,Electronics,1,125.1,Debit Card,Cancelled
+ORD02419,2025-04-15,CUST0244,Perfume,Beauty,2,49.83,Debit Card,Completed
+ORD02485,2025-04-15,CUST0183,Novel Bestseller,Books,2,12.65,Cash on Delivery,Completed
+ORD00731,2025-04-16,CUST0018,Cotton T-Shirt,Fashion,1,15.21,Credit Card,Completed
+ORD01255,2025-04-16,CUST0288,Coffee Maker,Home,1,66.4,Cash on Delivery,Completed
+ORD01928,2025-04-16,CUST0281,Running Shoes,Fashion,1,64.9,UPI,Completed
+ORD00397,2025-04-17,CUST0255,USB-C Cable,Electronics,1,8.39,Credit Card,Cancelled
+ORD00609,2025-04-17,CUST0086,Backpack,Fashion,2,35.35,UPI,Completed
+ORD00917,2025-04-17,CUST0026,Hair Dryer,Beauty,3,37.53,Debit Card,Completed
+ORD01177,2025-04-17,CUST0139,Novel Bestseller,Books,3,14.45,Cash on Delivery,Completed
+ORD01662,2025-04-17,CUST0120,Denim Jacket,Fashion,1,49.54,Credit Card,Completed
+ORD01905,2025-04-17,CUST0009,Hair Dryer,Beauty,1,39.74,Credit Card,Completed
+ORD00934,2025-04-18,CUST0168,Coffee Maker,Home,1,61.0,PayPal,Completed
+ORD01116,2025-04-18,CUST0064,Perfume,Beauty,1,50.19,Debit Card,Completed
+ORD01262,2025-04-18,CUST0166,Python Handbook,Books,3,31.35,Credit Card,Completed
+ORD00312,2025-04-19,CUST0006,Backpack,Fashion,1,33.05,UPI,Completed
+ORD00417,2025-04-19,CUST0289,Desk Lamp,Home,2,26.43,Cash on Delivery,Returned
+ORD01163,2025-04-19,CUST0196,Cookbook,Books,3,20.93,UPI,Completed
+ORD01170,2025-04-19,CUST0278,Desk Lamp,Home,2,24.19,UPI,Completed
+ORD01383,2025-04-19,CUST0119,USB-C Cable,Electronics,2,7.43,Credit Card,Completed
+ORD01496,2025-04-19,CUST0163,Cookbook,Books,1,22.14,Credit Card,Completed
+ORD01762,2025-04-19,CUST0116,Air Fryer,Home,2,89.17,PayPal,Returned
+ORD02056,2025-04-19,CUST0287,Hair Dryer,Beauty,2,37.01,Credit Card,Completed
+ORD02078,2025-04-19,CUST0069,USB-C Cable,Electronics,1,7.3,Credit Card,Completed
+ORD00297,2025-04-20,CUST0047,Cotton T-Shirt,Fashion,1,14.42,Debit Card,Completed
+ORD00603,2025-04-20,CUST0249,Face Serum,Beauty,1,23.57,UPI,Completed
+ORD02264,2025-04-20,CUST0022,Perfume,Beauty,1,49.92,UPI,Completed
+ORD00073,2025-04-21,CUST0297,Power Bank,Electronics,1,26.95,UPI,Cancelled
+ORD00632,2025-04-21,CUST0010,Bed Sheet Set,Home,1,43.07,Debit Card,Cancelled
+ORD00824,2025-04-21,CUST0063,Smart Watch,Electronics,1,119.93,UPI,Completed
+ORD00977,2025-04-21,CUST0243,Python Handbook,Books,1,29.04,Credit Card,Completed
+ORD00983,2025-04-21,CUST0053,Denim Jacket,Fashion,1,57.35,UPI,Completed
+ORD01411,2025-04-21,CUST0232,Hair Dryer,Beauty,1,41.61,Debit Card,Completed
+ORD00730,2025-04-22,CUST0074,Backpack,Fashion,1,34.52,UPI,Completed
+ORD01276,2025-04-22,CUST0026,Backpack,Fashion,2,38.21,Credit Card,Completed
+ORD01924,2025-04-22,CUST0157,Denim Jacket,Fashion,2,54.17,UPI,Completed
+ORD01920,2025-04-23,CUST0138,Coffee Maker,Home,2,65.29,UPI,Completed
+ORD02428,2025-04-23,CUST0253,Power Bank,Electronics,1,26.18,Cash on Delivery,Cancelled
+ORD02446,2025-04-23,CUST0272,USB-C Cable,Electronics,1,8.09,Credit Card,Completed
+ORD00602,2025-04-24,CUST0050,Cotton T-Shirt,Fashion,1,13.7,PayPal,Completed
+ORD00727,2025-04-24,CUST0095,Coffee Maker,Home,1,64.57,Cash on Delivery,Completed
+ORD00969,2025-04-24,CUST0143,Smart Watch,Electronics,1,119.86,UPI,Completed
+ORD00995,2025-04-24,CUST0174,Air Fryer,Home,3,86.49,Credit Card,Completed
+ORD01240,2025-04-24,CUST0236,Desk Lamp,Home,3,23.11,Credit Card,Completed
+ORD02270,2025-04-24,CUST0173,Power Bank,Electronics,1,29.23,Credit Card,Returned
+ORD01148,2025-04-25,CUST0050,Cotton T-Shirt,Fashion,2,15.55,PayPal,Completed
+ORD01610,2025-04-25,CUST0098,Wireless Earbuds,Electronics,1,63.82,UPI,Completed
+ORD01978,2025-04-25,CUST0282,Backpack,Fashion,1,35.68,Cash on Delivery,Completed
+ORD02452,2025-04-25,CUST0047,Hair Dryer,Beauty,1,38.87,Credit Card,Completed
+ORD00592,2025-04-26,CUST0121,Smartphone Case,Electronics,2,11.58,Credit Card,Completed
+ORD01174,2025-04-26,CUST0252,Perfume,Beauty,1,44.26,Credit Card,Cancelled
+ORD01548,2025-04-26,CUST0273,USB-C Cable,Electronics,1,8.02,Cash on Delivery,Completed
+ORD02059,2025-04-26,CUST0247,Python Handbook,Books,1,27.99,Credit Card,Completed
+ORD02476,2025-04-26,CUST0211,Bed Sheet Set,Home,1,38.31,Debit Card,Cancelled
+ORD00202,2025-04-27,CUST0014,Coffee Maker,Home,2,64.99,Debit Card,Completed
+ORD00306,2025-04-27,CUST0289,Novel Bestseller,Books,1,15.39,Credit Card,Completed
+ORD01346,2025-04-27,CUST0011,Backpack,Fashion,1,31.74,Credit Card,Completed
+ORD01418,2025-04-27,CUST0020,Smart Watch,Electronics,3,119.88,UPI,Completed
+ORD00014,2025-04-28,CUST0275,Desk Lamp,Home,2,26.34,Debit Card,Completed
+ORD00696,2025-04-28,CUST0238,Air Fryer,Home,1,82.76,Debit Card,Completed
+ORD01141,2025-04-28,CUST0135,Power Bank,Electronics,4,26.59,PayPal,Completed
+ORD01213,2025-04-28,CUST0143,Backpack,Fashion,1,35.32,Cash on Delivery,Completed
+ORD02398,2025-04-28,CUST0105,Denim Jacket,Fashion,2,54.58,Cash on Delivery,Returned
+ORD00362,2025-04-29,CUST0117,Cookbook,Books,2,19.81,Cash on Delivery,Completed
+ORD00481,2025-04-29,CUST0181,Bed Sheet Set,Home,1,40.66,Cash on Delivery,Completed
+ORD00719,2025-04-29,CUST0027,Power Bank,Electronics,1,27.43,Debit Card,Completed
+ORD01085,2025-04-29,CUST0294,Coffee Maker,Home,1,69.59,Cash on Delivery,Completed
+ORD01337,2025-04-29,CUST0225,Denim Jacket,Fashion,1,56.27,Cash on Delivery,Completed
+ORD02106,2025-04-29,CUST0058,Desk Lamp,Home,1,23.02,Cash on Delivery,Completed
+ORD02254,2025-04-29,CUST0212,Smart Watch,Electronics,2,110.11,UPI,Completed
+ORD00782,2025-04-30,CUST0022,Smartphone Case,Electronics,4,12.18,Debit Card,Completed
+ORD00806,2025-04-30,CUST0068,Running Shoes,Fashion,3,69.71,Debit Card,Completed
+ORD01100,2025-04-30,CUST0043,Running Shoes,Fashion,1,71.98,Cash on Delivery,Completed
+ORD02217,2025-04-30,CUST0008,Wireless Earbuds,Electronics,1,55.17,Credit Card,Completed
+ORD00252,2025-05-01,CUST0152,Cookbook,Books,1,20.77,Cash on Delivery,Completed
+ORD00331,2025-05-01,CUST0122,Novel Bestseller,Books,1,14.67,UPI,Returned
+ORD00669,2025-05-02,CUST0013,Face Serum,Beauty,1,27.54,UPI,Completed
+ORD01175,2025-05-02,CUST0185,Cotton T-Shirt,Fashion,3,16.26,Cash on Delivery,Completed
+ORD02114,2025-05-02,CUST0073,Smart Watch,Electronics,1,118.17,Debit Card,Completed
+ORD00358,2025-05-03,CUST0007,Smartphone Case,Electronics,2,12.48,Credit Card,Cancelled
+ORD00799,2025-05-03,CUST0192,Smart Watch,Electronics,1,121.81,PayPal,Completed
+ORD00820,2025-05-03,CUST0074,Running Shoes,Fashion,1,72.73,Cash on Delivery,Completed
+ORD01518,2025-05-03,CUST0101,USB-C Cable,Electronics,1,7.93,Cash on Delivery,Returned
+ORD02312,2025-05-03,CUST0015,Coffee Maker,Home,1,69.45,UPI,Completed
+ORD00021,2025-05-04,CUST0127,Perfume,Beauty,1,46.45,UPI,Completed
+ORD00746,2025-05-04,CUST0141,Wireless Earbuds,Electronics,1,58.0,UPI,Completed
+ORD01433,2025-05-04,CUST0286,Cookbook,Books,3,22.67,Credit Card,Returned
+ORD00059,2025-05-05,CUST0234,Denim Jacket,Fashion,1,54.61,UPI,Completed
+ORD00857,2025-05-05,CUST0274,Hair Dryer,Beauty,3,40.72,Debit Card,Returned
+ORD02024,2025-05-05,CUST0098,Perfume,Beauty,1,43.91,UPI,Completed
+ORD01345,2025-05-06,CUST0191,Coffee Maker,Home,2,68.74,Credit Card,Completed
+ORD02489,2025-05-06,CUST0025,Power Bank,Electronics,1,30.35,Debit Card,Cancelled
+ORD00797,2025-05-08,CUST0148,Backpack,Fashion,1,34.94,UPI,Completed
+ORD00966,2025-05-08,CUST0237,Wireless Earbuds,Electronics,1,55.38,Credit Card,Completed
+ORD01104,2025-05-08,CUST0107,Cookbook,Books,4,23.75,Credit Card,Completed
+ORD01114,2025-05-08,CUST0273,Power Bank,Electronics,1,28.27,Credit Card,Completed
+ORD02493,2025-05-08,CUST0005,Smartphone Case,Electronics,1,11.32,UPI,Completed
+ORD00019,2025-05-09,CUST0066,USB-C Cable,Electronics,2,8.71,Credit Card,Completed
+ORD01192,2025-05-09,CUST0109,Smart Watch,Electronics,1,109.34,Debit Card,Completed
+ORD01572,2025-05-09,CUST0113,Denim Jacket,Fashion,1,58.36,Credit Card,Completed
+ORD02281,2025-05-09,CUST0112,Cotton T-Shirt,Fashion,2,15.21,Credit Card,Completed
+ORD00749,2025-05-10,CUST0106,Backpack,Fashion,1,33.4,Debit Card,Completed
+ORD01374,2025-05-10,CUST0018,Running Shoes,Fashion,2,63.34,Credit Card,Completed
+ORD01831,2025-05-10,CUST0019,Backpack,Fashion,1,35.7,Debit Card,Completed
+ORD01864,2025-05-10,CUST0077,Smart Watch,Electronics,2,114.78,Debit Card,Completed
+ORD02233,2025-05-10,CUST0012,Denim Jacket,Fashion,3,50.96,Cash on Delivery,Completed
+ORD01302,2025-05-11,CUST0279,Bed Sheet Set,Home,3,43.02,Credit Card,Completed
+ORD01787,2025-05-11,CUST0262,Python Handbook,Books,1,31.56,Debit Card,Cancelled
+ORD01790,2025-05-11,CUST0246,Denim Jacket,Fashion,2,58.2,Cash on Delivery,Completed
+ORD02196,2025-05-11,CUST0064,Cotton T-Shirt,Fashion,2,15.58,Credit Card,Completed
+ORD00380,2025-05-12,CUST0048,Smart Watch,Electronics,3,127.9,Debit Card,Completed
+ORD00832,2025-05-12,CUST0188,Wireless Earbuds,Electronics,1,61.86,Credit Card,Returned
+ORD01571,2025-05-12,CUST0166,Perfume,Beauty,2,46.71,UPI,Completed
+ORD01910,2025-05-12,CUST0296,Power Bank,Electronics,1,28.79,Credit Card,Completed
+ORD00172,2025-05-13,CUST0044,Air Fryer,Home,1,87.78,PayPal,Completed
+ORD00210,2025-05-13,CUST0222,Coffee Maker,Home,1,69.79,PayPal,Completed
+ORD01317,2025-05-13,CUST0166,Bed Sheet Set,Home,1,40.65,UPI,Completed
+ORD01150,2025-05-14,CUST0062,Wireless Earbuds,Electronics,1,64.53,Cash on Delivery,Completed
+ORD01688,2025-05-14,CUST0006,Running Shoes,Fashion,2,63.27,Debit Card,Returned
+ORD02041,2025-05-14,CUST0153,Hair Dryer,Beauty,3,36.77,UPI,Completed
+ORD02115,2025-05-14,CUST0109,Cotton T-Shirt,Fashion,2,14.28,Credit Card,Completed
+ORD00911,2025-05-15,CUST0151,Backpack,Fashion,2,34.23,Debit Card,Cancelled
+ORD01448,2025-05-16,CUST0159,Coffee Maker,Home,1,67.68,Credit Card,Completed
+ORD01523,2025-05-16,CUST0268,Desk Lamp,Home,1,23.54,Credit Card,Completed
+ORD01690,2025-05-16,CUST0178,Cotton T-Shirt,Fashion,2,15.16,Debit Card,Completed
+ORD02342,2025-05-16,CUST0296,Backpack,Fashion,1,36.27,Debit Card,Completed
+ORD02374,2025-05-16,CUST0225,Coffee Maker,Home,2,67.27,Credit Card,Cancelled
+ORD00261,2025-05-17,CUST0179,Hair Dryer,Beauty,1,41.75,Debit Card,Completed
+ORD00747,2025-05-17,CUST0052,Running Shoes,Fashion,2,71.85,Debit Card,Completed
+ORD00963,2025-05-17,CUST0002,Desk Lamp,Home,2,22.52,Credit Card,Completed
+ORD01042,2025-05-17,CUST0171,Hair Dryer,Beauty,1,39.99,UPI,Cancelled
+ORD01159,2025-05-17,CUST0139,Power Bank,Electronics,3,25.49,Cash on Delivery,Cancelled
+ORD01161,2025-05-17,CUST0210,Perfume,Beauty,3,46.03,Cash on Delivery,Completed
+ORD01868,2025-05-17,CUST0168,Perfume,Beauty,2,49.99,UPI,Cancelled
+ORD00513,2025-05-18,CUST0170,Cotton T-Shirt,Fashion,3,14.89,Debit Card,Completed
+ORD00644,2025-05-18,CUST0258,Smart Watch,Electronics,2,119.25,UPI,Completed
+ORD01541,2025-05-18,CUST0038,Smart Watch,Electronics,1,126.61,Debit Card,Completed
+ORD01970,2025-05-18,CUST0239,Perfume,Beauty,2,49.89,UPI,Completed
+ORD02095,2025-05-18,CUST0187,Desk Lamp,Home,1,26.45,Cash on Delivery,Completed
+ORD02111,2025-05-18,CUST0077,Power Bank,Electronics,1,27.3,Credit Card,Completed
+ORD02319,2025-05-18,CUST0223,Novel Bestseller,Books,3,12.93,Credit Card,Completed
+ORD00334,2025-05-19,CUST0211,Desk Lamp,Home,3,27.46,Cash on Delivery,Completed
+ORD00653,2025-05-19,CUST0202,Hair Dryer,Beauty,1,37.63,Credit Card,Completed
+ORD01422,2025-05-19,CUST0085,Hair Dryer,Beauty,1,40.5,Credit Card,Completed
+ORD00304,2025-05-20,CUST0154,Hair Dryer,Beauty,1,41.4,Credit Card,Completed
+ORD00374,2025-05-20,CUST0300,Smartphone Case,Electronics,1,11.05,Debit Card,Completed
+ORD00848,2025-05-20,CUST0015,Power Bank,Electronics,1,29.7,UPI,Completed
+ORD01082,2025-05-20,CUST0274,Running Shoes,Fashion,2,69.89,PayPal,Completed
+ORD00124,2025-05-21,CUST0050,Cookbook,Books,3,22.64,Debit Card,Completed
+ORD00441,2025-05-21,CUST0103,Smartphone Case,Electronics,1,13.17,Cash on Delivery,Cancelled
+ORD00645,2025-05-21,CUST0084,Backpack,Fashion,1,31.73,PayPal,Completed
+ORD01387,2025-05-21,CUST0143,Running Shoes,Fashion,2,64.63,Debit Card,Completed
+ORD01896,2025-05-21,CUST0133,Power Bank,Electronics,2,30.8,Credit Card,Completed
+ORD02320,2025-05-21,CUST0176,Smart Watch,Electronics,3,121.32,Debit Card,Completed
+ORD00771,2025-05-22,CUST0172,Coffee Maker,Home,1,59.98,Debit Card,Returned
+ORD00943,2025-05-22,CUST0259,Denim Jacket,Fashion,2,57.88,UPI,Completed
+ORD01181,2025-05-22,CUST0126,Novel Bestseller,Books,1,14.14,UPI,Completed
+ORD01499,2025-05-22,CUST0258,Coffee Maker,Home,4,66.29,UPI,Cancelled
+ORD00787,2025-05-23,CUST0283,Running Shoes,Fashion,1,63.35,UPI,Completed
+ORD02143,2025-05-23,CUST0014,Hair Dryer,Beauty,1,34.59,Debit Card,Returned
+ORD00131,2025-05-24,CUST0024,Desk Lamp,Home,3,24.02,Debit Card,Completed
+ORD01207,2025-05-24,CUST0064,Smart Watch,Electronics,4,119.72,Debit Card,Completed
+ORD01590,2025-05-24,CUST0206,Power Bank,Electronics,1,29.34,Cash on Delivery,Completed
+ORD01201,2025-05-25,CUST0083,Coffee Maker,Home,4,65.02,Cash on Delivery,Completed
+ORD01563,2025-05-25,CUST0128,Face Serum,Beauty,1,23.45,UPI,Completed
+ORD02292,2025-05-25,CUST0235,Wireless Earbuds,Electronics,1,59.24,Credit Card,Completed
+ORD01287,2025-05-26,CUST0183,Face Serum,Beauty,1,24.67,UPI,Cancelled
+ORD01509,2025-05-26,CUST0125,Cotton T-Shirt,Fashion,2,14.13,Credit Card,Completed
+ORD01747,2025-05-26,CUST0135,Perfume,Beauty,1,52.15,Cash on Delivery,Returned
+ORD02266,2025-05-26,CUST0169,Desk Lamp,Home,2,26.02,Debit Card,Completed
+ORD01078,2025-05-27,CUST0267,Smartphone Case,Electronics,3,12.68,UPI,Completed
+ORD01362,2025-05-27,CUST0013,Cotton T-Shirt,Fashion,1,15.86,Debit Card,Completed
+ORD00225,2025-05-28,CUST0102,Bed Sheet Set,Home,2,39.21,Credit Card,Completed
+ORD00291,2025-05-28,CUST0204,Hair Dryer,Beauty,3,36.47,UPI,Completed
+ORD00853,2025-05-28,CUST0055,Face Serum,Beauty,1,28.44,Debit Card,Completed
+ORD00138,2025-05-29,CUST0067,Bed Sheet Set,Home,1,42.39,Credit Card,Returned
+ORD00855,2025-05-29,CUST0186,Power Bank,Electronics,1,27.26,Debit Card,Completed
+ORD01575,2025-05-29,CUST0297,Cotton T-Shirt,Fashion,2,16.05,UPI,Completed
+ORD01615,2025-05-29,CUST0007,Smartphone Case,Electronics,1,13.12,Cash on Delivery,Completed
+ORD00335,2025-05-30,CUST0165,Face Serum,Beauty,2,27.36,UPI,Completed
+ORD01508,2025-05-30,CUST0135,Python Handbook,Books,2,30.48,PayPal,Completed
+ORD01792,2025-05-30,CUST0021,Wireless Earbuds,Electronics,1,57.74,Debit Card,Completed
+ORD01801,2025-05-30,CUST0131,Cotton T-Shirt,Fashion,2,14.26,Cash on Delivery,Completed
+ORD02198,2025-05-30,CUST0101,Bed Sheet Set,Home,2,36.61,Credit Card,Completed
+ORD00527,2025-05-31,CUST0029,USB-C Cable,Electronics,1,8.68,UPI,Completed
+ORD00786,2025-05-31,CUST0290,Cookbook,Books,2,23.86,Debit Card,Completed
+ORD00986,2025-05-31,CUST0241,Denim Jacket,Fashion,1,53.27,Debit Card,Completed
+ORD01272,2025-05-31,CUST0237,Desk Lamp,Home,3,26.23,Credit Card,Returned
+ORD01429,2025-05-31,CUST0074,Hair Dryer,Beauty,1,40.85,Debit Card,Returned
+ORD01999,2025-05-31,CUST0170,Face Serum,Beauty,1,24.93,PayPal,Returned
+ORD02278,2025-05-31,CUST0024,Cotton T-Shirt,Fashion,1,13.71,Credit Card,Cancelled
+ORD00776,2025-06-01,CUST0255,Wireless Earbuds,Electronics,1,55.51,Cash on Delivery,Completed
+ORD01096,2025-06-01,CUST0193,Running Shoes,Fashion,4,68.98,PayPal,Returned
+ORD01870,2025-06-01,CUST0022,Perfume,Beauty,3,45.5,UPI,Cancelled
+ORD02322,2025-06-01,CUST0123,Air Fryer,Home,2,97.33,UPI,Completed
+ORD02397,2025-06-01,CUST0115,Running Shoes,Fashion,1,74.52,Credit Card,Completed
+ORD00089,2025-06-02,CUST0289,Coffee Maker,Home,3,59.61,Credit Card,Completed
+ORD01951,2025-06-03,CUST0181,Desk Lamp,Home,1,25.86,PayPal,Completed
+ORD00586,2025-06-04,CUST0008,Wireless Earbuds,Electronics,1,57.13,Debit Card,Completed
+ORD01552,2025-06-04,CUST0133,Smart Watch,Electronics,3,122.03,PayPal,Completed
+ORD02427,2025-06-04,CUST0181,Hair Dryer,Beauty,1,41.58,UPI,Completed
+ORD02438,2025-06-04,CUST0147,Denim Jacket,Fashion,1,53.05,Cash on Delivery,Returned
+ORD02469,2025-06-04,CUST0201,Wireless Earbuds,Electronics,1,61.31,PayPal,Completed
+ORD00922,2025-06-05,CUST0272,Denim Jacket,Fashion,1,52.01,PayPal,Completed
+ORD01378,2025-06-05,CUST0004,Desk Lamp,Home,1,24.35,UPI,Completed
+ORD02439,2025-06-05,CUST0163,Running Shoes,Fashion,1,72.31,UPI,Completed
+ORD00063,2025-06-06,CUST0110,Smart Watch,Electronics,1,117.78,UPI,Completed
+ORD00620,2025-06-06,CUST0026,Denim Jacket,Fashion,2,60.47,Cash on Delivery,Completed
+ORD01734,2025-06-06,CUST0071,Smartphone Case,Electronics,1,11.58,PayPal,Completed
+ORD01850,2025-06-06,CUST0051,Perfume,Beauty,2,48.06,Debit Card,Completed
+ORD00499,2025-06-07,CUST0013,Running Shoes,Fashion,1,67.64,Credit Card,Completed
+ORD00704,2025-06-07,CUST0148,Perfume,Beauty,4,49.63,Credit Card,Completed
+ORD00886,2025-06-07,CUST0015,Perfume,Beauty,1,51.17,UPI,Completed
+ORD01152,2025-06-07,CUST0023,Cookbook,Books,1,21.64,UPI,Returned
+ORD00030,2025-06-08,CUST0098,Air Fryer,Home,1,98.44,UPI,Completed
+ORD00044,2025-06-08,CUST0122,Hair Dryer,Beauty,3,41.62,PayPal,Returned
+ORD01210,2025-06-08,CUST0054,Python Handbook,Books,1,27.95,Debit Card,Completed
+ORD01513,2025-06-08,CUST0066,Cotton T-Shirt,Fashion,1,14.38,Debit Card,Completed
+ORD02002,2025-06-08,CUST0204,Perfume,Beauty,2,47.59,Debit Card,Returned
+ORD02300,2025-06-08,CUST0261,Hair Dryer,Beauty,3,37.84,Credit Card,Completed
+ORD02408,2025-06-08,CUST0117,Python Handbook,Books,1,31.75,Debit Card,Completed
+ORD00913,2025-06-10,CUST0252,Smartphone Case,Electronics,1,11.8,Cash on Delivery,Completed
+ORD00919,2025-06-10,CUST0150,Perfume,Beauty,2,50.51,Debit Card,Returned
+ORD01405,2025-06-10,CUST0145,Python Handbook,Books,1,28.38,PayPal,Completed
+ORD00216,2025-06-11,CUST0226,Wireless Earbuds,Electronics,1,58.58,Debit Card,Completed
+ORD00594,2025-06-11,CUST0256,Python Handbook,Books,1,30.71,Cash on Delivery,Cancelled
+ORD01940,2025-06-11,CUST0273,Perfume,Beauty,2,45.27,Debit Card,Completed
+ORD01983,2025-06-11,CUST0111,Denim Jacket,Fashion,2,55.06,Credit Card,Completed
+ORD00342,2025-06-12,CUST0141,Perfume,Beauty,1,46.66,Credit Card,Completed
+ORD01318,2025-06-12,CUST0119,Wireless Earbuds,Electronics,1,54.35,Cash on Delivery,Completed
+ORD01709,2025-06-12,CUST0156,Smart Watch,Electronics,2,128.49,Credit Card,Completed
+ORD02119,2025-06-12,CUST0004,Cotton T-Shirt,Fashion,1,15.63,Credit Card,Completed
+ORD00541,2025-06-14,CUST0200,Desk Lamp,Home,4,22.53,Credit Card,Completed
+ORD01081,2025-06-14,CUST0168,Face Serum,Beauty,3,27.38,Credit Card,Completed
+ORD01190,2025-06-14,CUST0006,Cookbook,Books,1,21.66,Cash on Delivery,Completed
+ORD02019,2025-06-14,CUST0290,Running Shoes,Fashion,2,71.43,PayPal,Completed
+ORD01828,2025-06-15,CUST0022,Smartphone Case,Electronics,1,11.71,Credit Card,Completed
+ORD02488,2025-06-15,CUST0213,Air Fryer,Home,3,95.47,Credit Card,Completed
+ORD00247,2025-06-16,CUST0235,Novel Bestseller,Books,2,14.61,Credit Card,Completed
+ORD00401,2025-06-16,CUST0232,Python Handbook,Books,1,32.07,Credit Card,Completed
+ORD00657,2025-06-16,CUST0075,Coffee Maker,Home,1,67.76,Debit Card,Completed
+ORD00890,2025-06-16,CUST0199,Smartphone Case,Electronics,2,11.48,PayPal,Completed
+ORD01352,2025-06-16,CUST0196,Bed Sheet Set,Home,1,43.94,Credit Card,Returned
+ORD01456,2025-06-16,CUST0240,Perfume,Beauty,1,50.42,Debit Card,Completed
+ORD01566,2025-06-16,CUST0016,Face Serum,Beauty,1,24.99,UPI,Returned
+ORD01171,2025-06-17,CUST0158,Backpack,Fashion,1,32.58,Credit Card,Completed
+ORD01679,2025-06-17,CUST0213,Face Serum,Beauty,1,28.13,Debit Card,Completed
+ORD02491,2025-06-18,CUST0155,Perfume,Beauty,3,46.83,PayPal,Completed
+ORD00067,2025-06-19,CUST0240,Cookbook,Books,3,24.12,UPI,Returned
+ORD00332,2025-06-19,CUST0072,Air Fryer,Home,2,95.64,PayPal,Completed
+ORD01249,2025-06-19,CUST0106,Cotton T-Shirt,Fashion,4,14.96,Cash on Delivery,Completed
+ORD01585,2025-06-19,CUST0116,Running Shoes,Fashion,2,73.52,Credit Card,Cancelled
+ORD01996,2025-06-19,CUST0207,Hair Dryer,Beauty,2,39.57,UPI,Completed
+ORD00028,2025-06-20,CUST0209,Python Handbook,Books,1,28.28,Debit Card,Completed
+ORD00359,2025-06-20,CUST0191,Cotton T-Shirt,Fashion,1,15.84,Credit Card,Returned
+ORD00461,2025-06-20,CUST0058,Perfume,Beauty,1,50.17,Cash on Delivery,Completed
+ORD00573,2025-06-20,CUST0204,Coffee Maker,Home,1,59.33,Cash on Delivery,Completed
+ORD01154,2025-06-20,CUST0141,Running Shoes,Fashion,2,64.81,Credit Card,Completed
+ORD01432,2025-06-20,CUST0143,Coffee Maker,Home,2,69.42,UPI,Completed
+ORD01500,2025-06-20,CUST0292,Denim Jacket,Fashion,2,57.03,Cash on Delivery,Completed
+ORD02117,2025-06-20,CUST0032,Running Shoes,Fashion,1,73.1,Credit Card,Completed
+ORD02497,2025-06-20,CUST0029,Running Shoes,Fashion,1,66.49,Credit Card,Completed
+ORD00301,2025-06-21,CUST0223,Running Shoes,Fashion,1,67.2,PayPal,Completed
+ORD00327,2025-06-21,CUST0043,Novel Bestseller,Books,1,14.83,Credit Card,Completed
+ORD02298,2025-06-21,CUST0049,Air Fryer,Home,1,90.3,UPI,Completed
+ORD00328,2025-06-22,CUST0235,Power Bank,Electronics,1,29.53,Debit Card,Completed
+ORD00443,2025-06-22,CUST0296,Denim Jacket,Fashion,2,54.89,PayPal,Completed
+ORD00957,2025-06-22,CUST0126,USB-C Cable,Electronics,1,7.88,Cash on Delivery,Completed
+ORD02025,2025-06-22,CUST0297,Wireless Earbuds,Electronics,1,54.76,Debit Card,Completed
+ORD02267,2025-06-22,CUST0013,Coffee Maker,Home,1,66.57,Cash on Delivery,Completed
+ORD00055,2025-06-23,CUST0044,Hair Dryer,Beauty,1,39.25,UPI,Completed
+ORD00280,2025-06-23,CUST0072,Cotton T-Shirt,Fashion,2,14.96,Cash on Delivery,Completed
+ORD00407,2025-06-24,CUST0150,Smartphone Case,Electronics,4,11.94,Credit Card,Completed
+ORD00743,2025-06-24,CUST0033,USB-C Cable,Electronics,2,7.37,Debit Card,Completed
+ORD01066,2025-06-24,CUST0091,Smart Watch,Electronics,1,124.9,Credit Card,Completed
+ORD01128,2025-06-24,CUST0192,Backpack,Fashion,4,33.87,UPI,Completed
+ORD01282,2025-06-24,CUST0005,Face Serum,Beauty,1,28.44,UPI,Completed
+ORD01310,2025-06-24,CUST0262,Smartphone Case,Electronics,2,12.11,Debit Card,Completed
+ORD01963,2025-06-24,CUST0268,Cotton T-Shirt,Fashion,1,15.51,UPI,Completed
+ORD00213,2025-06-25,CUST0173,Coffee Maker,Home,2,65.83,PayPal,Completed
+ORD02021,2025-06-25,CUST0104,Perfume,Beauty,1,52.43,Credit Card,Completed
+ORD02500,2025-06-25,CUST0093,Cotton T-Shirt,Fashion,1,14.42,UPI,Completed
+ORD00322,2025-06-26,CUST0153,Cookbook,Books,3,22.4,UPI,Completed
+ORD01498,2025-06-26,CUST0051,Backpack,Fashion,1,36.07,Cash on Delivery,Completed
+ORD00413,2025-06-27,CUST0086,Smart Watch,Electronics,4,127.4,Credit Card,Completed
+ORD00424,2025-06-27,CUST0099,Running Shoes,Fashion,3,65.81,Credit Card,Completed
+ORD02394,2025-06-27,CUST0059,Running Shoes,Fashion,3,73.66,Debit Card,Completed
+ORD02444,2025-06-27,CUST0040,Face Serum,Beauty,1,24.94,UPI,Returned
+ORD01321,2025-06-28,CUST0165,Desk Lamp,Home,1,24.75,Credit Card,Completed
+ORD01565,2025-06-28,CUST0266,Smartphone Case,Electronics,4,12.58,PayPal,Completed
+ORD00248,2025-06-29,CUST0208,Smartphone Case,Electronics,2,12.04,Credit Card,Completed
+ORD01479,2025-06-29,CUST0044,Coffee Maker,Home,1,60.14,Credit Card,Completed
+ORD02000,2025-06-29,CUST0098,Coffee Maker,Home,1,69.41,PayPal,Completed
+ORD00564,2025-06-30,CUST0216,Wireless Earbuds,Electronics,1,64.85,PayPal,Completed
+ORD01051,2025-06-30,CUST0128,Smart Watch,Electronics,1,121.83,Cash on Delivery,Completed
+ORD01698,2025-06-30,CUST0102,Running Shoes,Fashion,1,75.29,UPI,Completed
+ORD02050,2025-06-30,CUST0176,USB-C Cable,Electronics,3,7.63,Credit Card,Completed
+ORD02339,2025-06-30,CUST0222,Power Bank,Electronics,3,28.03,Debit Card,Completed
+ORD02430,2025-06-30,CUST0193,Smart Watch,Electronics,2,124.44,Credit Card,Returned
+ORD00577,2025-07-01,CUST0234,USB-C Cable,Electronics,2,8.22,UPI,Completed
+ORD01018,2025-07-01,CUST0017,USB-C Cable,Electronics,2,8.17,Credit Card,Completed
+ORD01522,2025-07-01,CUST0021,Smart Watch,Electronics,4,114.38,Credit Card,Completed
+ORD02015,2025-07-01,CUST0268,Smart Watch,Electronics,1,121.98,Debit Card,Completed
+ORD02244,2025-07-01,CUST0258,Novel Bestseller,Books,1,14.17,Debit Card,Completed
+ORD02461,2025-07-01,CUST0204,Air Fryer,Home,1,85.46,UPI,Cancelled
+ORD00994,2025-07-02,CUST0101,Python Handbook,Books,1,32.06,Cash on Delivery,Completed
+ORD01427,2025-07-02,CUST0135,Bed Sheet Set,Home,1,37.01,UPI,Completed
+ORD01611,2025-07-02,CUST0204,Cookbook,Books,2,20.13,Credit Card,Completed
+ORD01728,2025-07-02,CUST0168,Air Fryer,Home,2,94.69,UPI,Completed
+ORD02345,2025-07-02,CUST0066,Perfume,Beauty,1,44.99,Debit Card,Completed
+ORD02360,2025-07-02,CUST0182,Coffee Maker,Home,1,63.4,PayPal,Completed
+ORD00898,2025-07-03,CUST0094,Air Fryer,Home,2,81.81,Debit Card,Completed
+ORD01097,2025-07-03,CUST0027,Smart Watch,Electronics,1,120.37,Debit Card,Completed
+ORD01470,2025-07-03,CUST0084,Perfume,Beauty,1,48.17,Credit Card,Completed
+ORD00883,2025-07-04,CUST0087,Power Bank,Electronics,2,29.81,UPI,Completed
+ORD01243,2025-07-04,CUST0153,Denim Jacket,Fashion,1,51.47,UPI,Completed
+ORD01871,2025-07-04,CUST0214,Hair Dryer,Beauty,1,34.27,Debit Card,Completed
+ORD00437,2025-07-05,CUST0151,Cookbook,Books,1,20.36,Credit Card,Completed
+ORD00588,2025-07-05,CUST0099,Backpack,Fashion,3,33.25,Debit Card,Completed
+ORD01118,2025-07-05,CUST0177,Perfume,Beauty,2,49.71,PayPal,Completed
+ORD01554,2025-07-05,CUST0052,Power Bank,Electronics,1,28.57,PayPal,Completed
+ORD01627,2025-07-05,CUST0016,Coffee Maker,Home,2,64.93,Credit Card,Completed
+ORD01188,2025-07-06,CUST0241,Python Handbook,Books,2,31.49,UPI,Completed
+ORD01446,2025-07-06,CUST0045,Wireless Earbuds,Electronics,1,60.08,Cash on Delivery,Completed
+ORD01576,2025-07-06,CUST0008,Coffee Maker,Home,1,58.94,PayPal,Completed
+ORD02029,2025-07-06,CUST0053,Cookbook,Books,2,20.95,Cash on Delivery,Completed
+ORD02158,2025-07-06,CUST0150,Air Fryer,Home,2,96.93,Cash on Delivery,Completed
+ORD00323,2025-07-07,CUST0192,Wireless Earbuds,Electronics,2,59.13,Debit Card,Completed
+ORD00460,2025-07-07,CUST0059,Cotton T-Shirt,Fashion,1,16.39,Credit Card,Completed
+ORD00554,2025-07-07,CUST0098,Perfume,Beauty,1,45.12,UPI,Returned
+ORD01800,2025-07-07,CUST0255,Bed Sheet Set,Home,1,39.13,UPI,Returned
+ORD02420,2025-07-07,CUST0136,USB-C Cable,Electronics,1,7.78,UPI,Completed
+ORD00572,2025-07-08,CUST0012,Denim Jacket,Fashion,1,52.08,Credit Card,Completed
+ORD01708,2025-07-08,CUST0112,USB-C Cable,Electronics,1,7.83,Credit Card,Completed
+ORD01869,2025-07-08,CUST0004,Cookbook,Books,3,20.52,Credit Card,Completed
+ORD01783,2025-07-09,CUST0299,Wireless Earbuds,Electronics,1,59.7,Credit Card,Completed
+ORD02237,2025-07-09,CUST0039,USB-C Cable,Electronics,1,8.28,PayPal,Completed
+ORD01579,2025-07-10,CUST0131,Perfume,Beauty,1,51.57,PayPal,Completed
+ORD01695,2025-07-10,CUST0047,Wireless Earbuds,Electronics,2,54.18,Debit Card,Completed
+ORD01765,2025-07-10,CUST0037,Smartphone Case,Electronics,1,11.89,Credit Card,Cancelled
+ORD00195,2025-07-11,CUST0255,Perfume,Beauty,2,46.73,PayPal,Completed
+ORD00325,2025-07-11,CUST0162,Denim Jacket,Fashion,2,56.31,Cash on Delivery,Cancelled
+ORD00382,2025-07-11,CUST0141,Smartphone Case,Electronics,1,12.92,Credit Card,Completed
+ORD02028,2025-07-11,CUST0039,Coffee Maker,Home,1,60.6,Credit Card,Completed
+ORD00167,2025-07-12,CUST0165,USB-C Cable,Electronics,2,8.0,Cash on Delivery,Completed
+ORD00273,2025-07-12,CUST0287,Desk Lamp,Home,1,23.54,Cash on Delivery,Completed
+ORD00422,2025-07-12,CUST0227,Desk Lamp,Home,1,26.62,UPI,Completed
+ORD00433,2025-07-12,CUST0077,Power Bank,Electronics,1,26.55,Credit Card,Completed
+ORD01449,2025-07-12,CUST0140,Denim Jacket,Fashion,3,51.45,Credit Card,Completed
+ORD01638,2025-07-12,CUST0207,Perfume,Beauty,1,43.76,Cash on Delivery,Completed
+ORD01699,2025-07-12,CUST0096,Wireless Earbuds,Electronics,2,62.02,Credit Card,Completed
+ORD01892,2025-07-12,CUST0002,Smart Watch,Electronics,1,108.41,UPI,Completed
+ORD00581,2025-07-13,CUST0211,Power Bank,Electronics,3,27.65,Credit Card,Completed
+ORD00947,2025-07-13,CUST0244,Hair Dryer,Beauty,1,34.34,UPI,Completed
+ORD01166,2025-07-13,CUST0292,Python Handbook,Books,1,31.38,UPI,Completed
+ORD00024,2025-07-14,CUST0049,Novel Bestseller,Books,1,13.81,Debit Card,Completed
+ORD00274,2025-07-14,CUST0061,Face Serum,Beauty,2,27.32,Cash on Delivery,Completed
+ORD00601,2025-07-14,CUST0269,Backpack,Fashion,2,36.86,Credit Card,Completed
+ORD00738,2025-07-14,CUST0072,Smart Watch,Electronics,1,108.61,Cash on Delivery,Completed
+ORD01155,2025-07-14,CUST0204,Cookbook,Books,1,22.14,UPI,Completed
+ORD02351,2025-07-14,CUST0268,USB-C Cable,Electronics,2,7.48,Credit Card,Completed
+ORD02399,2025-07-14,CUST0170,Backpack,Fashion,1,35.9,PayPal,Cancelled
+ORD02462,2025-07-14,CUST0080,Wireless Earbuds,Electronics,2,62.44,Credit Card,Completed
+ORD00737,2025-07-15,CUST0154,Hair Dryer,Beauty,2,41.01,UPI,Completed
+ORD00904,2025-07-15,CUST0045,Hair Dryer,Beauty,1,37.72,Debit Card,Completed
+ORD00174,2025-07-16,CUST0116,Backpack,Fashion,4,32.58,Credit Card,Completed
+ORD00910,2025-07-16,CUST0241,Power Bank,Electronics,1,26.5,Credit Card,Returned
+ORD01797,2025-07-16,CUST0172,Power Bank,Electronics,1,27.5,Credit Card,Completed
+ORD01245,2025-07-17,CUST0016,Wireless Earbuds,Electronics,1,59.21,PayPal,Completed
+ORD01248,2025-07-17,CUST0129,Backpack,Fashion,1,36.31,Cash on Delivery,Completed
+ORD02013,2025-07-17,CUST0172,Wireless Earbuds,Electronics,2,62.82,Credit Card,Cancelled
+ORD02169,2025-07-17,CUST0149,Running Shoes,Fashion,1,74.03,Debit Card,Completed
+ORD02395,2025-07-17,CUST0147,Perfume,Beauty,2,50.73,Debit Card,Completed
+ORD00508,2025-07-18,CUST0059,Bed Sheet Set,Home,1,42.4,Cash on Delivery,Completed
+ORD01288,2025-07-18,CUST0194,Running Shoes,Fashion,2,76.52,Cash on Delivery,Completed
+ORD01408,2025-07-18,CUST0160,Air Fryer,Home,2,88.65,UPI,Completed
+ORD02222,2025-07-19,CUST0162,Coffee Maker,Home,1,69.76,UPI,Completed
+ORD02403,2025-07-19,CUST0159,Smartphone Case,Electronics,1,11.24,Debit Card,Completed
+ORD02431,2025-07-19,CUST0001,Denim Jacket,Fashion,2,58.48,Credit Card,Completed
+ORD02442,2025-07-19,CUST0105,Desk Lamp,Home,2,23.62,UPI,Completed
+ORD00699,2025-07-20,CUST0106,Air Fryer,Home,2,86.7,UPI,Returned
+ORD01391,2025-07-20,CUST0136,Face Serum,Beauty,1,25.92,Credit Card,Completed
+ORD02051,2025-07-20,CUST0072,Backpack,Fashion,1,37.21,Credit Card,Completed
+ORD02191,2025-07-20,CUST0041,Face Serum,Beauty,1,26.5,Cash on Delivery,Completed
+ORD01935,2025-07-22,CUST0068,Smartphone Case,Electronics,1,10.95,Debit Card,Completed
+ORD00425,2025-07-23,CUST0141,Power Bank,Electronics,1,27.8,Debit Card,Returned
+ORD00867,2025-07-23,CUST0135,Perfume,Beauty,2,44.82,Debit Card,Completed
+ORD00993,2025-07-23,CUST0102,Running Shoes,Fashion,1,66.07,Credit Card,Completed
+ORD02410,2025-07-23,CUST0103,Face Serum,Beauty,1,28.57,UPI,Completed
+ORD00046,2025-07-24,CUST0236,Face Serum,Beauty,1,27.67,Cash on Delivery,Completed
+ORD00795,2025-07-24,CUST0096,Coffee Maker,Home,2,62.26,Debit Card,Completed
+ORD01918,2025-07-25,CUST0142,Air Fryer,Home,2,98.34,Credit Card,Completed
+ORD00192,2025-07-26,CUST0023,Cotton T-Shirt,Fashion,2,16.16,Debit Card,Completed
+ORD00414,2025-07-26,CUST0076,Perfume,Beauty,2,45.68,Cash on Delivery,Returned
+ORD00454,2025-07-26,CUST0184,Cookbook,Books,2,21.1,Credit Card,Completed
+ORD00838,2025-07-26,CUST0255,Smart Watch,Electronics,2,131.38,Credit Card,Completed
+ORD02099,2025-07-26,CUST0009,Face Serum,Beauty,1,24.97,Cash on Delivery,Completed
+ORD01002,2025-07-27,CUST0232,Smartphone Case,Electronics,3,11.75,Debit Card,Returned
+ORD01677,2025-07-27,CUST0078,Power Bank,Electronics,4,26.92,Credit Card,Completed
+ORD02255,2025-07-27,CUST0160,Perfume,Beauty,2,43.99,Cash on Delivery,Completed
+ORD02376,2025-07-27,CUST0060,Bed Sheet Set,Home,2,41.04,Debit Card,Completed
+ORD00103,2025-07-28,CUST0137,Desk Lamp,Home,1,27.14,Debit Card,Completed
+ORD00538,2025-07-28,CUST0212,Perfume,Beauty,1,48.55,Credit Card,Completed
+ORD01361,2025-07-28,CUST0167,Denim Jacket,Fashion,1,58.62,UPI,Completed
+ORD01809,2025-07-28,CUST0278,Novel Bestseller,Books,2,15.27,Credit Card,Completed
+ORD02460,2025-07-28,CUST0110,Air Fryer,Home,2,88.34,UPI,Completed
+ORD01050,2025-07-29,CUST0121,USB-C Cable,Electronics,1,7.88,Debit Card,Completed
+ORD01740,2025-07-29,CUST0095,Air Fryer,Home,1,87.97,Credit Card,Returned
+ORD02022,2025-07-29,CUST0085,Wireless Earbuds,Electronics,2,54.03,Credit Card,Completed
+ORD00837,2025-07-30,CUST0173,Python Handbook,Books,1,31.87,UPI,Completed
+ORD00948,2025-07-30,CUST0126,Perfume,Beauty,2,51.25,UPI,Completed
+ORD01348,2025-07-30,CUST0195,Denim Jacket,Fashion,1,54.24,Credit Card,Completed
+ORD01647,2025-07-30,CUST0060,Smart Watch,Electronics,3,108.11,Credit Card,Completed
+ORD01021,2025-07-31,CUST0067,Air Fryer,Home,3,86.58,PayPal,Completed
+ORD00137,2025-08-01,CUST0111,USB-C Cable,Electronics,2,7.57,PayPal,Completed
+ORD00375,2025-08-01,CUST0232,Power Bank,Electronics,1,26.68,Credit Card,Completed
+ORD00661,2025-08-01,CUST0026,USB-C Cable,Electronics,1,7.29,Debit Card,Completed
+ORD01452,2025-08-01,CUST0176,Cotton T-Shirt,Fashion,2,15.01,PayPal,Completed
+ORD01486,2025-08-01,CUST0010,Smart Watch,Electronics,2,123.77,Credit Card,Completed
+ORD00675,2025-08-02,CUST0296,Desk Lamp,Home,2,26.5,Cash on Delivery,Completed
+ORD01588,2025-08-02,CUST0035,Bed Sheet Set,Home,1,39.28,Credit Card,Completed
+ORD00307,2025-08-03,CUST0225,Smart Watch,Electronics,2,127.95,Credit Card,Completed
+ORD01606,2025-08-03,CUST0286,Python Handbook,Books,2,30.28,Debit Card,Completed
+ORD01764,2025-08-03,CUST0278,Novel Bestseller,Books,2,15.26,Credit Card,Completed
+ORD01381,2025-08-04,CUST0221,Hair Dryer,Beauty,1,38.57,UPI,Completed
+ORD01657,2025-08-04,CUST0163,Denim Jacket,Fashion,1,49.66,Credit Card,Completed
+ORD00156,2025-08-05,CUST0071,Power Bank,Electronics,2,26.82,Credit Card,Completed
+ORD00449,2025-08-05,CUST0012,Smartphone Case,Electronics,1,11.21,Debit Card,Completed
+ORD00507,2025-08-05,CUST0212,Perfume,Beauty,3,51.37,Credit Card,Completed
+ORD00629,2025-08-05,CUST0105,USB-C Cable,Electronics,1,8.4,UPI,Completed
+ORD00888,2025-08-05,CUST0025,Coffee Maker,Home,2,62.18,PayPal,Completed
+ORD01364,2025-08-05,CUST0161,USB-C Cable,Electronics,1,8.45,UPI,Completed
+ORD01938,2025-08-05,CUST0038,Smartphone Case,Electronics,1,11.06,Credit Card,Completed
+ORD00873,2025-08-06,CUST0197,Backpack,Fashion,2,36.65,Credit Card,Completed
+ORD01890,2025-08-06,CUST0086,Novel Bestseller,Books,1,14.38,PayPal,Completed
+ORD02350,2025-08-07,CUST0121,Hair Dryer,Beauty,1,35.35,UPI,Completed
+ORD00023,2025-08-08,CUST0277,Smart Watch,Electronics,1,130.45,UPI,Completed
+ORD00239,2025-08-08,CUST0104,Smart Watch,Electronics,2,114.51,UPI,Completed
+ORD00376,2025-08-09,CUST0168,Desk Lamp,Home,1,26.06,Cash on Delivery,Completed
+ORD02373,2025-08-09,CUST0038,Perfume,Beauty,1,47.91,Debit Card,Completed
+ORD00678,2025-08-10,CUST0269,Cotton T-Shirt,Fashion,1,13.84,PayPal,Completed
+ORD01932,2025-08-10,CUST0211,Smart Watch,Electronics,3,110.4,UPI,Completed
+ORD02003,2025-08-10,CUST0159,Coffee Maker,Home,1,71.43,Credit Card,Completed
+ORD02140,2025-08-10,CUST0249,Face Serum,Beauty,1,23.66,Debit Card,Completed
+ORD02358,2025-08-10,CUST0079,Smartphone Case,Electronics,1,11.19,UPI,Completed
+ORD00726,2025-08-11,CUST0063,USB-C Cable,Electronics,2,7.39,Cash on Delivery,Completed
+ORD01027,2025-08-11,CUST0253,Wireless Earbuds,Electronics,1,62.09,Credit Card,Completed
+ORD01556,2025-08-11,CUST0182,Face Serum,Beauty,1,27.96,Cash on Delivery,Completed
+ORD01742,2025-08-11,CUST0262,Bed Sheet Set,Home,1,36.1,PayPal,Returned
+ORD00258,2025-08-12,CUST0297,Wireless Earbuds,Electronics,1,58.1,UPI,Completed
+ORD02392,2025-08-12,CUST0295,Air Fryer,Home,2,90.6,PayPal,Completed
+ORD01088,2025-08-13,CUST0256,Novel Bestseller,Books,2,13.01,Credit Card,Completed
+ORD01162,2025-08-13,CUST0144,Power Bank,Electronics,1,30.64,UPI,Cancelled
+ORD01819,2025-08-13,CUST0300,Denim Jacket,Fashion,2,56.09,PayPal,Completed
+ORD02306,2025-08-13,CUST0068,Coffee Maker,Home,1,64.21,Debit Card,Returned
+ORD02454,2025-08-13,CUST0222,Running Shoes,Fashion,1,63.29,UPI,Completed
+ORD00003,2025-08-14,CUST0230,Air Fryer,Home,1,95.57,Credit Card,Completed
+ORD00582,2025-08-14,CUST0135,Air Fryer,Home,1,92.26,UPI,Completed
+ORD00760,2025-08-14,CUST0152,Power Bank,Electronics,2,29.62,UPI,Completed
+ORD01164,2025-08-14,CUST0167,Smart Watch,Electronics,1,121.96,PayPal,Completed
+ORD01811,2025-08-14,CUST0144,Smartphone Case,Electronics,1,11.37,Debit Card,Completed
+ORD02016,2025-08-14,CUST0144,Power Bank,Electronics,1,30.22,Debit Card,Completed
+ORD02429,2025-08-14,CUST0286,Coffee Maker,Home,1,60.63,Debit Card,Completed
+ORD01400,2025-08-15,CUST0294,Backpack,Fashion,3,35.25,PayPal,Completed
+ORD00621,2025-08-16,CUST0222,Desk Lamp,Home,1,24.47,Credit Card,Completed
+ORD00646,2025-08-16,CUST0104,Smart Watch,Electronics,2,109.59,Cash on Delivery,Cancelled
+ORD02055,2025-08-16,CUST0176,Denim Jacket,Fashion,1,58.1,Debit Card,Completed
+ORD00395,2025-08-17,CUST0090,Perfume,Beauty,1,50.25,Credit Card,Completed
+ORD00517,2025-08-17,CUST0149,Smart Watch,Electronics,1,120.03,Credit Card,Completed
+ORD01720,2025-08-17,CUST0002,Smartphone Case,Electronics,1,12.78,Debit Card,Completed
+ORD01777,2025-08-17,CUST0175,Smartphone Case,Electronics,3,12.2,Debit Card,Completed
+ORD00364,2025-08-18,CUST0165,Air Fryer,Home,1,97.49,Debit Card,Completed
+ORD00866,2025-08-18,CUST0011,Hair Dryer,Beauty,3,41.22,UPI,Completed
+ORD01366,2025-08-18,CUST0290,Wireless Earbuds,Electronics,1,59.88,UPI,Completed
+ORD00487,2025-08-19,CUST0189,Perfume,Beauty,2,48.45,UPI,Completed
+ORD00772,2025-08-19,CUST0165,Coffee Maker,Home,1,61.98,UPI,Completed
+ORD01091,2025-08-19,CUST0027,Denim Jacket,Fashion,3,58.04,Cash on Delivery,Completed
+ORD01127,2025-08-19,CUST0090,Hair Dryer,Beauty,1,40.58,UPI,Cancelled
+ORD01659,2025-08-19,CUST0095,Wireless Earbuds,Electronics,2,57.06,UPI,Completed
+ORD02282,2025-08-19,CUST0011,Perfume,Beauty,1,47.91,Debit Card,Completed
+ORD00548,2025-08-20,CUST0100,Perfume,Beauty,1,47.08,Credit Card,Completed
+ORD00818,2025-08-20,CUST0284,Air Fryer,Home,1,98.73,Debit Card,Completed
+ORD00975,2025-08-20,CUST0217,Running Shoes,Fashion,4,75.84,Credit Card,Completed
+ORD01969,2025-08-20,CUST0056,Running Shoes,Fashion,1,70.79,UPI,Completed
+ORD02172,2025-08-20,CUST0168,Running Shoes,Fashion,2,75.87,UPI,Cancelled
+ORD00808,2025-08-21,CUST0158,Smartphone Case,Electronics,1,11.11,Credit Card,Completed
+ORD02459,2025-08-21,CUST0091,Denim Jacket,Fashion,2,60.42,Credit Card,Returned
+ORD00421,2025-08-22,CUST0069,Desk Lamp,Home,1,26.22,PayPal,Completed
+ORD01519,2025-08-22,CUST0104,Cookbook,Books,1,19.94,UPI,Cancelled
+ORD02118,2025-08-22,CUST0067,Air Fryer,Home,1,86.07,UPI,Returned
+ORD01122,2025-08-23,CUST0157,Hair Dryer,Beauty,2,34.86,Debit Card,Completed
+ORD01655,2025-08-23,CUST0020,Running Shoes,Fashion,2,65.58,PayPal,Completed
+ORD00289,2025-08-24,CUST0109,Face Serum,Beauty,3,27.0,UPI,Completed
+ORD00756,2025-08-24,CUST0057,Cotton T-Shirt,Fashion,1,13.79,UPI,Returned
+ORD00761,2025-08-24,CUST0045,USB-C Cable,Electronics,1,8.03,Cash on Delivery,Completed
+ORD01468,2025-08-24,CUST0071,Hair Dryer,Beauty,1,34.54,Debit Card,Completed
+ORD01736,2025-08-24,CUST0299,Coffee Maker,Home,1,63.04,Credit Card,Returned
+ORD02040,2025-08-24,CUST0278,Hair Dryer,Beauty,1,39.67,UPI,Completed
+ORD01816,2025-08-25,CUST0195,Power Bank,Electronics,2,27.83,Credit Card,Returned
+ORD01911,2025-08-25,CUST0128,Wireless Earbuds,Electronics,2,61.73,UPI,Completed
+ORD00908,2025-08-26,CUST0032,Air Fryer,Home,1,88.6,Debit Card,Completed
+ORD01394,2025-08-26,CUST0150,Perfume,Beauty,2,47.91,UPI,Completed
+ORD01531,2025-08-26,CUST0110,Wireless Earbuds,Electronics,1,56.7,PayPal,Completed
+ORD00007,2025-08-27,CUST0052,Wireless Earbuds,Electronics,1,58.45,PayPal,Completed
+ORD01084,2025-08-27,CUST0115,Backpack,Fashion,1,33.54,Credit Card,Completed
+ORD00177,2025-08-28,CUST0274,Smart Watch,Electronics,1,131.17,PayPal,Returned
+ORD00720,2025-08-28,CUST0195,Cookbook,Books,2,21.52,Credit Card,Completed
+ORD00874,2025-08-29,CUST0242,Power Bank,Electronics,3,30.78,Cash on Delivery,Cancelled
+ORD01183,2025-08-29,CUST0186,Desk Lamp,Home,1,27.47,Credit Card,Completed
+ORD01752,2025-08-29,CUST0230,Coffee Maker,Home,2,71.45,Credit Card,Completed
+ORD01854,2025-08-29,CUST0147,Smart Watch,Electronics,1,127.31,Debit Card,Completed
+ORD00182,2025-08-30,CUST0198,Cotton T-Shirt,Fashion,4,14.62,Credit Card,Returned
+ORD00200,2025-08-30,CUST0188,Wireless Earbuds,Electronics,1,64.3,Credit Card,Completed
+ORD00563,2025-08-30,CUST0285,Power Bank,Electronics,1,27.33,Credit Card,Cancelled
+ORD01332,2025-08-30,CUST0253,Desk Lamp,Home,1,27.24,Cash on Delivery,Completed
+ORD02088,2025-08-30,CUST0284,Bed Sheet Set,Home,1,37.89,Credit Card,Completed
+ORD00267,2025-08-31,CUST0155,Bed Sheet Set,Home,3,43.89,UPI,Completed
+ORD01139,2025-08-31,CUST0027,Running Shoes,Fashion,2,67.79,Cash on Delivery,Completed
+ORD01319,2025-08-31,CUST0054,Cookbook,Books,3,20.57,Cash on Delivery,Completed
+ORD01930,2025-08-31,CUST0061,Power Bank,Electronics,1,26.6,UPI,Completed
+ORD00139,2025-09-01,CUST0166,Power Bank,Electronics,1,26.69,Credit Card,Completed
+ORD00485,2025-09-01,CUST0262,Air Fryer,Home,2,95.38,Credit Card,Completed
+ORD00718,2025-09-01,CUST0226,Backpack,Fashion,2,32.67,UPI,Completed
+ORD01046,2025-09-01,CUST0228,Wireless Earbuds,Electronics,2,56.98,Credit Card,Completed
+ORD01338,2025-09-01,CUST0119,Running Shoes,Fashion,1,63.14,Debit Card,Completed
+ORD02023,2025-09-01,CUST0263,Smart Watch,Electronics,4,115.63,Debit Card,Completed
+ORD00034,2025-09-02,CUST0136,Power Bank,Electronics,1,28.96,Credit Card,Completed
+ORD00357,2025-09-02,CUST0030,Backpack,Fashion,1,37.97,Credit Card,Completed
+ORD01277,2025-09-02,CUST0034,Power Bank,Electronics,1,26.74,Cash on Delivery,Completed
+ORD00104,2025-09-03,CUST0082,USB-C Cable,Electronics,1,7.22,Debit Card,Completed
+ORD00240,2025-09-03,CUST0125,USB-C Cable,Electronics,1,8.65,Credit Card,Completed
+ORD00275,2025-09-03,CUST0283,Air Fryer,Home,1,86.1,Debit Card,Completed
+ORD01072,2025-09-03,CUST0185,Cotton T-Shirt,Fashion,2,14.64,Credit Card,Completed
+ORD01195,2025-09-03,CUST0145,Python Handbook,Books,1,27.64,Credit Card,Completed
+ORD01885,2025-09-03,CUST0034,Wireless Earbuds,Electronics,2,62.47,Cash on Delivery,Cancelled
+ORD00270,2025-09-04,CUST0116,Novel Bestseller,Books,1,14.58,PayPal,Returned
+ORD01369,2025-09-04,CUST0228,Hair Dryer,Beauty,2,40.89,Debit Card,Completed
+ORD01974,2025-09-04,CUST0047,Coffee Maker,Home,2,61.07,Credit Card,Completed
+ORD00081,2025-09-05,CUST0209,Face Serum,Beauty,1,27.34,UPI,Completed
+ORD01329,2025-09-05,CUST0266,USB-C Cable,Electronics,3,8.0,Debit Card,Completed
+ORD01791,2025-09-05,CUST0267,Python Handbook,Books,1,31.64,Debit Card,Completed
+ORD01827,2025-09-05,CUST0189,Denim Jacket,Fashion,1,52.57,Credit Card,Completed
+ORD00624,2025-09-06,CUST0037,Coffee Maker,Home,1,64.09,UPI,Completed
+ORD00742,2025-09-06,CUST0067,Running Shoes,Fashion,1,71.86,Cash on Delivery,Completed
+ORD01185,2025-09-06,CUST0108,Backpack,Fashion,2,31.89,Credit Card,Cancelled
+ORD01598,2025-09-06,CUST0300,Air Fryer,Home,1,91.64,UPI,Completed
+ORD02288,2025-09-06,CUST0008,Cotton T-Shirt,Fashion,1,16.21,Credit Card,Completed
+ORD00317,2025-09-07,CUST0265,Coffee Maker,Home,1,60.58,UPI,Cancelled
+ORD01080,2025-09-07,CUST0109,Denim Jacket,Fashion,1,59.89,UPI,Completed
+ORD02004,2025-09-07,CUST0267,Cotton T-Shirt,Fashion,1,16.19,PayPal,Completed
+ORD02307,2025-09-07,CUST0191,Desk Lamp,Home,2,22.71,PayPal,Completed
+ORD00265,2025-09-08,CUST0023,Desk Lamp,Home,1,23.67,Credit Card,Returned
+ORD01098,2025-09-08,CUST0018,Smart Watch,Electronics,1,117.52,Debit Card,Completed
+ORD01126,2025-09-08,CUST0271,Bed Sheet Set,Home,2,36.34,Debit Card,Completed
+ORD01371,2025-09-08,CUST0209,USB-C Cable,Electronics,2,8.27,UPI,Completed
+ORD01510,2025-09-08,CUST0134,Smart Watch,Electronics,1,124.54,Debit Card,Completed
+ORD01521,2025-09-08,CUST0132,Denim Jacket,Fashion,2,51.51,Cash on Delivery,Completed
+ORD02448,2025-09-08,CUST0161,Backpack,Fashion,1,36.93,Cash on Delivery,Completed
+ORD00368,2025-09-09,CUST0078,USB-C Cable,Electronics,1,7.86,Credit Card,Completed
+ORD01835,2025-09-09,CUST0075,Wireless Earbuds,Electronics,3,63.99,Credit Card,Completed
+ORD01146,2025-09-10,CUST0164,Backpack,Fashion,3,32.77,Credit Card,Completed
+ORD01788,2025-09-10,CUST0212,Smartphone Case,Electronics,2,11.67,Credit Card,Completed
+ORD02122,2025-09-10,CUST0129,Smartphone Case,Electronics,1,11.06,PayPal,Completed
+ORD02203,2025-09-10,CUST0022,Air Fryer,Home,1,93.87,Credit Card,Completed
+ORD02349,2025-09-10,CUST0177,Air Fryer,Home,1,87.72,UPI,Completed
+ORD00575,2025-09-11,CUST0146,Denim Jacket,Fashion,1,50.89,UPI,Completed
+ORD01396,2025-09-11,CUST0218,Perfume,Beauty,1,47.66,Debit Card,Completed
+ORD00589,2025-09-12,CUST0198,Hair Dryer,Beauty,2,37.57,UPI,Completed
+ORD01048,2025-09-12,CUST0114,Wireless Earbuds,Electronics,2,57.6,Debit Card,Completed
+ORD01107,2025-09-12,CUST0154,Face Serum,Beauty,1,28.32,Cash on Delivery,Completed
+ORD01744,2025-09-12,CUST0040,Bed Sheet Set,Home,2,43.08,Cash on Delivery,Completed
+ORD02165,2025-09-12,CUST0184,Hair Dryer,Beauty,2,41.7,UPI,Completed
+ORD00555,2025-09-13,CUST0183,Smartphone Case,Electronics,1,11.06,Cash on Delivery,Completed
+ORD01680,2025-09-13,CUST0059,Bed Sheet Set,Home,2,37.17,Debit Card,Completed
+ORD02414,2025-09-13,CUST0030,Cotton T-Shirt,Fashion,1,15.43,Credit Card,Completed
+ORD00120,2025-09-14,CUST0234,Air Fryer,Home,2,84.59,Debit Card,Completed
+ORD01298,2025-09-14,CUST0070,Smartphone Case,Electronics,1,11.28,Debit Card,Completed
+ORD01354,2025-09-14,CUST0007,Power Bank,Electronics,1,28.38,Debit Card,Completed
+ORD01041,2025-09-15,CUST0049,Coffee Maker,Home,1,71.26,UPI,Completed
+ORD01328,2025-09-15,CUST0200,Novel Bestseller,Books,2,12.79,Cash on Delivery,Cancelled
+ORD01701,2025-09-15,CUST0145,Desk Lamp,Home,2,22.82,Credit Card,Completed
+ORD02189,2025-09-15,CUST0274,Hair Dryer,Beauty,2,39.06,Cash on Delivery,Completed
+ORD00088,2025-09-16,CUST0245,Wireless Earbuds,Electronics,1,53.87,Debit Card,Completed
+ORD01322,2025-09-16,CUST0252,Coffee Maker,Home,1,62.22,Credit Card,Completed
+ORD01834,2025-09-16,CUST0250,Smart Watch,Electronics,1,125.11,Debit Card,Completed
+ORD01960,2025-09-16,CUST0271,Smart Watch,Electronics,1,121.34,UPI,Completed
+ORD02135,2025-09-16,CUST0020,Desk Lamp,Home,1,25.78,UPI,Completed
+ORD02481,2025-09-16,CUST0184,USB-C Cable,Electronics,1,8.43,Credit Card,Returned
+ORD00193,2025-09-17,CUST0019,Backpack,Fashion,2,32.84,Debit Card,Completed
+ORD01436,2025-09-17,CUST0258,Power Bank,Electronics,3,28.6,Credit Card,Completed
+ORD01437,2025-09-17,CUST0141,Running Shoes,Fashion,2,76.6,PayPal,Returned
+ORD01651,2025-09-17,CUST0006,Novel Bestseller,Books,2,13.71,UPI,Completed
+ORD01774,2025-09-17,CUST0300,Desk Lamp,Home,1,25.08,Credit Card,Completed
+ORD02412,2025-09-17,CUST0210,Smartphone Case,Electronics,1,10.96,UPI,Completed
+ORD00050,2025-09-18,CUST0023,Denim Jacket,Fashion,2,49.52,Cash on Delivery,Completed
+ORD00671,2025-09-18,CUST0035,Power Bank,Electronics,1,28.04,Debit Card,Completed
+ORD01003,2025-09-18,CUST0282,Bed Sheet Set,Home,1,42.01,Credit Card,Completed
+ORD01426,2025-09-18,CUST0288,Air Fryer,Home,1,92.87,Credit Card,Completed
+ORD01760,2025-09-18,CUST0282,Running Shoes,Fashion,2,65.31,Credit Card,Completed
+ORD01877,2025-09-18,CUST0203,USB-C Cable,Electronics,1,8.05,Credit Card,Cancelled
+ORD02207,2025-09-18,CUST0131,Perfume,Beauty,3,52.37,Credit Card,Completed
+ORD01545,2025-09-19,CUST0012,Bed Sheet Set,Home,1,41.14,Debit Card,Completed
+ORD02284,2025-09-19,CUST0067,Perfume,Beauty,3,44.96,Credit Card,Completed
+ORD01849,2025-09-21,CUST0055,Cotton T-Shirt,Fashion,2,15.17,PayPal,Completed
+ORD01883,2025-09-21,CUST0213,Power Bank,Electronics,1,27.59,UPI,Completed
+ORD01972,2025-09-21,CUST0162,USB-C Cable,Electronics,3,7.4,UPI,Completed
+ORD00427,2025-09-22,CUST0047,Denim Jacket,Fashion,1,53.75,Credit Card,Completed
+ORD00729,2025-09-22,CUST0136,Running Shoes,Fashion,1,63.97,Cash on Delivery,Completed
+ORD01357,2025-09-22,CUST0142,Smartphone Case,Electronics,1,11.99,Credit Card,Completed
+ORD01453,2025-09-22,CUST0112,Smartphone Case,Electronics,1,10.88,Credit Card,Completed
+ORD01846,2025-09-22,CUST0296,Perfume,Beauty,1,51.74,PayPal,Completed
+ORD02494,2025-09-22,CUST0256,Running Shoes,Fashion,1,75.61,Debit Card,Completed
+ORD00061,2025-09-23,CUST0127,Perfume,Beauty,2,45.86,PayPal,Completed
+ORD00900,2025-09-23,CUST0055,USB-C Cable,Electronics,1,7.23,Debit Card,Completed
+ORD02145,2025-09-23,CUST0049,Cookbook,Books,2,23.77,UPI,Cancelled
+ORD02151,2025-09-23,CUST0277,Wireless Earbuds,Electronics,1,58.7,Debit Card,Completed
+ORD00377,2025-09-24,CUST0090,Power Bank,Electronics,1,27.46,Debit Card,Completed
+ORD00439,2025-09-24,CUST0300,Perfume,Beauty,1,51.37,Debit Card,Returned
+ORD01309,2025-09-24,CUST0225,USB-C Cable,Electronics,3,8.19,Debit Card,Completed
+ORD01399,2025-09-24,CUST0028,Backpack,Fashion,1,36.6,Debit Card,Completed
+ORD01860,2025-09-24,CUST0081,USB-C Cable,Electronics,2,8.32,Credit Card,Completed
+ORD00861,2025-09-25,CUST0260,Smartphone Case,Electronics,1,11.81,UPI,Completed
+ORD01617,2025-09-25,CUST0187,Hair Dryer,Beauty,2,36.2,Debit Card,Returned
+ORD01952,2025-09-25,CUST0082,Power Bank,Electronics,1,29.75,UPI,Completed
+ORD02486,2025-09-25,CUST0290,USB-C Cable,Electronics,1,7.9,UPI,Completed
+ORD02080,2025-09-26,CUST0251,Backpack,Fashion,1,36.52,Debit Card,Completed
+ORD02483,2025-09-26,CUST0055,Air Fryer,Home,1,88.49,Cash on Delivery,Completed
+ORD00015,2025-09-27,CUST0257,Wireless Earbuds,Electronics,2,59.09,Credit Card,Completed
+ORD01209,2025-09-27,CUST0022,Backpack,Fashion,2,36.01,UPI,Completed
+ORD01393,2025-09-27,CUST0195,Smart Watch,Electronics,2,113.63,Debit Card,Completed
+ORD02323,2025-09-27,CUST0113,Air Fryer,Home,1,87.1,Credit Card,Completed
+ORD00457,2025-09-28,CUST0238,Cotton T-Shirt,Fashion,1,15.94,Cash on Delivery,Completed
+ORD01409,2025-09-28,CUST0296,Running Shoes,Fashion,1,67.08,Credit Card,Cancelled
+ORD01528,2025-09-28,CUST0273,Perfume,Beauty,1,45.84,UPI,Completed
+ORD00029,2025-09-29,CUST0233,Backpack,Fashion,1,36.38,UPI,Completed
+ORD00214,2025-09-29,CUST0108,USB-C Cable,Electronics,2,7.87,UPI,Completed
+ORD00615,2025-09-29,CUST0188,Denim Jacket,Fashion,3,52.25,Credit Card,Completed
+ORD02096,2025-09-29,CUST0284,Wireless Earbuds,Electronics,1,62.67,UPI,Completed
+ORD00387,2025-09-30,CUST0274,Smartphone Case,Electronics,2,13.0,Credit Card,Cancelled
+ORD02063,2025-09-30,CUST0077,USB-C Cable,Electronics,2,8.23,Credit Card,Cancelled
+ORD02162,2025-09-30,CUST0274,Denim Jacket,Fashion,1,57.16,Credit Card,Completed
+ORD02240,2025-09-30,CUST0068,Power Bank,Electronics,1,28.3,UPI,Completed
+ORD01120,2025-10-01,CUST0028,USB-C Cable,Electronics,3,8.22,Debit Card,Completed
+ORD01859,2025-10-01,CUST0150,Face Serum,Beauty,2,26.14,PayPal,Completed
+ORD00078,2025-10-02,CUST0166,Cookbook,Books,3,23.46,Credit Card,Returned
+ORD00339,2025-10-02,CUST0166,Novel Bestseller,Books,2,13.55,UPI,Completed
+ORD00843,2025-10-02,CUST0273,Backpack,Fashion,2,37.47,Cash on Delivery,Returned
+ORD00954,2025-10-03,CUST0032,Running Shoes,Fashion,1,70.74,Credit Card,Completed
+ORD00955,2025-10-03,CUST0284,Desk Lamp,Home,4,25.88,Credit Card,Completed
+ORD02060,2025-10-03,CUST0020,Denim Jacket,Fashion,1,53.51,Debit Card,Completed
+ORD01689,2025-10-04,CUST0193,Running Shoes,Fashion,1,74.24,Cash on Delivery,Completed
+ORD01749,2025-10-04,CUST0012,Bed Sheet Set,Home,2,39.84,UPI,Completed
+ORD01838,2025-10-04,CUST0031,USB-C Cable,Electronics,1,7.55,UPI,Completed
+ORD00571,2025-10-05,CUST0228,Smart Watch,Electronics,2,130.53,UPI,Completed
+ORD00631,2025-10-05,CUST0028,USB-C Cable,Electronics,1,8.71,Credit Card,Completed
+ORD01334,2025-10-05,CUST0022,Coffee Maker,Home,1,64.96,Credit Card,Completed
+ORD02383,2025-10-06,CUST0290,Air Fryer,Home,1,84.36,Debit Card,Completed
+ORD00194,2025-10-07,CUST0064,Perfume,Beauty,2,47.39,Debit Card,Completed
+ORD00684,2025-10-07,CUST0077,Running Shoes,Fashion,1,64.6,Cash on Delivery,Completed
+ORD01005,2025-10-07,CUST0196,Novel Bestseller,Books,1,13.84,Credit Card,Completed
+ORD01115,2025-10-07,CUST0075,Cotton T-Shirt,Fashion,3,14.18,Credit Card,Completed
+ORD02192,2025-10-07,CUST0229,Python Handbook,Books,1,31.31,PayPal,Completed
+ORD00237,2025-10-08,CUST0148,Hair Dryer,Beauty,1,39.34,Debit Card,Cancelled
+ORD00642,2025-10-08,CUST0078,Hair Dryer,Beauty,2,35.01,Credit Card,Completed
+ORD00971,2025-10-08,CUST0099,Hair Dryer,Beauty,2,34.38,Cash on Delivery,Completed
+ORD00973,2025-10-08,CUST0063,Backpack,Fashion,2,34.77,Debit Card,Completed
+ORD01101,2025-10-08,CUST0049,Air Fryer,Home,2,84.26,Debit Card,Completed
+ORD01614,2025-10-08,CUST0014,Smartphone Case,Electronics,1,12.8,Cash on Delivery,Completed
+ORD02212,2025-10-08,CUST0231,Python Handbook,Books,2,28.52,Credit Card,Completed
+ORD00001,2025-10-09,CUST0126,Desk Lamp,Home,1,26.18,UPI,Returned
+ORD00212,2025-10-09,CUST0065,USB-C Cable,Electronics,2,8.18,Credit Card,Completed
+ORD00557,2025-10-09,CUST0252,Hair Dryer,Beauty,1,40.01,UPI,Completed
+ORD00715,2025-10-09,CUST0132,Power Bank,Electronics,1,25.82,Credit Card,Completed
+ORD01008,2025-10-09,CUST0098,Cookbook,Books,2,24.19,Cash on Delivery,Completed
+ORD01425,2025-10-09,CUST0146,Smartphone Case,Electronics,2,12.88,UPI,Completed
+ORD01934,2025-10-09,CUST0099,Desk Lamp,Home,1,23.28,UPI,Completed
+ORD02333,2025-10-10,CUST0070,Smart Watch,Electronics,1,126.65,UPI,Completed
+ORD01485,2025-10-11,CUST0257,Coffee Maker,Home,2,66.36,Cash on Delivery,Completed
+ORD01605,2025-10-11,CUST0229,Face Serum,Beauty,2,25.09,UPI,Completed
+ORD01807,2025-10-11,CUST0146,Hair Dryer,Beauty,1,35.95,UPI,Completed
+ORD00004,2025-10-12,CUST0080,Bed Sheet Set,Home,1,42.11,Credit Card,Completed
+ORD00945,2025-10-12,CUST0046,Air Fryer,Home,3,93.73,UPI,Completed
+ORD02275,2025-10-12,CUST0179,Desk Lamp,Home,1,22.66,Credit Card,Completed
+ORD00762,2025-10-13,CUST0008,Backpack,Fashion,2,36.65,Credit Card,Completed
+ORD01586,2025-10-13,CUST0026,Coffee Maker,Home,4,70.84,Credit Card,Returned
+ORD01780,2025-10-13,CUST0224,Running Shoes,Fashion,1,68.91,Credit Card,Completed
+ORD01941,2025-10-13,CUST0162,Novel Bestseller,Books,1,13.2,UPI,Completed
+ORD00562,2025-10-14,CUST0231,Backpack,Fashion,1,32.42,UPI,Completed
+ORD01344,2025-10-14,CUST0041,Backpack,Fashion,1,32.46,Cash on Delivery,Completed
+ORD00290,2025-10-15,CUST0279,Hair Dryer,Beauty,1,34.45,Cash on Delivery,Completed
+ORD02330,2025-10-15,CUST0065,Smartphone Case,Electronics,1,11.62,Debit Card,Completed
+ORD00405,2025-10-16,CUST0153,Bed Sheet Set,Home,1,36.4,UPI,Completed
+ORD01140,2025-10-16,CUST0249,Cotton T-Shirt,Fashion,1,14.79,UPI,Completed
+ORD00093,2025-10-17,CUST0233,Power Bank,Electronics,1,26.51,Credit Card,Completed
+ORD00108,2025-10-17,CUST0153,Wireless Earbuds,Electronics,2,59.94,UPI,Returned
+ORD00366,2025-10-17,CUST0160,Smart Watch,Electronics,1,121.27,Credit Card,Completed
+ORD00692,2025-10-17,CUST0179,Denim Jacket,Fashion,2,50.9,Credit Card,Completed
+ORD01573,2025-10-17,CUST0054,Air Fryer,Home,1,85.51,UPI,Completed
+ORD00941,2025-10-18,CUST0111,Cotton T-Shirt,Fashion,1,15.72,Credit Card,Completed
+ORD01019,2025-10-18,CUST0106,Perfume,Beauty,1,49.53,Credit Card,Completed
+ORD01312,2025-10-18,CUST0235,Running Shoes,Fashion,1,68.45,UPI,Completed
+ORD01493,2025-10-18,CUST0285,Face Serum,Beauty,2,28.55,Debit Card,Completed
+ORD02042,2025-10-18,CUST0178,Desk Lamp,Home,1,25.23,Debit Card,Completed
+ORD00568,2025-10-19,CUST0182,Coffee Maker,Home,1,65.14,PayPal,Completed
+ORD00583,2025-10-19,CUST0273,Bed Sheet Set,Home,2,39.3,Cash on Delivery,Completed
+ORD01410,2025-10-19,CUST0274,Air Fryer,Home,1,87.88,Cash on Delivery,Completed
+ORD01726,2025-10-19,CUST0084,Air Fryer,Home,1,86.81,Credit Card,Completed
+ORD02390,2025-10-19,CUST0116,Smart Watch,Electronics,1,114.47,Debit Card,Completed
+ORD00651,2025-10-20,CUST0237,Cotton T-Shirt,Fashion,1,14.38,Cash on Delivery,Completed
+ORD00781,2025-10-20,CUST0094,USB-C Cable,Electronics,4,8.54,UPI,Completed
+ORD01380,2025-10-20,CUST0166,Air Fryer,Home,1,94.63,Cash on Delivery,Completed
+ORD02199,2025-10-20,CUST0276,Perfume,Beauty,2,50.27,Cash on Delivery,Completed
+ORD02334,2025-10-20,CUST0027,Wireless Earbuds,Electronics,4,64.35,UPI,Completed
+ORD00483,2025-10-21,CUST0129,Smartphone Case,Electronics,1,10.95,PayPal,Completed
+ORD00569,2025-10-21,CUST0238,USB-C Cable,Electronics,2,7.43,Credit Card,Completed
+ORD00714,2025-10-21,CUST0249,Desk Lamp,Home,1,25.03,Cash on Delivery,Completed
+ORD00148,2025-10-22,CUST0160,Running Shoes,Fashion,1,71.09,Credit Card,Completed
+ORD01024,2025-10-22,CUST0234,Desk Lamp,Home,1,26.71,PayPal,Completed
+ORD01382,2025-10-22,CUST0141,Wireless Earbuds,Electronics,1,55.74,Credit Card,Returned
+ORD02070,2025-10-22,CUST0092,Cookbook,Books,1,21.14,UPI,Completed
+ORD02274,2025-10-22,CUST0111,Smart Watch,Electronics,4,126.55,Credit Card,Completed
+ORD00236,2025-10-23,CUST0107,Perfume,Beauty,2,47.89,Debit Card,Completed
+ORD00658,2025-10-23,CUST0093,Novel Bestseller,Books,1,12.97,Credit Card,Completed
+ORD00780,2025-10-23,CUST0025,Power Bank,Electronics,1,26.79,Cash on Delivery,Completed
+ORD00792,2025-10-23,CUST0084,Perfume,Beauty,2,52.52,Debit Card,Returned
+ORD01823,2025-10-23,CUST0281,Coffee Maker,Home,1,64.0,Credit Card,Completed
+ORD00159,2025-10-24,CUST0059,Backpack,Fashion,1,38.26,Credit Card,Cancelled
+ORD00266,2025-10-24,CUST0120,USB-C Cable,Electronics,2,8.37,Debit Card,Completed
+ORD00712,2025-10-24,CUST0086,Perfume,Beauty,1,52.06,UPI,Completed
+ORD00801,2025-10-24,CUST0150,Face Serum,Beauty,1,28.27,UPI,Completed
+ORD02478,2025-10-24,CUST0162,Cotton T-Shirt,Fashion,1,15.31,UPI,Completed
+ORD00238,2025-10-25,CUST0022,Python Handbook,Books,1,31.28,Debit Card,Completed
+ORD01129,2025-10-25,CUST0154,Face Serum,Beauty,1,24.78,Credit Card,Completed
+ORD01200,2025-10-25,CUST0083,Running Shoes,Fashion,1,69.48,Cash on Delivery,Completed
+ORD01775,2025-10-25,CUST0170,Face Serum,Beauty,1,26.97,Cash on Delivery,Completed
+ORD00187,2025-10-26,CUST0220,Coffee Maker,Home,1,63.09,UPI,Completed
+ORD00305,2025-10-26,CUST0252,Perfume,Beauty,4,50.71,Debit Card,Completed
+ORD01095,2025-10-26,CUST0075,Smart Watch,Electronics,1,127.3,Credit Card,Completed
+ORD01512,2025-10-26,CUST0158,Cotton T-Shirt,Fashion,3,13.97,UPI,Completed
+ORD01971,2025-10-26,CUST0123,Wireless Earbuds,Electronics,1,55.65,Cash on Delivery,Completed
+ORD02076,2025-10-27,CUST0212,Backpack,Fashion,1,31.54,Debit Card,Completed
+ORD02359,2025-10-27,CUST0130,USB-C Cable,Electronics,4,7.75,Cash on Delivery,Completed
+ORD02388,2025-10-27,CUST0114,Perfume,Beauty,1,45.67,Credit Card,Returned
+ORD00998,2025-10-29,CUST0077,USB-C Cable,Electronics,1,7.29,PayPal,Returned
+ORD01363,2025-10-29,CUST0016,Air Fryer,Home,1,81.8,Cash on Delivery,Returned
+ORD01537,2025-10-29,CUST0192,Power Bank,Electronics,1,27.59,Debit Card,Completed
+ORD02229,2025-10-29,CUST0284,Denim Jacket,Fashion,1,55.38,UPI,Completed
+ORD00599,2025-10-30,CUST0135,Backpack,Fashion,1,34.68,PayPal,Completed
+ORD01386,2025-10-30,CUST0057,Smart Watch,Electronics,2,130.06,Credit Card,Returned
+ORD01798,2025-10-30,CUST0098,Coffee Maker,Home,2,63.2,UPI,Completed
+ORD01942,2025-10-30,CUST0193,Smart Watch,Electronics,2,119.16,Credit Card,Completed
+ORD02402,2025-10-31,CUST0094,Denim Jacket,Fashion,1,53.98,Cash on Delivery,Completed
+ORD00065,2025-11-02,CUST0200,Cotton T-Shirt,Fashion,3,16.36,Debit Card,Completed
+ORD00432,2025-11-02,CUST0056,Bed Sheet Set,Home,1,38.69,Credit Card,Completed
+ORD01741,2025-11-02,CUST0110,USB-C Cable,Electronics,3,8.51,Debit Card,Completed
+ORD02261,2025-11-02,CUST0208,Hair Dryer,Beauty,3,38.31,Debit Card,Completed
+ORD02472,2025-11-02,CUST0070,Cookbook,Books,1,22.47,Debit Card,Completed
+ORD00346,2025-11-03,CUST0071,Power Bank,Electronics,1,29.75,Cash on Delivery,Completed
+ORD00664,2025-11-03,CUST0166,Face Serum,Beauty,1,25.37,Credit Card,Completed
+ORD02386,2025-11-03,CUST0121,Air Fryer,Home,4,96.36,UPI,Returned
+ORD00052,2025-11-04,CUST0260,Cookbook,Books,1,21.6,Debit Card,Completed
+ORD00565,2025-11-04,CUST0129,Air Fryer,Home,1,91.22,Debit Card,Completed
+ORD01667,2025-11-04,CUST0074,Air Fryer,Home,1,88.39,Cash on Delivery,Completed
+ORD00452,2025-11-05,CUST0216,Desk Lamp,Home,2,25.81,Credit Card,Completed
+ORD00858,2025-11-05,CUST0047,Cotton T-Shirt,Fashion,3,15.77,Credit Card,Completed
+ORD00980,2025-11-05,CUST0222,Python Handbook,Books,1,31.07,UPI,Completed
+ORD01079,2025-11-05,CUST0281,Running Shoes,Fashion,4,69.54,Cash on Delivery,Cancelled
+ORD01306,2025-11-05,CUST0160,Smartphone Case,Electronics,2,13.05,PayPal,Completed
+ORD00250,2025-11-06,CUST0299,Power Bank,Electronics,2,25.26,UPI,Completed
+ORD00841,2025-11-06,CUST0259,Running Shoes,Fashion,2,69.06,UPI,Completed
+ORD01297,2025-11-06,CUST0160,Perfume,Beauty,1,47.38,Cash on Delivery,Completed
+ORD00829,2025-11-07,CUST0085,USB-C Cable,Electronics,1,7.42,UPI,Completed
+ORD01785,2025-11-07,CUST0071,Desk Lamp,Home,1,23.72,Debit Card,Completed
+ORD01530,2025-11-08,CUST0049,Smart Watch,Electronics,3,118.64,UPI,Completed
+ORD00766,2025-11-09,CUST0083,Smart Watch,Electronics,2,128.59,UPI,Completed
+ORD02432,2025-11-09,CUST0258,Running Shoes,Fashion,2,69.99,UPI,Returned
+ORD00197,2025-11-10,CUST0229,Power Bank,Electronics,2,27.59,UPI,Completed
+ORD00095,2025-11-11,CUST0292,Smartphone Case,Electronics,3,11.85,Debit Card,Completed
+ORD01232,2025-11-11,CUST0213,Perfume,Beauty,2,43.24,Cash on Delivery,Completed
+ORD00677,2025-11-12,CUST0162,Running Shoes,Fashion,2,66.8,Credit Card,Returned
+ORD00791,2025-11-12,CUST0229,Power Bank,Electronics,3,25.69,UPI,Completed
+ORD01853,2025-11-12,CUST0121,Face Serum,Beauty,1,28.59,Cash on Delivery,Completed
+ORD01968,2025-11-12,CUST0211,Smart Watch,Electronics,2,128.71,UPI,Cancelled
+ORD02183,2025-11-12,CUST0164,Smart Watch,Electronics,4,112.61,UPI,Completed
+ORD01290,2025-11-13,CUST0098,Cotton T-Shirt,Fashion,1,15.06,Debit Card,Completed
+ORD01884,2025-11-13,CUST0278,Novel Bestseller,Books,2,14.39,Credit Card,Completed
+ORD00056,2025-11-14,CUST0116,Face Serum,Beauty,2,24.17,Credit Card,Cancelled
+ORD00847,2025-11-14,CUST0238,Smartphone Case,Electronics,1,13.18,Debit Card,Returned
+ORD01022,2025-11-14,CUST0104,USB-C Cable,Electronics,1,8.3,Credit Card,Completed
+ORD00686,2025-11-15,CUST0174,Wireless Earbuds,Electronics,1,53.7,Credit Card,Returned
+ORD01900,2025-11-15,CUST0282,Power Bank,Electronics,2,30.31,Credit Card,Completed
+ORD02449,2025-11-15,CUST0061,Smart Watch,Electronics,1,125.38,Credit Card,Completed
+ORD00315,2025-11-16,CUST0176,Bed Sheet Set,Home,1,37.65,Debit Card,Completed
+ORD00446,2025-11-16,CUST0067,Bed Sheet Set,Home,1,40.03,Debit Card,Completed
+ORD01270,2025-11-16,CUST0233,Cotton T-Shirt,Fashion,2,16.04,Credit Card,Completed
+ORD01635,2025-11-16,CUST0150,Face Serum,Beauty,1,26.95,UPI,Completed
+ORD02160,2025-11-16,CUST0078,USB-C Cable,Electronics,1,7.22,UPI,Completed
+ORD00145,2025-11-17,CUST0219,Running Shoes,Fashion,1,66.57,Cash on Delivery,Completed
+ORD00648,2025-11-17,CUST0202,Cookbook,Books,2,23.07,UPI,Completed
+ORD00852,2025-11-17,CUST0169,Wireless Earbuds,Electronics,2,61.8,PayPal,Completed
+ORD01012,2025-11-17,CUST0097,Running Shoes,Fashion,1,76.19,Debit Card,Completed
+ORD02496,2025-11-17,CUST0004,Smartphone Case,Electronics,1,11.0,Credit Card,Completed
+ORD00816,2025-11-18,CUST0064,Wireless Earbuds,Electronics,1,59.23,Debit Card,Completed
+ORD02366,2025-11-18,CUST0142,Running Shoes,Fashion,2,63.63,Debit Card,Completed
+ORD00010,2025-11-19,CUST0109,USB-C Cable,Electronics,2,7.83,Cash on Delivery,Completed
+ORD00373,2025-11-19,CUST0202,Power Bank,Electronics,2,29.32,Debit Card,Completed
+ORD01389,2025-11-19,CUST0020,Desk Lamp,Home,1,27.16,PayPal,Completed
+ORD01876,2025-11-19,CUST0115,Coffee Maker,Home,1,62.4,UPI,Completed
+ORD01893,2025-11-19,CUST0238,Running Shoes,Fashion,1,74.8,UPI,Completed
+ORD02182,2025-11-19,CUST0217,Novel Bestseller,Books,3,13.97,Debit Card,Completed
+ORD00084,2025-11-20,CUST0062,Smartphone Case,Electronics,2,13.08,UPI,Completed
+ORD00552,2025-11-20,CUST0212,Smartphone Case,Electronics,4,12.04,Credit Card,Completed
+ORD00633,2025-11-20,CUST0249,Running Shoes,Fashion,3,70.44,Credit Card,Completed
+ORD00352,2025-11-21,CUST0068,Perfume,Beauty,1,51.25,Debit Card,Completed
+ORD00783,2025-11-21,CUST0177,Wireless Earbuds,Electronics,1,58.39,Cash on Delivery,Completed
+ORD00877,2025-11-21,CUST0272,Running Shoes,Fashion,1,66.65,Debit Card,Cancelled
+ORD00950,2025-11-21,CUST0196,USB-C Cable,Electronics,1,7.38,Credit Card,Completed
+ORD01895,2025-11-21,CUST0126,Cookbook,Books,1,23.42,Credit Card,Completed
+ORD00640,2025-11-22,CUST0035,Coffee Maker,Home,1,70.83,Credit Card,Completed
+ORD00997,2025-11-22,CUST0220,Cotton T-Shirt,Fashion,4,14.23,Credit Card,Completed
+ORD01487,2025-11-22,CUST0050,Cookbook,Books,1,19.88,Debit Card,Completed
+ORD00316,2025-11-23,CUST0035,Backpack,Fashion,1,37.17,Credit Card,Completed
+ORD02241,2025-11-23,CUST0223,Python Handbook,Books,2,27.76,PayPal,Completed
+ORD00434,2025-11-24,CUST0072,Novel Bestseller,Books,2,14.44,Cash on Delivery,Completed
+ORD01489,2025-11-24,CUST0178,Power Bank,Electronics,2,26.05,Cash on Delivery,Completed
+ORD01646,2025-11-24,CUST0038,Smartphone Case,Electronics,2,11.99,UPI,Completed
+ORD00495,2025-11-25,CUST0196,Desk Lamp,Home,3,27.22,Debit Card,Completed
+ORD02082,2025-11-25,CUST0134,Backpack,Fashion,2,34.04,UPI,Completed
+ORD02100,2025-11-25,CUST0057,Cookbook,Books,1,21.33,Cash on Delivery,Cancelled
+ORD00445,2025-11-26,CUST0272,Running Shoes,Fashion,1,72.47,UPI,Completed
+ORD01267,2025-11-26,CUST0248,Cotton T-Shirt,Fashion,1,14.29,Credit Card,Completed
+ORD01416,2025-11-26,CUST0237,Denim Jacket,Fashion,2,55.16,Cash on Delivery,Cancelled
+ORD01716,2025-11-26,CUST0294,Smartphone Case,Electronics,4,11.35,UPI,Completed
+ORD01814,2025-11-26,CUST0011,Cotton T-Shirt,Fashion,1,15.35,PayPal,Completed
+ORD02456,2025-11-26,CUST0024,Face Serum,Beauty,1,24.33,Credit Card,Completed
+ORD00211,2025-11-27,CUST0116,Denim Jacket,Fashion,1,59.85,Cash on Delivery,Completed
+ORD02141,2025-11-27,CUST0224,Smartphone Case,Electronics,1,12.57,Cash on Delivery,Completed
+ORD00333,2025-11-28,CUST0150,Denim Jacket,Fashion,1,52.44,Cash on Delivery,Cancelled
+ORD01711,2025-11-28,CUST0245,Face Serum,Beauty,2,24.14,UPI,Completed
+ORD02290,2025-11-28,CUST0290,Backpack,Fashion,3,32.11,UPI,Completed
+ORD02364,2025-11-28,CUST0077,USB-C Cable,Electronics,1,8.26,Credit Card,Completed
+ORD00009,2025-11-29,CUST0029,Denim Jacket,Fashion,1,49.85,Debit Card,Completed
+ORD00647,2025-11-29,CUST0235,Perfume,Beauty,3,47.3,PayPal,Completed
+ORD01478,2025-11-29,CUST0153,Backpack,Fashion,2,35.67,Debit Card,Completed
+ORD02204,2025-11-29,CUST0280,Face Serum,Beauty,1,24.15,UPI,Completed
+ORD00576,2025-11-30,CUST0244,Power Bank,Electronics,1,30.08,Cash on Delivery,Completed
+ORD01028,2025-11-30,CUST0210,Cookbook,Books,1,20.91,UPI,Completed
+ORD01533,2025-11-30,CUST0265,Smartphone Case,Electronics,4,12.37,PayPal,Completed
+ORD01761,2025-11-30,CUST0192,Running Shoes,Fashion,1,68.53,UPI,Completed
+ORD02073,2025-11-30,CUST0163,Desk Lamp,Home,1,22.53,Debit Card,Completed
+ORD02083,2025-11-30,CUST0073,Running Shoes,Fashion,2,70.15,PayPal,Completed
+ORD00294,2025-12-01,CUST0016,Perfume,Beauty,2,50.72,Debit Card,Completed
+ORD00356,2025-12-01,CUST0201,Cookbook,Books,1,23.16,UPI,Completed
+ORD01020,2025-12-01,CUST0211,Denim Jacket,Fashion,1,60.39,Credit Card,Completed
+ORD01030,2025-12-01,CUST0238,Smartphone Case,Electronics,1,10.96,UPI,Completed
+ORD02061,2025-12-01,CUST0168,Wireless Earbuds,Electronics,1,55.66,Credit Card,Completed
+ORD02479,2025-12-01,CUST0088,Running Shoes,Fashion,1,75.43,Credit Card,Completed
+ORD00130,2025-12-02,CUST0114,USB-C Cable,Electronics,2,8.22,Debit Card,Completed
+ORD00219,2025-12-02,CUST0296,Denim Jacket,Fashion,2,51.59,Credit Card,Cancelled
+ORD00680,2025-12-02,CUST0074,Cotton T-Shirt,Fashion,2,13.79,Cash on Delivery,Completed
+ORD00865,2025-12-02,CUST0145,USB-C Cable,Electronics,1,7.86,Credit Card,Returned
+ORD01555,2025-12-02,CUST0162,Running Shoes,Fashion,3,72.21,Credit Card,Completed
+ORD01591,2025-12-02,CUST0006,Cotton T-Shirt,Fashion,2,15.06,UPI,Completed
+ORD01743,2025-12-02,CUST0235,Smart Watch,Electronics,4,122.44,Credit Card,Completed
+ORD01976,2025-12-02,CUST0200,Air Fryer,Home,1,98.29,Cash on Delivery,Completed
+ORD02174,2025-12-02,CUST0175,Desk Lamp,Home,1,27.39,PayPal,Completed
+ORD02401,2025-12-02,CUST0204,Power Bank,Electronics,1,25.67,Credit Card,Completed
+ORD00047,2025-12-03,CUST0143,Air Fryer,Home,3,98.4,Credit Card,Completed
+ORD00459,2025-12-03,CUST0184,Coffee Maker,Home,3,70.92,Credit Card,Completed
+ORD01368,2025-12-03,CUST0125,Coffee Maker,Home,2,71.21,Credit Card,Completed
+ORD01597,2025-12-03,CUST0215,USB-C Cable,Electronics,2,7.6,Debit Card,Completed
+ORD00100,2025-12-04,CUST0211,Smartphone Case,Electronics,2,11.49,Cash on Delivery,Completed
+ORD01401,2025-12-04,CUST0067,Hair Dryer,Beauty,2,34.35,UPI,Completed
+ORD00455,2025-12-05,CUST0121,Smart Watch,Electronics,1,124.12,Cash on Delivery,Completed
+ORD00691,2025-12-05,CUST0167,Denim Jacket,Fashion,1,49.83,Debit Card,Completed
+ORD02411,2025-12-05,CUST0206,Smartphone Case,Electronics,1,11.06,Credit Card,Completed
+ORD00493,2025-12-06,CUST0170,Hair Dryer,Beauty,1,35.86,PayPal,Completed
+ORD00989,2025-12-06,CUST0297,Hair Dryer,Beauty,1,36.75,Credit Card,Completed
+ORD00991,2025-12-06,CUST0193,Smart Watch,Electronics,1,112.42,Cash on Delivery,Completed
+ORD01136,2025-12-06,CUST0017,Smart Watch,Electronics,1,112.78,Debit Card,Completed
+ORD01504,2025-12-06,CUST0082,USB-C Cable,Electronics,1,8.36,Credit Card,Completed
+ORD02071,2025-12-07,CUST0014,Smart Watch,Electronics,1,128.42,Cash on Delivery,Completed
+ORD02256,2025-12-07,CUST0024,Power Bank,Electronics,1,29.54,UPI,Completed
+ORD02331,2025-12-07,CUST0157,Hair Dryer,Beauty,1,40.39,Credit Card,Completed
+ORD00171,2025-12-08,CUST0042,Coffee Maker,Home,1,60.34,Debit Card,Cancelled
+ORD00735,2025-12-08,CUST0156,Bed Sheet Set,Home,1,41.06,Cash on Delivery,Completed
+ORD01055,2025-12-08,CUST0070,Desk Lamp,Home,2,23.48,Cash on Delivery,Completed
+ORD01899,2025-12-08,CUST0163,Power Bank,Electronics,3,26.22,Credit Card,Completed
+ORD00754,2025-12-09,CUST0233,Power Bank,Electronics,1,29.35,Cash on Delivery,Completed
+ORD00920,2025-12-09,CUST0071,Power Bank,Electronics,1,26.33,Cash on Delivery,Completed
+ORD01176,2025-12-09,CUST0093,USB-C Cable,Electronics,2,7.44,UPI,Completed
+ORD01331,2025-12-09,CUST0031,Denim Jacket,Fashion,1,55.52,UPI,Returned
+ORD00183,2025-12-10,CUST0075,Cookbook,Books,1,21.06,PayPal,Completed
+ORD00360,2025-12-10,CUST0220,Python Handbook,Books,1,27.38,UPI,Completed
+ORD00369,2025-12-10,CUST0001,Python Handbook,Books,2,29.26,UPI,Completed
+ORD00438,2025-12-10,CUST0046,Python Handbook,Books,1,28.34,Cash on Delivery,Completed
+ORD01043,2025-12-10,CUST0010,Desk Lamp,Home,2,25.43,Debit Card,Completed
+ORD02036,2025-12-10,CUST0277,Desk Lamp,Home,4,27.19,UPI,Completed
+ORD00175,2025-12-11,CUST0068,Running Shoes,Fashion,1,65.16,Credit Card,Completed
+ORD01926,2025-12-11,CUST0183,Wireless Earbuds,Electronics,1,55.95,Debit Card,Completed
+ORD02185,2025-12-11,CUST0149,Smart Watch,Electronics,1,117.52,Debit Card,Completed
+ORD00069,2025-12-12,CUST0195,Power Bank,Electronics,1,30.53,Debit Card,Completed
+ORD00279,2025-12-12,CUST0132,USB-C Cable,Electronics,2,7.98,UPI,Completed
+ORD00724,2025-12-12,CUST0093,Cookbook,Books,1,19.85,Credit Card,Completed
+ORD01259,2025-12-12,CUST0009,Running Shoes,Fashion,1,64.33,PayPal,Completed
+ORD01477,2025-12-12,CUST0152,Backpack,Fashion,2,31.66,Credit Card,Completed
+ORD01687,2025-12-12,CUST0021,Backpack,Fashion,1,38.47,UPI,Completed
+ORD01886,2025-12-12,CUST0063,Smart Watch,Electronics,1,128.04,UPI,Completed
+ORD02258,2025-12-12,CUST0078,Smartphone Case,Electronics,1,10.95,Cash on Delivery,Cancelled
+ORD00127,2025-12-13,CUST0059,Cotton T-Shirt,Fashion,1,13.73,PayPal,Completed
+ORD00464,2025-12-13,CUST0266,Denim Jacket,Fashion,1,57.21,Credit Card,Completed
+ORD00474,2025-12-13,CUST0056,Smartphone Case,Electronics,2,10.91,UPI,Completed
+ORD00151,2025-12-14,CUST0180,Power Bank,Electronics,1,30.07,UPI,Completed
+ORD00161,2025-12-14,CUST0114,Cotton T-Shirt,Fashion,1,14.0,UPI,Completed
+ORD01014,2025-12-14,CUST0116,Novel Bestseller,Books,1,14.52,Debit Card,Completed
+ORD00080,2025-12-15,CUST0144,Cotton T-Shirt,Fashion,3,15.6,Credit Card,Completed
+ORD00921,2025-12-16,CUST0147,Smart Watch,Electronics,1,110.05,Debit Card,Completed
+ORD01445,2025-12-16,CUST0239,Desk Lamp,Home,1,25.98,UPI,Completed
+ORD01593,2025-12-16,CUST0140,Hair Dryer,Beauty,3,34.51,PayPal,Completed
+ORD00402,2025-12-17,CUST0088,Face Serum,Beauty,3,24.24,Credit Card,Cancelled
+ORD00695,2025-12-17,CUST0279,Hair Dryer,Beauty,2,35.52,UPI,Completed
+ORD01217,2025-12-17,CUST0153,Smart Watch,Electronics,1,116.38,Debit Card,Completed
+ORD02194,2025-12-17,CUST0117,Smart Watch,Electronics,1,124.71,UPI,Returned
+ORD02368,2025-12-17,CUST0169,Cookbook,Books,1,19.87,Cash on Delivery,Completed
+ORD00561,2025-12-18,CUST0188,USB-C Cable,Electronics,1,7.88,Debit Card,Completed
+ORD01731,2025-12-18,CUST0036,Backpack,Fashion,1,35.32,UPI,Completed
+ORD02471,2025-12-18,CUST0167,Denim Jacket,Fashion,1,52.5,Debit Card,Completed
+ORD00385,2025-12-19,CUST0290,Backpack,Fashion,1,34.22,Credit Card,Completed
+ORD00410,2025-12-19,CUST0278,Desk Lamp,Home,1,26.28,Credit Card,Completed
+ORD00567,2025-12-19,CUST0011,Perfume,Beauty,1,46.57,UPI,Completed
+ORD00700,2025-12-19,CUST0046,Backpack,Fashion,1,35.78,UPI,Completed
+ORD01064,2025-12-19,CUST0074,USB-C Cable,Electronics,1,7.54,UPI,Completed
+ORD01908,2025-12-19,CUST0070,Novel Bestseller,Books,1,14.25,Cash on Delivery,Completed
+ORD02005,2025-12-19,CUST0209,Face Serum,Beauty,3,24.01,Credit Card,Completed
+ORD02318,2025-12-19,CUST0005,Air Fryer,Home,1,91.88,Credit Card,Completed
+ORD00109,2025-12-20,CUST0171,Backpack,Fashion,1,35.3,Debit Card,Completed
+ORD00217,2025-12-20,CUST0205,Perfume,Beauty,1,46.76,UPI,Completed
+ORD00480,2025-12-20,CUST0068,Bed Sheet Set,Home,4,41.2,Cash on Delivery,Completed
+ORD00928,2025-12-20,CUST0208,Air Fryer,Home,2,96.86,Credit Card,Completed
+ORD01665,2025-12-20,CUST0233,Cotton T-Shirt,Fashion,1,16.2,Debit Card,Returned
+ORD00263,2025-12-21,CUST0080,Smart Watch,Electronics,1,130.5,UPI,Completed
+ORD01333,2025-12-21,CUST0037,Python Handbook,Books,3,30.59,UPI,Completed
+ORD01434,2025-12-21,CUST0218,Hair Dryer,Beauty,1,38.45,Cash on Delivery,Returned
+ORD01461,2025-12-21,CUST0235,Denim Jacket,Fashion,1,54.57,UPI,Completed
+ORD00205,2025-12-22,CUST0034,Novel Bestseller,Books,1,13.41,Credit Card,Completed
+ORD00578,2025-12-22,CUST0247,Bed Sheet Set,Home,1,42.44,Debit Card,Completed
+ORD00596,2025-12-22,CUST0225,Hair Dryer,Beauty,2,34.36,Debit Card,Completed
+ORD01153,2025-12-22,CUST0188,Cookbook,Books,1,22.96,Cash on Delivery,Completed
+ORD01244,2025-12-22,CUST0248,Power Bank,Electronics,4,28.56,Credit Card,Completed
+ORD01466,2025-12-22,CUST0251,Running Shoes,Fashion,2,76.58,Credit Card,Returned
+ORD01839,2025-12-22,CUST0168,Backpack,Fashion,1,31.86,UPI,Completed
+ORD00618,2025-12-23,CUST0223,Perfume,Beauty,1,51.53,Cash on Delivery,Completed
+ORD02102,2025-12-23,CUST0013,Hair Dryer,Beauty,1,35.71,Credit Card,Returned
+ORD02455,2025-12-23,CUST0101,Wireless Earbuds,Electronics,2,59.46,Credit Card,Completed
+ORD00036,2025-12-24,CUST0036,Denim Jacket,Fashion,3,53.56,Credit Card,Completed
+ORD02097,2025-12-24,CUST0108,Backpack,Fashion,2,36.55,Cash on Delivery,Completed
+ORD02378,2025-12-24,CUST0249,Wireless Earbuds,Electronics,2,56.31,Credit Card,Completed
+ORD00070,2025-12-25,CUST0115,Running Shoes,Fashion,2,73.94,UPI,Completed
+ORD00149,2025-12-25,CUST0285,Wireless Earbuds,Electronics,1,62.1,UPI,Completed
+ORD00534,2025-12-25,CUST0295,Novel Bestseller,Books,1,12.97,Debit Card,Completed
+ORD00685,2025-12-25,CUST0282,USB-C Cable,Electronics,1,7.43,UPI,Completed
+ORD00933,2025-12-25,CUST0154,Coffee Maker,Home,1,68.7,UPI,Completed
+ORD01658,2025-12-25,CUST0237,Smartphone Case,Electronics,1,12.35,Debit Card,Completed
+ORD02112,2025-12-25,CUST0195,Power Bank,Electronics,2,25.57,UPI,Completed
+ORD00162,2025-12-26,CUST0076,Cotton T-Shirt,Fashion,1,13.94,Credit Card,Completed
+ORD00349,2025-12-26,CUST0220,Air Fryer,Home,1,83.52,Credit Card,Completed
+ORD00400,2025-12-26,CUST0280,Backpack,Fashion,1,37.3,PayPal,Completed
+ORD02348,2025-12-26,CUST0079,Cotton T-Shirt,Fashion,1,14.67,Cash on Delivery,Completed
+ORD00165,2025-12-27,CUST0260,Wireless Earbuds,Electronics,1,58.55,Credit Card,Completed
+ORD00389,2025-12-27,CUST0291,Face Serum,Beauty,1,26.33,Credit Card,Cancelled
+ORD00610,2025-12-27,CUST0162,Backpack,Fashion,1,38.48,PayPal,Completed
+ORD01315,2025-12-27,CUST0289,Smartphone Case,Electronics,1,12.52,PayPal,Completed
+ORD01402,2025-12-28,CUST0284,Power Bank,Electronics,1,25.48,Credit Card,Completed
+ORD01705,2025-12-28,CUST0210,Desk Lamp,Home,1,24.81,Cash on Delivery,Completed
+ORD00722,2025-12-29,CUST0222,Hair Dryer,Beauty,2,39.16,Credit Card,Completed
+ORD01808,2025-12-29,CUST0122,USB-C Cable,Electronics,1,8.09,Debit Card,Completed
+ORD02064,2025-12-29,CUST0091,Python Handbook,Books,1,30.69,Cash on Delivery,Completed
+ORD02352,2025-12-29,CUST0116,Coffee Maker,Home,1,64.0,Credit Card,Completed
+ORD02470,2025-12-29,CUST0295,Cookbook,Books,2,20.41,Debit Card,Completed
+ORD00388,2025-12-30,CUST0089,Smart Watch,Electronics,1,122.22,PayPal,Completed
+ORD00635,2025-12-30,CUST0155,Power Bank,Electronics,1,30.68,UPI,Completed
+ORD00916,2025-12-30,CUST0024,Power Bank,Electronics,2,28.32,Cash on Delivery,Completed
+ORD01450,2025-12-30,CUST0297,Smart Watch,Electronics,1,126.54,UPI,Completed
+ORD01561,2025-12-30,CUST0185,Running Shoes,Fashion,3,74.71,Debit Card,Completed
+ORD02156,2025-12-30,CUST0219,Desk Lamp,Home,1,27.0,UPI,Completed
+ORD02457,2025-12-30,CUST0284,Wireless Earbuds,Electronics,2,64.01,PayPal,Completed
+ORD00595,2025-12-31,CUST0079,Desk Lamp,Home,2,26.46,Credit Card,Completed
+ORD00823,2025-12-31,CUST0244,Novel Bestseller,Books,2,15.26,Cash on Delivery,Completed
+ORD00510,2026-01-01,CUST0066,Bed Sheet Set,Home,2,37.88,Credit Card,Completed
+ORD01342,2026-01-01,CUST0113,Backpack,Fashion,1,33.62,Debit Card,Completed
+ORD01857,2026-01-01,CUST0293,Perfume,Beauty,1,44.79,Debit Card,Completed
+ORD02269,2026-01-01,CUST0031,Hair Dryer,Beauty,1,40.74,PayPal,Completed
+ORD00043,2026-01-02,CUST0108,Python Handbook,Books,2,31.0,Debit Card,Completed
+ORD00967,2026-01-02,CUST0099,Cookbook,Books,1,22.5,Debit Card,Completed
+ORD02384,2026-01-02,CUST0071,Hair Dryer,Beauty,1,37.09,Debit Card,Completed
+ORD00121,2026-01-03,CUST0295,USB-C Cable,Electronics,1,8.32,Credit Card,Completed
+ORD00448,2026-01-03,CUST0097,Backpack,Fashion,1,37.85,PayPal,Completed
+ORD00310,2026-01-04,CUST0275,Running Shoes,Fashion,1,75.8,Credit Card,Completed
+ORD01324,2026-01-04,CUST0209,Wireless Earbuds,Electronics,1,63.3,Debit Card,Completed
+ORD02168,2026-01-04,CUST0143,Coffee Maker,Home,2,64.94,Credit Card,Completed
+ORD00790,2026-01-05,CUST0204,Running Shoes,Fashion,1,74.95,Debit Card,Completed
+ORD00878,2026-01-05,CUST0221,Cotton T-Shirt,Fashion,1,16.13,UPI,Completed
+ORD01601,2026-01-05,CUST0298,Smartphone Case,Electronics,2,12.97,Debit Card,Completed
+ORD02128,2026-01-05,CUST0272,Novel Bestseller,Books,4,13.98,Credit Card,Completed
+ORD00206,2026-01-06,CUST0261,Coffee Maker,Home,1,71.31,PayPal,Completed
+ORD02316,2026-01-06,CUST0186,Backpack,Fashion,1,35.57,PayPal,Completed
+ORD00223,2026-01-07,CUST0284,Denim Jacket,Fashion,1,53.75,Debit Card,Completed
+ORD00968,2026-01-07,CUST0019,Smart Watch,Electronics,1,129.71,UPI,Completed
+ORD02120,2026-01-07,CUST0208,USB-C Cable,Electronics,4,8.1,PayPal,Completed
+ORD00051,2026-01-08,CUST0221,Coffee Maker,Home,1,67.14,Debit Card,Completed
+ORD00169,2026-01-08,CUST0191,Denim Jacket,Fashion,3,53.76,PayPal,Completed
+ORD00471,2026-01-08,CUST0232,Air Fryer,Home,1,94.67,Credit Card,Completed
+ORD00850,2026-01-08,CUST0047,Smart Watch,Electronics,1,128.16,PayPal,Completed
+ORD01224,2026-01-08,CUST0009,Perfume,Beauty,1,46.15,PayPal,Completed
+ORD01897,2026-01-08,CUST0039,Hair Dryer,Beauty,1,39.81,Debit Card,Completed
+ORD02413,2026-01-09,CUST0006,Backpack,Fashion,1,34.49,PayPal,Completed
+ORD01957,2026-01-10,CUST0159,Running Shoes,Fashion,2,73.99,Debit Card,Completed
+ORD02296,2026-01-10,CUST0290,Running Shoes,Fashion,1,64.49,Credit Card,Completed
+ORD01442,2026-01-11,CUST0265,USB-C Cable,Electronics,1,8.26,Debit Card,Completed
+ORD01936,2026-01-11,CUST0154,Smartphone Case,Electronics,2,11.84,UPI,Completed
+ORD00819,2026-01-12,CUST0092,Perfume,Beauty,1,49.67,UPI,Completed
+ORD00868,2026-01-12,CUST0088,Wireless Earbuds,Electronics,3,54.48,UPI,Completed
+ORD01311,2026-01-12,CUST0141,Air Fryer,Home,1,93.56,Credit Card,Completed
+ORD00072,2026-01-13,CUST0086,Cotton T-Shirt,Fashion,2,16.39,UPI,Completed
+ORD00337,2026-01-13,CUST0233,Cotton T-Shirt,Fashion,4,14.48,Credit Card,Completed
+ORD01467,2026-01-13,CUST0186,Smartphone Case,Electronics,1,12.78,UPI,Completed
+ORD01727,2026-01-13,CUST0073,Backpack,Fashion,1,36.54,UPI,Completed
+ORD01825,2026-01-13,CUST0092,Cookbook,Books,1,23.9,Credit Card,Completed
+ORD02048,2026-01-13,CUST0027,Coffee Maker,Home,2,69.98,UPI,Returned
+ORD02077,2026-01-13,CUST0148,Coffee Maker,Home,1,70.96,UPI,Completed
+ORD02235,2026-01-13,CUST0072,Hair Dryer,Beauty,3,40.16,Debit Card,Completed
+ORD02338,2026-01-13,CUST0282,Face Serum,Beauty,1,28.16,UPI,Completed
+ORD00701,2026-01-14,CUST0282,Face Serum,Beauty,4,23.4,UPI,Cancelled
+ORD00716,2026-01-14,CUST0090,Smart Watch,Electronics,1,124.82,Debit Card,Completed
+ORD00872,2026-01-14,CUST0299,Coffee Maker,Home,2,64.46,Credit Card,Completed
+ORD01385,2026-01-14,CUST0105,Python Handbook,Books,1,32.69,Debit Card,Completed
+ORD01439,2026-01-14,CUST0015,Python Handbook,Books,2,31.28,UPI,Completed
+ORD02184,2026-01-14,CUST0133,Denim Jacket,Fashion,2,59.13,PayPal,Completed
+ORD02224,2026-01-14,CUST0143,Face Serum,Beauty,3,28.35,UPI,Completed
+ORD00277,2026-01-15,CUST0161,Denim Jacket,Fashion,1,55.69,Credit Card,Completed
+ORD01656,2026-01-15,CUST0225,USB-C Cable,Electronics,2,7.91,PayPal,Completed
+ORD01994,2026-01-15,CUST0232,Wireless Earbuds,Electronics,2,53.31,PayPal,Completed
+ORD02226,2026-01-15,CUST0154,Smart Watch,Electronics,3,125.02,UPI,Returned
+ORD02484,2026-01-15,CUST0007,Perfume,Beauty,1,45.24,UPI,Completed
+ORD00201,2026-01-16,CUST0228,Cotton T-Shirt,Fashion,2,15.22,UPI,Completed
+ORD01253,2026-01-16,CUST0191,Smartphone Case,Electronics,1,11.55,Credit Card,Completed
+ORD02361,2026-01-16,CUST0026,Face Serum,Beauty,3,24.66,Cash on Delivery,Completed
+ORD00379,2026-01-17,CUST0044,Smart Watch,Electronics,1,114.21,PayPal,Completed
+ORD00426,2026-01-17,CUST0251,Coffee Maker,Home,1,60.81,Cash on Delivery,Completed
+ORD00286,2026-01-18,CUST0208,Python Handbook,Books,1,28.46,UPI,Completed
+ORD01966,2026-01-18,CUST0149,Cotton T-Shirt,Fashion,3,13.63,Debit Card,Completed
+ORD02326,2026-01-18,CUST0137,Running Shoes,Fashion,1,69.54,UPI,Returned
+ORD00260,2026-01-19,CUST0196,Air Fryer,Home,1,97.51,Debit Card,Completed
+ORD00496,2026-01-19,CUST0264,USB-C Cable,Electronics,2,7.91,Credit Card,Returned
+ORD00940,2026-01-19,CUST0156,Power Bank,Electronics,1,25.36,Credit Card,Completed
+ORD01013,2026-01-19,CUST0072,Face Serum,Beauty,1,24.07,Cash on Delivery,Completed
+ORD01035,2026-01-19,CUST0123,Smartphone Case,Electronics,1,10.84,Credit Card,Completed
+ORD01056,2026-01-19,CUST0252,Hair Dryer,Beauty,1,37.36,Debit Card,Completed
+ORD01671,2026-01-19,CUST0158,Backpack,Fashion,1,32.49,Credit Card,Completed
+ORD01997,2026-01-20,CUST0152,Cookbook,Books,2,22.62,PayPal,Completed
+ORD01464,2026-01-21,CUST0238,Smart Watch,Electronics,2,126.31,Credit Card,Completed
+ORD01723,2026-01-21,CUST0217,Denim Jacket,Fashion,2,58.88,Credit Card,Completed
+ORD02159,2026-01-21,CUST0197,USB-C Cable,Electronics,1,8.35,Cash on Delivery,Completed
+ORD02180,2026-01-21,CUST0193,Power Bank,Electronics,2,26.73,Cash on Delivery,Returned
+ORD00979,2026-01-22,CUST0161,Wireless Earbuds,Electronics,3,61.28,PayPal,Completed
+ORD01406,2026-01-22,CUST0206,Wireless Earbuds,Electronics,1,61.84,Credit Card,Completed
+ORD01841,2026-01-22,CUST0170,Smartphone Case,Electronics,2,11.86,UPI,Completed
+ORD01955,2026-01-22,CUST0177,Coffee Maker,Home,2,59.65,UPI,Completed
+ORD02441,2026-01-22,CUST0039,Smart Watch,Electronics,1,114.22,UPI,Completed
+ORD00656,2026-01-23,CUST0282,Coffee Maker,Home,1,68.49,Cash on Delivery,Completed
+ORD01239,2026-01-23,CUST0134,Cookbook,Books,2,21.01,Cash on Delivery,Completed
+ORD01365,2026-01-23,CUST0299,Denim Jacket,Fashion,1,57.49,Debit Card,Cancelled
+ORD00053,2026-01-24,CUST0090,Smart Watch,Electronics,2,115.22,UPI,Completed
+ORD01517,2026-01-24,CUST0008,Backpack,Fashion,2,31.95,Credit Card,Completed
+ORD00114,2026-01-25,CUST0163,Hair Dryer,Beauty,2,40.94,Debit Card,Completed
+ORD00157,2026-01-25,CUST0273,Denim Jacket,Fashion,2,55.0,PayPal,Completed
+ORD00959,2026-01-25,CUST0180,Power Bank,Electronics,2,26.39,PayPal,Completed
+ORD01144,2026-01-25,CUST0209,Wireless Earbuds,Electronics,1,61.36,Cash on Delivery,Completed
+ORD02152,2026-01-25,CUST0289,Python Handbook,Books,1,30.57,Credit Card,Completed
+ORD02234,2026-01-25,CUST0008,Denim Jacket,Fashion,1,50.37,Cash on Delivery,Completed
+ORD00269,2026-01-26,CUST0269,Hair Dryer,Beauty,1,37.36,Credit Card,Completed
+ORD01029,2026-01-26,CUST0176,Smart Watch,Electronics,2,128.54,Debit Card,Completed
+ORD01111,2026-01-26,CUST0084,Cotton T-Shirt,Fashion,1,13.75,Credit Card,Completed
+ORD01707,2026-01-26,CUST0077,Perfume,Beauty,1,43.33,PayPal,Completed
+ORD02049,2026-01-26,CUST0170,Novel Bestseller,Books,2,14.19,Credit Card,Completed
+ORD00118,2026-01-27,CUST0124,USB-C Cable,Electronics,1,8.13,Credit Card,Completed
+ORD00870,2026-01-27,CUST0067,Smart Watch,Electronics,1,112.96,Credit Card,Completed
+ORD01832,2026-01-27,CUST0193,Air Fryer,Home,1,81.43,Debit Card,Completed
+ORD00363,2026-01-28,CUST0077,Power Bank,Electronics,1,30.58,Credit Card,Completed
+ORD00418,2026-01-28,CUST0249,Perfume,Beauty,1,47.74,Credit Card,Completed
+ORD00770,2026-01-28,CUST0188,Face Serum,Beauty,1,23.61,Debit Card,Completed
+ORD01768,2026-01-28,CUST0276,Smart Watch,Electronics,2,118.14,UPI,Returned
+ORD00326,2026-01-29,CUST0288,Denim Jacket,Fashion,1,54.94,UPI,Completed
+ORD01182,2026-01-29,CUST0043,Denim Jacket,Fashion,1,54.14,UPI,Completed
+ORD00299,2026-01-30,CUST0007,Bed Sheet Set,Home,1,39.1,Credit Card,Returned
+ORD00768,2026-01-30,CUST0171,Face Serum,Beauty,1,24.94,PayPal,Completed
+ORD01180,2026-01-30,CUST0181,Face Serum,Beauty,1,25.6,UPI,Completed
+ORD01269,2026-01-30,CUST0097,Air Fryer,Home,1,87.13,PayPal,Completed
+ORD01431,2026-01-30,CUST0243,Air Fryer,Home,1,96.1,Debit Card,Completed
+ORD01644,2026-01-30,CUST0097,Power Bank,Electronics,1,28.21,PayPal,Completed
+ORD02422,2026-01-30,CUST0202,Bed Sheet Set,Home,2,38.25,Credit Card,Completed
+ORD00111,2026-01-31,CUST0078,Air Fryer,Home,1,81.67,UPI,Completed
+ORD01664,2026-01-31,CUST0145,Hair Dryer,Beauty,2,37.14,Cash on Delivery,Completed
+ORD02219,2026-01-31,CUST0063,Air Fryer,Home,1,82.51,Credit Card,Completed
+ORD00477,2026-02-01,CUST0165,Python Handbook,Books,1,29.31,Cash on Delivery,Returned
+ORD00758,2026-02-01,CUST0192,Coffee Maker,Home,1,67.86,UPI,Cancelled
+ORD01203,2026-02-01,CUST0123,Hair Dryer,Beauty,1,38.84,Credit Card,Completed
+ORD01628,2026-02-01,CUST0209,Hair Dryer,Beauty,1,37.81,PayPal,Completed
+ORD01696,2026-02-01,CUST0165,Wireless Earbuds,Electronics,2,55.37,PayPal,Completed
+ORD02280,2026-02-01,CUST0225,USB-C Cable,Electronics,1,7.27,UPI,Completed
+ORD00132,2026-02-02,CUST0233,Face Serum,Beauty,1,28.34,UPI,Completed
+ORD01351,2026-02-02,CUST0148,Cookbook,Books,3,23.93,Debit Card,Completed
+ORD00064,2026-02-03,CUST0300,Smart Watch,Electronics,3,108.47,Cash on Delivery,Completed
+ORD01719,2026-02-03,CUST0099,Smart Watch,Electronics,2,114.63,Credit Card,Completed
+ORD01867,2026-02-03,CUST0096,Novel Bestseller,Books,2,13.9,Cash on Delivery,Completed
+ORD01881,2026-02-03,CUST0288,Smartphone Case,Electronics,2,11.23,UPI,Completed
+ORD02012,2026-02-03,CUST0033,Backpack,Fashion,4,32.32,Cash on Delivery,Completed
+ORD01034,2026-02-04,CUST0158,Desk Lamp,Home,1,25.49,Credit Card,Completed
+ORD01490,2026-02-04,CUST0131,Denim Jacket,Fashion,1,56.77,UPI,Completed
+ORD01648,2026-02-04,CUST0117,Python Handbook,Books,1,32.03,Credit Card,Completed
+ORD00396,2026-02-05,CUST0291,USB-C Cable,Electronics,1,8.16,Cash on Delivery,Cancelled
+ORD01032,2026-02-05,CUST0087,USB-C Cable,Electronics,1,8.42,UPI,Completed
+ORD01308,2026-02-05,CUST0029,Backpack,Fashion,3,33.6,Debit Card,Completed
+ORD01589,2026-02-05,CUST0082,Python Handbook,Books,2,29.35,Credit Card,Completed
+ORD02313,2026-02-06,CUST0084,Smart Watch,Electronics,1,109.95,Cash on Delivery,Returned
+ORD00964,2026-02-07,CUST0276,Air Fryer,Home,1,96.78,UPI,Completed
+ORD01026,2026-02-07,CUST0023,Desk Lamp,Home,1,26.85,Credit Card,Completed
+ORD01739,2026-02-07,CUST0062,Cotton T-Shirt,Fashion,2,14.85,Debit Card,Cancelled
+ORD01861,2026-02-07,CUST0174,Desk Lamp,Home,2,25.97,PayPal,Completed
+ORD02329,2026-02-07,CUST0198,Cotton T-Shirt,Fashion,3,15.28,UPI,Cancelled
+ORD01103,2026-02-08,CUST0285,Python Handbook,Books,2,31.7,UPI,Completed
+ORD01167,2026-02-08,CUST0097,Smartphone Case,Electronics,1,10.97,Credit Card,Returned
+ORD01316,2026-02-08,CUST0035,Novel Bestseller,Books,3,14.41,Debit Card,Completed
+ORD00902,2026-02-09,CUST0155,Hair Dryer,Beauty,1,35.23,Credit Card,Completed
+ORD01038,2026-02-09,CUST0220,USB-C Cable,Electronics,1,7.54,Debit Card,Completed
+ORD01829,2026-02-09,CUST0282,Cookbook,Books,1,21.58,UPI,Cancelled
+ORD02138,2026-02-09,CUST0271,Novel Bestseller,Books,4,14.39,UPI,Completed
+ORD02163,2026-02-09,CUST0246,Cotton T-Shirt,Fashion,1,16.46,UPI,Completed
+ORD02291,2026-02-09,CUST0024,Denim Jacket,Fashion,1,58.77,Debit Card,Completed
+ORD00343,2026-02-10,CUST0157,Desk Lamp,Home,2,26.28,Debit Card,Completed
+ORD00672,2026-02-10,CUST0292,Bed Sheet Set,Home,2,36.23,Credit Card,Completed
+ORD01403,2026-02-10,CUST0118,Hair Dryer,Beauty,1,35.43,Debit Card,Completed
+ORD01759,2026-02-10,CUST0042,Smartphone Case,Electronics,2,12.91,Cash on Delivery,Completed
+ORD01212,2026-02-11,CUST0222,Wireless Earbuds,Electronics,1,56.98,Debit Card,Cancelled
+ORD01274,2026-02-11,CUST0258,Denim Jacket,Fashion,1,53.17,Debit Card,Completed
+ORD01737,2026-02-11,CUST0109,Denim Jacket,Fashion,1,49.58,UPI,Completed
+ORD01982,2026-02-11,CUST0272,Smartphone Case,Electronics,1,12.81,UPI,Completed
+ORD02480,2026-02-11,CUST0205,Face Serum,Beauty,1,26.53,Credit Card,Completed
+ORD00208,2026-02-12,CUST0246,Power Bank,Electronics,1,29.51,PayPal,Completed
+ORD00478,2026-02-12,CUST0176,Novel Bestseller,Books,4,13.87,Credit Card,Completed
+ORD01252,2026-02-12,CUST0016,Bed Sheet Set,Home,1,42.47,Debit Card,Completed
+ORD01653,2026-02-12,CUST0146,Cotton T-Shirt,Fashion,1,14.35,UPI,Completed
+ORD00553,2026-02-13,CUST0176,Wireless Earbuds,Electronics,1,64.09,Debit Card,Completed
+ORD01023,2026-02-13,CUST0127,Wireless Earbuds,Electronics,1,63.84,Cash on Delivery,Completed
+ORD01457,2026-02-13,CUST0243,Air Fryer,Home,2,85.55,Debit Card,Completed
+ORD02010,2026-02-13,CUST0278,Power Bank,Electronics,1,28.49,PayPal,Completed
+ORD02437,2026-02-13,CUST0179,Wireless Earbuds,Electronics,1,54.77,UPI,Completed
+ORD01260,2026-02-14,CUST0041,Power Bank,Electronics,1,26.95,UPI,Completed
+ORD01465,2026-02-14,CUST0168,Python Handbook,Books,3,31.92,UPI,Completed
+ORD01459,2026-02-15,CUST0015,Cookbook,Books,1,20.53,Debit Card,Completed
+ORD01862,2026-02-15,CUST0215,Cotton T-Shirt,Fashion,2,14.21,Cash on Delivery,Completed
+ORD02171,2026-02-15,CUST0237,Desk Lamp,Home,2,23.23,Credit Card,Completed
+ORD00949,2026-02-16,CUST0024,Cotton T-Shirt,Fashion,1,16.3,Debit Card,Completed
+ORD00936,2026-02-17,CUST0287,USB-C Cable,Electronics,1,7.83,Credit Card,Completed
+ORD01235,2026-02-17,CUST0163,Coffee Maker,Home,1,64.19,Credit Card,Completed
+ORD00444,2026-02-18,CUST0220,Air Fryer,Home,4,87.9,Credit Card,Completed
+ORD01921,2026-02-18,CUST0011,Bed Sheet Set,Home,1,43.66,Credit Card,Returned
+ORD02001,2026-02-18,CUST0289,Novel Bestseller,Books,1,15.23,Debit Card,Completed
+ORD02081,2026-02-18,CUST0266,Smart Watch,Electronics,2,123.96,Credit Card,Completed
+ORD00784,2026-02-19,CUST0256,Wireless Earbuds,Electronics,2,64.28,Cash on Delivery,Completed
+ORD00901,2026-02-19,CUST0250,Air Fryer,Home,1,95.64,UPI,Completed
+ORD01471,2026-02-19,CUST0007,Running Shoes,Fashion,1,64.8,UPI,Completed
+ORD01612,2026-02-19,CUST0135,Hair Dryer,Beauty,1,36.79,Debit Card,Completed
+ORD00767,2026-02-20,CUST0095,Denim Jacket,Fashion,2,53.57,Debit Card,Completed
+ORD01125,2026-02-20,CUST0008,Desk Lamp,Home,2,27.05,UPI,Completed
+ORD01515,2026-02-20,CUST0245,Hair Dryer,Beauty,2,35.5,Debit Card,Completed
+ORD01221,2026-02-21,CUST0135,Cookbook,Books,1,19.82,Debit Card,Completed
+ORD01755,2026-02-21,CUST0090,Cotton T-Shirt,Fashion,1,14.62,Cash on Delivery,Completed
+ORD01199,2026-02-22,CUST0258,Bed Sheet Set,Home,1,42.46,Credit Card,Completed
+ORD01985,2026-02-22,CUST0022,USB-C Cable,Electronics,2,8.21,PayPal,Completed
+ORD02166,2026-02-22,CUST0056,Python Handbook,Books,1,29.85,Debit Card,Completed
+ORD00473,2026-02-24,CUST0055,Cookbook,Books,1,20.66,Credit Card,Completed
+ORD01444,2026-02-24,CUST0089,USB-C Cable,Electronics,2,8.55,Cash on Delivery,Completed
+ORD01650,2026-02-24,CUST0006,Bed Sheet Set,Home,1,39.31,Credit Card,Returned
+ORD01661,2026-02-24,CUST0266,Wireless Earbuds,Electronics,1,60.4,Credit Card,Returned
+ORD01822,2026-02-24,CUST0160,Face Serum,Beauty,1,23.75,Cash on Delivery,Completed
+ORD02243,2026-02-24,CUST0141,Cotton T-Shirt,Fashion,4,14.88,Credit Card,Completed
+ORD00232,2026-02-25,CUST0257,Smartphone Case,Electronics,2,13.01,Cash on Delivery,Completed
+ORD00529,2026-02-25,CUST0074,Denim Jacket,Fashion,2,58.52,Credit Card,Completed
+ORD00845,2026-02-25,CUST0164,Backpack,Fashion,3,37.88,UPI,Completed
+ORD00045,2026-02-26,CUST0128,Power Bank,Electronics,1,29.61,Credit Card,Returned
+ORD00348,2026-02-26,CUST0227,Coffee Maker,Home,3,59.63,Credit Card,Completed
+ORD00804,2026-02-26,CUST0175,Backpack,Fashion,3,32.64,Credit Card,Completed
+ORD00935,2026-02-26,CUST0042,Smart Watch,Electronics,1,118.2,Credit Card,Completed
+ORD02087,2026-02-26,CUST0088,Coffee Maker,Home,4,68.03,PayPal,Completed
+ORD02473,2026-02-26,CUST0217,USB-C Cable,Electronics,1,8.8,Credit Card,Completed
+ORD01231,2026-02-27,CUST0203,Novel Bestseller,Books,1,13.65,Credit Card,Completed
+ORD01616,2026-02-27,CUST0096,Denim Jacket,Fashion,2,55.89,UPI,Returned
+ORD02336,2026-02-27,CUST0113,USB-C Cable,Electronics,2,7.93,Credit Card,Returned
+ORD00670,2026-02-28,CUST0024,Air Fryer,Home,1,91.09,UPI,Completed
+ORD01225,2026-02-28,CUST0211,Backpack,Fashion,1,37.3,Debit Card,Cancelled
+ORD00133,2026-03-01,CUST0051,Coffee Maker,Home,2,66.5,Cash on Delivery,Completed
+ORD00525,2026-03-01,CUST0170,Smartphone Case,Electronics,2,11.96,Debit Card,Completed
+ORD01047,2026-03-01,CUST0148,Cookbook,Books,2,20.81,UPI,Completed
+ORD02139,2026-03-01,CUST0196,Desk Lamp,Home,2,26.25,Credit Card,Returned
+ORD00253,2026-03-02,CUST0282,Cotton T-Shirt,Fashion,3,15.77,PayPal,Completed
+ORD01025,2026-03-02,CUST0128,Python Handbook,Books,1,30.71,Debit Card,Completed
+ORD01037,2026-03-02,CUST0263,Desk Lamp,Home,1,24.14,UPI,Completed
+ORD02335,2026-03-02,CUST0060,Smartphone Case,Electronics,1,11.56,Debit Card,Completed
+ORD00451,2026-03-03,CUST0228,Wireless Earbuds,Electronics,1,59.56,Debit Card,Completed
+ORD00486,2026-03-03,CUST0161,Perfume,Beauty,4,43.72,UPI,Completed
+ORD00942,2026-03-04,CUST0247,Wireless Earbuds,Electronics,1,59.78,Cash on Delivery,Completed
+ORD00871,2026-03-05,CUST0093,Coffee Maker,Home,1,60.4,Credit Card,Completed
+ORD01419,2026-03-05,CUST0205,USB-C Cable,Electronics,1,7.39,Cash on Delivery,Completed
+ORD00370,2026-03-06,CUST0252,Smartphone Case,Electronics,4,13.13,Credit Card,Completed
+ORD00531,2026-03-06,CUST0077,Hair Dryer,Beauty,2,35.55,Cash on Delivery,Completed
+ORD00926,2026-03-06,CUST0206,Bed Sheet Set,Home,3,41.61,Cash on Delivery,Completed
+ORD01113,2026-03-06,CUST0079,Coffee Maker,Home,1,68.74,Debit Card,Cancelled
+ORD01440,2026-03-06,CUST0062,Face Serum,Beauty,1,26.71,Credit Card,Completed
+ORD01964,2026-03-06,CUST0067,Smartphone Case,Electronics,1,12.54,UPI,Completed
+ORD02381,2026-03-06,CUST0104,Running Shoes,Fashion,1,67.87,UPI,Completed
+ORD01902,2026-03-07,CUST0048,Perfume,Beauty,2,45.78,Credit Card,Completed
+ORD01909,2026-03-07,CUST0131,Wireless Earbuds,Electronics,2,58.97,Cash on Delivery,Completed
+ORD01257,2026-03-08,CUST0062,Power Bank,Electronics,1,26.16,Debit Card,Completed
+ORD00026,2026-03-09,CUST0094,Denim Jacket,Fashion,1,52.25,Cash on Delivery,Completed
+ORD00345,2026-03-09,CUST0068,Desk Lamp,Home,1,23.64,Credit Card,Completed
+ORD00482,2026-03-09,CUST0007,Bed Sheet Set,Home,1,36.2,Credit Card,Completed
+ORD01275,2026-03-09,CUST0100,Smart Watch,Electronics,1,117.66,UPI,Completed
+ORD01375,2026-03-09,CUST0182,Backpack,Fashion,1,36.38,Credit Card,Completed
+ORD01472,2026-03-09,CUST0028,Smart Watch,Electronics,1,114.21,UPI,Completed
+ORD01649,2026-03-09,CUST0293,Power Bank,Electronics,2,30.25,Debit Card,Cancelled
+ORD00625,2026-03-10,CUST0188,Smart Watch,Electronics,1,115.7,UPI,Completed
+ORD01746,2026-03-10,CUST0191,Denim Jacket,Fashion,1,54.09,Credit Card,Completed
+ORD01806,2026-03-10,CUST0105,Hair Dryer,Beauty,1,39.22,Credit Card,Completed
+ORD00498,2026-03-11,CUST0054,Smartphone Case,Electronics,1,12.79,Cash on Delivery,Completed
+ORD01474,2026-03-11,CUST0273,Smartphone Case,Electronics,2,12.89,Credit Card,Completed
+ORD00083,2026-03-12,CUST0282,Cotton T-Shirt,Fashion,1,15.61,Credit Card,Completed
+ORD00094,2026-03-12,CUST0059,Coffee Maker,Home,1,66.92,Cash on Delivery,Completed
+ORD00706,2026-03-12,CUST0093,Cookbook,Books,1,21.67,PayPal,Completed
+ORD01417,2026-03-12,CUST0040,Wireless Earbuds,Electronics,1,62.03,Credit Card,Completed
+ORD01469,2026-03-12,CUST0078,Denim Jacket,Fashion,1,53.75,PayPal,Completed
+ORD01535,2026-03-12,CUST0289,Cotton T-Shirt,Fashion,1,14.75,PayPal,Completed
+ORD00458,2026-03-13,CUST0060,Cotton T-Shirt,Fashion,1,15.77,Credit Card,Completed
+ORD00744,2026-03-13,CUST0173,Smartphone Case,Electronics,2,13.16,UPI,Completed
+ORD00667,2026-03-14,CUST0163,Cotton T-Shirt,Fashion,1,15.23,UPI,Returned
+ORD00728,2026-03-14,CUST0166,Perfume,Beauty,1,50.7,Credit Card,Completed
+ORD01933,2026-03-14,CUST0179,Desk Lamp,Home,3,26.27,UPI,Completed
+ORD02435,2026-03-14,CUST0108,Perfume,Beauty,1,51.63,UPI,Completed
+ORD00489,2026-03-15,CUST0143,Wireless Earbuds,Electronics,1,54.63,UPI,Completed
+ORD00512,2026-03-15,CUST0087,Cotton T-Shirt,Fashion,1,14.24,Credit Card,Completed
+ORD00833,2026-03-15,CUST0177,Running Shoes,Fashion,4,68.77,Credit Card,Completed
+ORD01077,2026-03-15,CUST0244,Novel Bestseller,Books,4,15.0,Cash on Delivery,Completed
+ORD01986,2026-03-15,CUST0223,Backpack,Fashion,4,36.71,UPI,Completed
+ORD02067,2026-03-15,CUST0214,Hair Dryer,Beauty,1,36.67,PayPal,Completed
+ORD02187,2026-03-15,CUST0245,Perfume,Beauty,2,47.75,Debit Card,Completed
+ORD02130,2026-03-16,CUST0130,Backpack,Fashion,1,32.93,UPI,Completed
+ORD00828,2026-03-17,CUST0061,Wireless Earbuds,Electronics,1,56.81,Debit Card,Completed
+ORD01629,2026-03-17,CUST0130,Denim Jacket,Fashion,1,51.53,Debit Card,Completed
+ORD01779,2026-03-17,CUST0011,Cotton T-Shirt,Fashion,2,16.19,Debit Card,Completed
+ORD00117,2026-03-18,CUST0075,Power Bank,Electronics,1,27.51,UPI,Completed
+ORD00222,2026-03-18,CUST0069,Running Shoes,Fashion,3,73.19,PayPal,Completed
+ORD00298,2026-03-18,CUST0230,Smartphone Case,Electronics,1,12.03,Credit Card,Completed
+ORD02026,2026-03-18,CUST0142,Face Serum,Beauty,1,23.68,Debit Card,Completed
+ORD00295,2026-03-19,CUST0096,Air Fryer,Home,2,92.89,Credit Card,Completed
+ORD00891,2026-03-19,CUST0159,Smart Watch,Electronics,3,122.48,Debit Card,Completed
+ORD00961,2026-03-19,CUST0108,Bed Sheet Set,Home,2,43.66,Debit Card,Completed
+ORD01603,2026-03-19,CUST0014,Cookbook,Books,1,20.6,UPI,Completed
+ORD01710,2026-03-20,CUST0223,Air Fryer,Home,3,83.88,Cash on Delivery,Completed
+ORD01836,2026-03-20,CUST0040,Backpack,Fashion,1,33.98,UPI,Completed
+ORD01840,2026-03-20,CUST0264,Backpack,Fashion,1,36.96,UPI,Completed
+ORD00049,2026-03-21,CUST0177,USB-C Cable,Electronics,2,7.7,UPI,Completed
+ORD01165,2026-03-21,CUST0189,Smartphone Case,Electronics,1,11.95,Debit Card,Completed
+ORD02007,2026-03-21,CUST0137,Denim Jacket,Fashion,1,55.56,UPI,Completed
+ORD02218,2026-03-21,CUST0195,Backpack,Fashion,1,37.87,UPI,Completed
+ORD01256,2026-03-22,CUST0163,Smart Watch,Electronics,2,112.76,Credit Card,Completed
+ORD01641,2026-03-22,CUST0194,Air Fryer,Home,1,81.43,Credit Card,Completed
+ORD01865,2026-03-22,CUST0210,Smart Watch,Electronics,1,123.46,Cash on Delivery,Completed
+ORD02445,2026-03-22,CUST0279,Coffee Maker,Home,1,64.99,Debit Card,Returned
+ORD00099,2026-03-23,CUST0252,USB-C Cable,Electronics,4,7.95,Debit Card,Completed
+ORD00158,2026-03-23,CUST0010,Wireless Earbuds,Electronics,1,54.02,Debit Card,Completed
+ORD00879,2026-03-23,CUST0085,Power Bank,Electronics,1,30.77,PayPal,Completed
+ORD00881,2026-03-23,CUST0060,Smart Watch,Electronics,4,130.25,Credit Card,Completed
+ORD01058,2026-03-23,CUST0131,Coffee Maker,Home,2,68.27,Debit Card,Completed
+ORD01852,2026-03-23,CUST0208,Running Shoes,Fashion,2,65.16,Debit Card,Completed
+ORD01990,2026-03-23,CUST0293,Denim Jacket,Fashion,1,56.39,Debit Card,Completed
+ORD02450,2026-03-23,CUST0075,Smartphone Case,Electronics,1,11.26,Credit Card,Completed
+ORD00394,2026-03-24,CUST0250,Denim Jacket,Fashion,2,51.42,Cash on Delivery,Completed
+ORD00705,2026-03-24,CUST0070,Smart Watch,Electronics,1,123.41,Debit Card,Completed
+ORD01218,2026-03-24,CUST0182,Coffee Maker,Home,3,65.91,PayPal,Completed
+ORD02132,2026-03-24,CUST0077,Novel Bestseller,Books,1,14.24,UPI,Completed
+ORD00176,2026-03-25,CUST0023,Coffee Maker,Home,1,67.29,Credit Card,Completed
+ORD00503,2026-03-25,CUST0196,Bed Sheet Set,Home,1,41.29,Debit Card,Completed
+ORD01592,2026-03-25,CUST0153,Coffee Maker,Home,2,65.54,UPI,Completed
+ORD02407,2026-03-25,CUST0147,Air Fryer,Home,1,85.74,Cash on Delivery,Completed
+ORD00544,2026-03-26,CUST0006,Smart Watch,Electronics,1,123.77,PayPal,Completed
+ORD01340,2026-03-26,CUST0093,Smartphone Case,Electronics,1,11.55,UPI,Returned
+ORD02092,2026-03-26,CUST0002,Cookbook,Books,1,20.57,Credit Card,Completed
+ORD00815,2026-03-27,CUST0055,Coffee Maker,Home,1,63.11,Debit Card,Completed
+ORD01430,2026-03-27,CUST0218,USB-C Cable,Electronics,2,7.72,UPI,Completed
+ORD01570,2026-03-27,CUST0069,Hair Dryer,Beauty,3,40.35,Credit Card,Completed
+ORD02309,2026-03-27,CUST0234,Denim Jacket,Fashion,1,53.88,UPI,Completed
+ORD00178,2026-03-28,CUST0237,USB-C Cable,Electronics,2,8.44,UPI,Completed
+ORD01068,2026-03-28,CUST0056,Smart Watch,Electronics,3,111.99,Credit Card,Completed
+ORD01208,2026-03-28,CUST0188,Denim Jacket,Fashion,1,56.37,Debit Card,Completed
+ORD01634,2026-03-28,CUST0091,Denim Jacket,Fashion,1,58.46,Debit Card,Completed
+ORD02043,2026-03-28,CUST0047,Hair Dryer,Beauty,1,35.56,Cash on Delivery,Completed
+ORD02206,2026-03-28,CUST0243,Backpack,Fashion,1,35.1,Credit Card,Completed
+ORD02317,2026-03-28,CUST0221,Running Shoes,Fashion,1,65.75,Debit Card,Completed
+ORD00550,2026-03-30,CUST0194,Cotton T-Shirt,Fashion,1,15.81,PayPal,Cancelled
+ORD01526,2026-03-30,CUST0100,Running Shoes,Fashion,1,71.89,PayPal,Cancelled
+ORD01673,2026-03-30,CUST0013,Denim Jacket,Fashion,2,53.75,UPI,Completed
+ORD00116,2026-03-31,CUST0086,Desk Lamp,Home,2,27.02,Credit Card,Completed
+ORD00134,2026-03-31,CUST0228,Coffee Maker,Home,4,69.62,Credit Card,Completed
+ORD01189,2026-03-31,CUST0007,Cotton T-Shirt,Fashion,1,13.97,Cash on Delivery,Completed
+ORD01557,2026-03-31,CUST0107,Face Serum,Beauty,1,25.72,Debit Card,Completed
+ORD00905,2026-04-01,CUST0249,Smartphone Case,Electronics,1,12.86,UPI,Completed
+ORD00965,2026-04-01,CUST0064,Hair Dryer,Beauty,1,40.38,PayPal,Completed
+ORD00203,2026-04-02,CUST0110,Power Bank,Electronics,4,26.8,Cash on Delivery,Completed
+ORD00313,2026-04-02,CUST0192,Coffee Maker,Home,1,68.54,UPI,Completed
+ORD00688,2026-04-02,CUST0183,Cookbook,Books,1,23.4,UPI,Completed
+ORD00725,2026-04-02,CUST0180,Running Shoes,Fashion,1,66.97,Credit Card,Completed
+ORD00789,2026-04-02,CUST0045,USB-C Cable,Electronics,4,7.83,Debit Card,Completed
+ORD01544,2026-04-02,CUST0110,Cotton T-Shirt,Fashion,1,14.9,Debit Card,Completed
+ORD01812,2026-04-02,CUST0110,Air Fryer,Home,1,96.25,Debit Card,Completed
+ORD00540,2026-04-03,CUST0083,Smartphone Case,Electronics,1,12.02,PayPal,Completed
+ORD01105,2026-04-03,CUST0161,USB-C Cable,Electronics,1,7.41,Credit Card,Completed
+ORD01913,2026-04-03,CUST0074,Smartphone Case,Electronics,1,12.36,Credit Card,Completed
+ORD02107,2026-04-03,CUST0070,Desk Lamp,Home,2,25.81,Cash on Delivery,Completed
+ORD00612,2026-04-04,CUST0204,Smart Watch,Electronics,1,108.83,Credit Card,Completed
+ORD01202,2026-04-04,CUST0068,Cotton T-Shirt,Fashion,1,14.58,Cash on Delivery,Completed
+ORD01637,2026-04-04,CUST0060,Backpack,Fashion,2,31.96,Credit Card,Completed
+ORD02259,2026-04-04,CUST0100,Backpack,Fashion,1,33.03,UPI,Completed
+ORD00184,2026-04-05,CUST0003,Smart Watch,Electronics,3,108.46,Credit Card,Completed
+ORD00309,2026-04-05,CUST0246,Python Handbook,Books,1,30.21,Cash on Delivery,Returned
+ORD00488,2026-04-05,CUST0091,Perfume,Beauty,4,43.91,Cash on Delivery,Completed
+ORD00721,2026-04-05,CUST0196,Cotton T-Shirt,Fashion,2,16.39,UPI,Completed
+ORD00932,2026-04-05,CUST0153,Wireless Earbuds,Electronics,1,53.16,Debit Card,Completed
+ORD02017,2026-04-05,CUST0072,Running Shoes,Fashion,2,73.68,Debit Card,Completed
+ORD02487,2026-04-05,CUST0292,Perfume,Beauty,1,50.51,Cash on Delivery,Returned
+ORD00218,2026-04-06,CUST0127,Cotton T-Shirt,Fashion,1,13.65,Cash on Delivery,Returned
+ORD00899,2026-04-06,CUST0136,Backpack,Fashion,1,37.93,PayPal,Completed
+ORD01251,2026-04-06,CUST0086,Desk Lamp,Home,3,27.29,Credit Card,Completed
+ORD01497,2026-04-06,CUST0081,Novel Bestseller,Books,3,13.1,Credit Card,Completed
+ORD01833,2026-04-06,CUST0072,Smartphone Case,Electronics,2,11.52,Credit Card,Completed
+ORD00511,2026-04-07,CUST0169,Smart Watch,Electronics,2,115.34,UPI,Completed
+ORD02200,2026-04-07,CUST0225,Desk Lamp,Home,3,24.49,Credit Card,Completed
+ORD02404,2026-04-07,CUST0297,Smartphone Case,Electronics,1,12.58,UPI,Completed
+ORD00204,2026-04-08,CUST0089,Wireless Earbuds,Electronics,3,58.35,Credit Card,Completed
+ORD00774,2026-04-08,CUST0189,Novel Bestseller,Books,2,15.25,PayPal,Cancelled
+ORD01216,2026-04-08,CUST0215,Cotton T-Shirt,Fashion,1,15.51,Credit Card,Completed
+ORD00484,2026-04-09,CUST0053,Cotton T-Shirt,Fashion,2,15.53,UPI,Completed
+ORD00773,2026-04-09,CUST0249,Power Bank,Electronics,1,29.85,Debit Card,Completed
+ORD00962,2026-04-09,CUST0140,Cotton T-Shirt,Fashion,1,16.45,Debit Card,Completed
+ORD01271,2026-04-09,CUST0263,Perfume,Beauty,1,47.04,Credit Card,Completed
+ORD01817,2026-04-09,CUST0012,Wireless Earbuds,Electronics,1,57.17,Debit Card,Completed
+ORD02246,2026-04-09,CUST0124,Power Bank,Electronics,1,30.76,Credit Card,Cancelled
+ORD00530,2026-04-10,CUST0036,Power Bank,Electronics,1,27.36,Credit Card,Completed
+ORD00660,2026-04-10,CUST0210,Air Fryer,Home,1,91.82,Credit Card,Returned
+ORD00711,2026-04-10,CUST0263,Novel Bestseller,Books,3,14.21,Debit Card,Completed
+ORD01238,2026-04-10,CUST0184,Denim Jacket,Fashion,1,56.68,Credit Card,Completed
+ORD01293,2026-04-10,CUST0021,Python Handbook,Books,1,31.95,Credit Card,Completed
+ORD01373,2026-04-10,CUST0008,Python Handbook,Books,1,29.51,PayPal,Completed
+ORD02033,2026-04-10,CUST0245,Desk Lamp,Home,2,24.51,Cash on Delivery,Completed
+ORD00654,2026-04-11,CUST0047,Coffee Maker,Home,1,67.49,Cash on Delivery,Completed
+ORD01874,2026-04-11,CUST0281,Running Shoes,Fashion,1,76.96,Debit Card,Completed
+ORD02426,2026-04-11,CUST0026,Face Serum,Beauty,3,25.92,UPI,Completed
+ORD00057,2026-04-12,CUST0213,Desk Lamp,Home,3,25.38,UPI,Completed
+ORD00447,2026-04-12,CUST0267,Power Bank,Electronics,1,27.09,Cash on Delivery,Cancelled
+ORD01281,2026-04-12,CUST0073,Power Bank,Electronics,4,28.93,Debit Card,Completed
+ORD02109,2026-04-12,CUST0155,Denim Jacket,Fashion,2,50.64,PayPal,Completed
+ORD00341,2026-04-13,CUST0001,Perfume,Beauty,4,47.31,Cash on Delivery,Returned
+ORD00470,2026-04-13,CUST0175,Coffee Maker,Home,1,59.21,Credit Card,Completed
+ORD00475,2026-04-14,CUST0259,Smart Watch,Electronics,1,119.97,UPI,Completed
+ORD00559,2026-04-14,CUST0062,Denim Jacket,Fashion,2,54.56,UPI,Completed
+ORD00779,2026-04-14,CUST0156,Air Fryer,Home,1,97.17,Debit Card,Completed
+ORD00882,2026-04-14,CUST0253,Air Fryer,Home,1,93.96,Credit Card,Completed
+ORD01121,2026-04-14,CUST0094,Air Fryer,Home,1,87.37,Debit Card,Completed
+ORD01581,2026-04-14,CUST0057,Smartphone Case,Electronics,1,12.51,Credit Card,Completed
+ORD01226,2026-04-15,CUST0220,Denim Jacket,Fashion,1,55.58,Credit Card,Completed
+ORD01480,2026-04-15,CUST0125,Perfume,Beauty,3,51.87,Cash on Delivery,Completed
+ORD01916,2026-04-15,CUST0269,Wireless Earbuds,Electronics,1,57.98,Cash on Delivery,Completed
+ORD02230,2026-04-16,CUST0008,USB-C Cable,Electronics,1,8.06,UPI,Completed
+ORD01488,2026-04-17,CUST0216,USB-C Cable,Electronics,2,7.73,Debit Card,Returned
+ORD01948,2026-04-17,CUST0085,Cotton T-Shirt,Fashion,2,16.48,Debit Card,Completed
+ORD02105,2026-04-17,CUST0210,Wireless Earbuds,Electronics,1,60.89,Credit Card,Completed
+ORD02236,2026-04-17,CUST0250,Face Serum,Beauty,1,27.07,UPI,Completed
+ORD02315,2026-04-17,CUST0021,Novel Bestseller,Books,1,14.56,Cash on Delivery,Completed
+ORD02324,2026-04-17,CUST0096,Perfume,Beauty,3,49.6,Debit Card,Completed
+ORD00105,2026-04-18,CUST0061,Python Handbook,Books,2,27.92,Cash on Delivery,Completed
+ORD00509,2026-04-18,CUST0282,Hair Dryer,Beauty,1,39.3,Credit Card,Completed
+ORD00800,2026-04-18,CUST0070,Power Bank,Electronics,1,25.5,Debit Card,Completed
+ORD01863,2026-04-18,CUST0077,Denim Jacket,Fashion,2,49.9,Credit Card,Returned
+ORD00674,2026-04-19,CUST0212,Cotton T-Shirt,Fashion,3,13.67,UPI,Completed
+ORD01303,2026-04-19,CUST0266,Wireless Earbuds,Electronics,1,53.74,Credit Card,Completed
+ORD01669,2026-04-20,CUST0187,Backpack,Fashion,1,36.16,Credit Card,Completed
+ORD02154,2026-04-20,CUST0201,Denim Jacket,Fashion,1,60.49,Cash on Delivery,Completed
+ORD00191,2026-04-21,CUST0246,Cookbook,Books,2,23.37,Credit Card,Completed
+ORD00752,2026-04-21,CUST0107,Denim Jacket,Fashion,1,51.63,PayPal,Completed
+ORD01706,2026-04-21,CUST0232,Perfume,Beauty,1,50.28,Debit Card,Cancelled
+ORD00119,2026-04-22,CUST0148,Running Shoes,Fashion,2,65.21,Debit Card,Completed
+ORD00251,2026-04-22,CUST0158,Wireless Earbuds,Electronics,1,61.2,Cash on Delivery,Returned
+ORD00409,2026-04-22,CUST0135,Smart Watch,Electronics,1,114.45,Credit Card,Completed
+ORD01004,2026-04-22,CUST0263,Wireless Earbuds,Electronics,2,58.13,Debit Card,Completed
+ORD01254,2026-04-22,CUST0291,Coffee Maker,Home,2,70.18,UPI,Completed
+ORD01454,2026-04-24,CUST0166,Smartphone Case,Electronics,1,11.71,UPI,Completed
+ORD02467,2026-04-24,CUST0228,Smartphone Case,Electronics,4,11.08,Cash on Delivery,Completed
+ORD00598,2026-04-25,CUST0141,Cotton T-Shirt,Fashion,3,15.3,Cash on Delivery,Completed
+ORD00605,2026-04-25,CUST0032,Desk Lamp,Home,1,26.22,Cash on Delivery,Completed
+ORD01424,2026-04-25,CUST0081,USB-C Cable,Electronics,1,8.22,Cash on Delivery,Completed
+ORD01587,2026-04-25,CUST0165,Perfume,Beauty,1,52.21,Credit Card,Completed
+ORD02093,2026-04-25,CUST0270,USB-C Cable,Electronics,3,8.35,Credit Card,Completed
+ORD02257,2026-04-25,CUST0152,Desk Lamp,Home,1,26.91,PayPal,Completed
+ORD00113,2026-04-26,CUST0136,Face Serum,Beauty,1,27.0,UPI,Completed
+ORD00810,2026-04-26,CUST0061,Running Shoes,Fashion,3,63.61,Debit Card,Completed
+ORD01697,2026-04-26,CUST0148,Denim Jacket,Fashion,2,56.01,Cash on Delivery,Completed
+ORD01954,2026-04-26,CUST0021,Smart Watch,Electronics,1,119.22,Credit Card,Completed
+ORD02311,2026-04-26,CUST0153,Face Serum,Beauty,1,26.56,Cash on Delivery,Completed
+ORD02421,2026-04-26,CUST0076,Face Serum,Beauty,1,27.94,Credit Card,Completed
+ORD00690,2026-04-27,CUST0119,Backpack,Fashion,3,32.51,Cash on Delivery,Completed
+ORD02027,2026-04-27,CUST0274,Novel Bestseller,Books,1,13.0,Debit Card,Completed
+ORD00665,2026-04-28,CUST0069,Bed Sheet Set,Home,1,42.88,Debit Card,Completed
+ORD00860,2026-04-28,CUST0212,Perfume,Beauty,3,46.39,Debit Card,Returned
+ORD01031,2026-04-28,CUST0143,Face Serum,Beauty,2,24.29,Credit Card,Completed
+ORD00241,2026-04-29,CUST0052,Power Bank,Electronics,2,25.97,Cash on Delivery,Cancelled
+ORD00259,2026-04-29,CUST0017,Wireless Earbuds,Electronics,1,55.22,Credit Card,Completed
+ORD00440,2026-04-29,CUST0100,Desk Lamp,Home,1,26.84,Debit Card,Completed
+ORD00912,2026-04-29,CUST0083,Bed Sheet Set,Home,2,38.26,UPI,Completed
+ORD01147,2026-04-29,CUST0144,Cotton T-Shirt,Fashion,3,13.8,Credit Card,Cancelled
+ORD01502,2026-04-29,CUST0103,Face Serum,Beauty,1,24.92,Cash on Delivery,Completed
+ORD01534,2026-04-29,CUST0156,Power Bank,Electronics,1,26.91,UPI,Completed
+ORD02231,2026-04-29,CUST0271,Desk Lamp,Home,4,25.8,Debit Card,Completed
+ORD02498,2026-04-29,CUST0122,Wireless Earbuds,Electronics,3,60.65,UPI,Completed
+ORD00909,2026-04-30,CUST0060,Perfume,Beauty,1,52.21,Debit Card,Completed
+ORD01296,2026-04-30,CUST0182,Wireless Earbuds,Electronics,1,61.11,Debit Card,Completed
+ORD01681,2026-04-30,CUST0195,Smart Watch,Electronics,1,126.41,UPI,Cancelled
+ORD01866,2026-04-30,CUST0018,Coffee Maker,Home,1,63.58,Debit Card,Completed
+ORD01894,2026-04-30,CUST0254,Smartphone Case,Electronics,1,12.12,PayPal,Completed
+ORD00673,2026-05-01,CUST0019,Backpack,Fashion,2,34.87,UPI,Returned
+ORD00777,2026-05-01,CUST0178,Denim Jacket,Fashion,1,57.61,Credit Card,Completed
+ORD01011,2026-05-01,CUST0120,Smartphone Case,Electronics,1,12.69,PayPal,Completed
+ORD01017,2026-05-02,CUST0056,Denim Jacket,Fashion,1,60.08,UPI,Completed
+ORD01678,2026-05-02,CUST0174,Backpack,Fashion,2,33.53,Credit Card,Completed
+ORD01781,2026-05-02,CUST0206,Perfume,Beauty,1,45.54,Cash on Delivery,Completed
+ORD02202,2026-05-02,CUST0182,Wireless Earbuds,Electronics,2,60.83,Credit Card,Completed
+ORD00140,2026-05-03,CUST0230,Wireless Earbuds,Electronics,2,59.16,Credit Card,Completed
+ORD00566,2026-05-03,CUST0050,Power Bank,Electronics,1,27.07,Debit Card,Completed
+ORD01273,2026-05-03,CUST0272,Wireless Earbuds,Electronics,1,56.23,Cash on Delivery,Completed
+ORD01748,2026-05-03,CUST0090,Wireless Earbuds,Electronics,1,54.12,Credit Card,Returned
+ORD01804,2026-05-03,CUST0224,Running Shoes,Fashion,1,64.67,Credit Card,Completed
+ORD02062,2026-05-03,CUST0269,Smart Watch,Electronics,1,127.17,Debit Card,Completed
+ORD00242,2026-05-04,CUST0103,Smart Watch,Electronics,2,114.89,Credit Card,Completed
+ORD00249,2026-05-04,CUST0166,Smartphone Case,Electronics,3,10.82,Debit Card,Completed
+ORD00344,2026-05-04,CUST0040,Smartphone Case,Electronics,1,11.34,UPI,Completed
+ORD00580,2026-05-04,CUST0154,Backpack,Fashion,1,34.51,Credit Card,Completed
+ORD01119,2026-05-04,CUST0066,Perfume,Beauty,1,49.79,UPI,Completed
+ORD01280,2026-05-04,CUST0157,Hair Dryer,Beauty,3,39.43,Credit Card,Completed
+ORD01622,2026-05-04,CUST0076,Bed Sheet Set,Home,1,38.84,Cash on Delivery,Completed
+ORD00895,2026-05-05,CUST0154,Running Shoes,Fashion,1,64.79,Cash on Delivery,Completed
+ORD01560,2026-05-05,CUST0131,Novel Bestseller,Books,1,15.25,Credit Card,Completed
+ORD01786,2026-05-06,CUST0110,Air Fryer,Home,1,87.98,UPI,Completed
+ORD01889,2026-05-06,CUST0180,Coffee Maker,Home,1,69.6,PayPal,Completed
+ORD02299,2026-05-06,CUST0274,Python Handbook,Books,2,31.2,Cash on Delivery,Completed
+ORD02379,2026-05-07,CUST0004,Novel Bestseller,Books,2,12.6,Debit Card,Completed
+ORD01950,2026-05-08,CUST0051,Smartphone Case,Electronics,1,12.95,UPI,Completed
+ORD00694,2026-05-09,CUST0197,Coffee Maker,Home,1,61.21,UPI,Completed
+ORD01053,2026-05-09,CUST0011,Coffee Maker,Home,2,64.06,Credit Card,Returned
+ORD02116,2026-05-09,CUST0028,Smartphone Case,Electronics,1,11.67,Credit Card,Completed
+ORD00106,2026-05-10,CUST0242,Air Fryer,Home,1,90.92,Debit Card,Returned
+ORD00283,2026-05-10,CUST0250,USB-C Cable,Electronics,1,8.05,Debit Card,Completed
+ORD00314,2026-05-10,CUST0054,Running Shoes,Fashion,1,75.89,Credit Card,Completed
+ORD00462,2026-05-10,CUST0292,USB-C Cable,Electronics,2,7.49,Debit Card,Completed
+ORD00463,2026-05-10,CUST0250,Smartphone Case,Electronics,1,11.79,Credit Card,Completed
+ORD00476,2026-05-10,CUST0261,Hair Dryer,Beauty,2,41.12,UPI,Completed
+ORD01848,2026-05-10,CUST0140,Novel Bestseller,Books,1,14.02,Debit Card,Completed
+ORD02054,2026-05-10,CUST0092,Cotton T-Shirt,Fashion,3,14.53,Credit Card,Completed
+ORD00519,2026-05-11,CUST0184,Coffee Maker,Home,1,68.4,Credit Card,Completed
+ORD01370,2026-05-11,CUST0118,Cotton T-Shirt,Fashion,1,14.76,UPI,Completed
+ORD01397,2026-05-11,CUST0251,Coffee Maker,Home,2,67.43,Credit Card,Completed
+ORD01577,2026-05-11,CUST0177,Backpack,Fashion,1,37.59,Cash on Delivery,Completed
+ORD00597,2026-05-12,CUST0225,Wireless Earbuds,Electronics,1,59.5,Debit Card,Completed
+ORD01721,2026-05-12,CUST0161,Power Bank,Electronics,2,28.2,PayPal,Completed
+ORD00849,2026-05-13,CUST0011,Hair Dryer,Beauty,1,41.01,Debit Card,Completed
+ORD01071,2026-05-13,CUST0243,Perfume,Beauty,2,49.0,Debit Card,Completed
+ORD01609,2026-05-13,CUST0180,Cotton T-Shirt,Fashion,1,14.81,Debit Card,Completed
+ORD01810,2026-05-13,CUST0064,Perfume,Beauty,1,51.32,Credit Card,Completed
+ORD02423,2026-05-13,CUST0128,Coffee Maker,Home,2,64.37,PayPal,Completed
+ORD00155,2026-05-14,CUST0270,USB-C Cable,Electronics,2,7.27,Debit Card,Completed
+ORD00324,2026-05-14,CUST0276,Denim Jacket,Fashion,2,56.6,Cash on Delivery,Completed
+ORD00523,2026-05-14,CUST0247,Cotton T-Shirt,Fashion,3,13.52,Cash on Delivery,Completed
+ORD01285,2026-05-14,CUST0130,Perfume,Beauty,1,43.33,Debit Card,Completed
+ORD01675,2026-05-14,CUST0162,Smartphone Case,Electronics,2,12.63,UPI,Completed
+ORD00066,2026-05-15,CUST0113,Denim Jacket,Fashion,1,54.84,Debit Card,Completed
+ORD01529,2026-05-15,CUST0004,Denim Jacket,Fashion,1,60.22,Debit Card,Completed
+ORD01599,2026-05-15,CUST0288,Cookbook,Books,2,22.29,UPI,Returned
+ORD00999,2026-05-16,CUST0108,Hair Dryer,Beauty,2,40.16,PayPal,Completed
+ORD01137,2026-05-16,CUST0282,Smart Watch,Electronics,1,124.36,Credit Card,Completed
+ORD01753,2026-05-16,CUST0119,Hair Dryer,Beauty,2,39.84,Credit Card,Completed
+ORD00076,2026-05-17,CUST0055,Smart Watch,Electronics,1,116.69,Cash on Delivery,Completed
+ORD00892,2026-05-17,CUST0229,Denim Jacket,Fashion,3,54.74,UPI,Completed
+ORD00937,2026-05-17,CUST0214,Backpack,Fashion,2,32.51,Credit Card,Completed
+ORD01686,2026-05-17,CUST0164,Face Serum,Beauty,3,23.67,Credit Card,Completed
+ORD01795,2026-05-17,CUST0176,Running Shoes,Fashion,1,71.63,Credit Card,Completed
+ORD01915,2026-05-17,CUST0251,Denim Jacket,Fashion,3,54.31,Credit Card,Completed
+ORD02201,2026-05-17,CUST0087,Coffee Maker,Home,1,69.78,UPI,Completed
+ORD00087,2026-05-18,CUST0053,Hair Dryer,Beauty,3,38.56,Debit Card,Completed
+ORD00142,2026-05-18,CUST0228,Running Shoes,Fashion,1,64.13,UPI,Completed
+ORD00491,2026-05-18,CUST0294,Novel Bestseller,Books,1,12.8,UPI,Completed
+ORD01769,2026-05-18,CUST0014,Hair Dryer,Beauty,1,41.52,PayPal,Completed
+ORD01065,2026-05-19,CUST0001,Smartphone Case,Electronics,1,12.66,Debit Card,Completed
+ORD02030,2026-05-19,CUST0225,Bed Sheet Set,Home,1,39.41,PayPal,Returned
+ORD00798,2026-05-20,CUST0035,Power Bank,Electronics,1,27.23,Debit Card,Completed
+ORD01735,2026-05-20,CUST0013,Power Bank,Electronics,2,29.1,UPI,Completed
+ORD01907,2026-05-20,CUST0281,Python Handbook,Books,1,29.58,UPI,Completed
+ORD02090,2026-05-20,CUST0113,Backpack,Fashion,1,34.25,Credit Card,Completed
+ORD02465,2026-05-20,CUST0198,Backpack,Fashion,1,31.8,PayPal,Completed
+ORD00796,2026-05-21,CUST0287,Cotton T-Shirt,Fashion,2,14.17,PayPal,Completed
+ORD01261,2026-05-21,CUST0063,Air Fryer,Home,2,97.88,Credit Card,Completed
+ORD01845,2026-05-21,CUST0059,Smartphone Case,Electronics,1,11.9,Cash on Delivery,Completed
+ORD00351,2026-05-22,CUST0198,Coffee Maker,Home,1,64.99,UPI,Completed
+ORD00869,2026-05-22,CUST0061,Perfume,Beauty,1,45.15,Cash on Delivery,Completed
+ORD01001,2026-05-22,CUST0243,Backpack,Fashion,1,34.31,Cash on Delivery,Completed
+ORD01241,2026-05-22,CUST0186,Wireless Earbuds,Electronics,3,55.55,Credit Card,Completed
+ORD01891,2026-05-22,CUST0286,Smartphone Case,Electronics,2,11.73,UPI,Completed
+ORD00990,2026-05-23,CUST0113,Wireless Earbuds,Electronics,3,60.64,UPI,Completed
+ORD02242,2026-05-24,CUST0001,Novel Bestseller,Books,2,12.65,UPI,Completed
+ORD00220,2026-05-25,CUST0012,Cotton T-Shirt,Fashion,1,14.68,Debit Card,Completed
+ORD00659,2026-05-25,CUST0256,Smart Watch,Electronics,1,108.14,Cash on Delivery,Completed
+ORD00753,2026-05-25,CUST0091,Perfume,Beauty,1,52.06,Credit Card,Completed
+ORD00827,2026-05-25,CUST0252,Cotton T-Shirt,Fashion,1,15.13,PayPal,Completed
+ORD01621,2026-05-25,CUST0224,Backpack,Fashion,1,38.47,Credit Card,Completed
+ORD01642,2026-05-25,CUST0148,Bed Sheet Set,Home,2,41.59,UPI,Completed
+ORD02181,2026-05-25,CUST0211,Air Fryer,Home,1,95.21,Credit Card,Completed
+ORD02436,2026-05-25,CUST0243,Smart Watch,Electronics,1,112.09,Cash on Delivery,Completed
+ORD00383,2026-05-26,CUST0211,Power Bank,Electronics,3,27.88,Credit Card,Completed
+ORD01205,2026-05-26,CUST0049,Python Handbook,Books,1,28.02,Credit Card,Completed
+ORD00288,2026-05-27,CUST0223,Desk Lamp,Home,2,24.16,Cash on Delivery,Cancelled
+ORD00308,2026-05-27,CUST0072,Cookbook,Books,2,20.86,UPI,Completed
+ORD00739,2026-05-27,CUST0274,Cotton T-Shirt,Fashion,4,15.94,Cash on Delivery,Completed
+ORD00822,2026-05-27,CUST0143,Smart Watch,Electronics,2,126.38,UPI,Completed
+ORD01607,2026-05-27,CUST0046,Denim Jacket,Fashion,1,56.28,UPI,Completed
+ORD01704,2026-05-27,CUST0154,Novel Bestseller,Books,2,13.48,Cash on Delivery,Completed
+ORD02327,2026-05-27,CUST0170,Bed Sheet Set,Home,2,39.21,UPI,Completed
+ORD00096,2026-05-28,CUST0277,Cotton T-Shirt,Fashion,1,13.74,Credit Card,Completed
+ORD01198,2026-05-28,CUST0100,Smart Watch,Electronics,1,117.38,Debit Card,Completed
+ORD01314,2026-05-28,CUST0258,Perfume,Beauty,1,51.86,UPI,Completed
+ORD01006,2026-05-29,CUST0263,Perfume,Beauty,1,43.95,Credit Card,Completed
+ORD01138,2026-05-29,CUST0200,Novel Bestseller,Books,1,15.28,PayPal,Completed
+ORD01443,2026-05-29,CUST0076,Smartphone Case,Electronics,2,11.0,Debit Card,Completed
+ORD02314,2026-05-29,CUST0029,Running Shoes,Fashion,1,70.8,Debit Card,Completed
+ORD00365,2026-05-30,CUST0027,Desk Lamp,Home,1,26.52,Cash on Delivery,Cancelled
+ORD00412,2026-05-30,CUST0293,Face Serum,Beauty,3,27.56,UPI,Completed
+ORD01142,2026-05-30,CUST0093,Desk Lamp,Home,1,26.77,UPI,Completed
+ORD01473,2026-05-30,CUST0191,Novel Bestseller,Books,2,14.59,PayPal,Cancelled
+ORD01773,2026-05-30,CUST0093,Running Shoes,Fashion,1,72.76,Debit Card,Returned
+ORD00532,2026-05-31,CUST0061,Hair Dryer,Beauty,1,39.21,Cash on Delivery,Completed
+ORD00549,2026-05-31,CUST0151,Running Shoes,Fashion,1,64.64,UPI,Completed
+ORD01300,2026-05-31,CUST0184,Cotton T-Shirt,Fashion,1,14.78,Debit Card,Completed
+ORD02260,2026-05-31,CUST0100,USB-C Cable,Electronics,1,8.75,Debit Card,Completed
+ORD01582,2026-06-01,CUST0094,Running Shoes,Fashion,1,76.18,Cash on Delivery,Completed
+ORD01763,2026-06-01,CUST0056,Wireless Earbuds,Electronics,1,63.91,UPI,Completed
+ORD00039,2026-06-02,CUST0251,Bed Sheet Set,Home,1,43.27,Credit Card,Completed
+ORD00255,2026-06-02,CUST0104,USB-C Cable,Electronics,1,7.44,Debit Card,Completed
+ORD00466,2026-06-02,CUST0241,Smartphone Case,Electronics,3,12.89,Credit Card,Completed
+ORD00931,2026-06-02,CUST0057,Backpack,Fashion,2,37.39,Credit Card,Completed
+ORD02046,2026-06-02,CUST0255,Air Fryer,Home,2,83.77,PayPal,Completed
+ORD02354,2026-06-02,CUST0082,Running Shoes,Fashion,2,65.8,Credit Card,Completed
+ORD00354,2026-06-03,CUST0147,Perfume,Beauty,2,48.01,Debit Card,Completed
+ORD00679,2026-06-03,CUST0013,Perfume,Beauty,2,51.89,Credit Card,Completed
+ORD00785,2026-06-04,CUST0170,Hair Dryer,Beauty,2,36.45,Cash on Delivery,Cancelled
+ORD01645,2026-06-05,CUST0190,Denim Jacket,Fashion,2,49.99,Credit Card,Completed
+ORD02148,2026-06-05,CUST0016,Hair Dryer,Beauty,2,40.67,Cash on Delivery,Returned
+ORD02365,2026-06-05,CUST0147,Running Shoes,Fashion,2,66.21,PayPal,Completed
+ORD00012,2026-06-06,CUST0253,Smartphone Case,Electronics,1,10.91,Credit Card,Completed
+ORD01906,2026-06-06,CUST0123,Cookbook,Books,4,19.82,UPI,Completed
+ORD00545,2026-06-07,CUST0265,USB-C Cable,Electronics,2,8.18,UPI,Completed
+ORD01145,2026-06-07,CUST0219,Running Shoes,Fashion,2,67.26,Credit Card,Completed
+ORD02221,2026-06-07,CUST0025,Hair Dryer,Beauty,2,36.3,PayPal,Completed
+ORD00361,2026-06-08,CUST0185,Smart Watch,Electronics,1,128.62,Credit Card,Completed
+ORD00453,2026-06-08,CUST0061,Wireless Earbuds,Electronics,1,62.36,Debit Card,Completed
+ORD01305,2026-06-08,CUST0028,USB-C Cable,Electronics,2,8.03,UPI,Cancelled
+ORD01729,2026-06-08,CUST0029,Python Handbook,Books,2,31.28,Debit Card,Returned
+ORD01738,2026-06-08,CUST0199,Power Bank,Electronics,1,26.33,UPI,Completed
+ORD01803,2026-06-08,CUST0291,Bed Sheet Set,Home,1,38.13,Cash on Delivery,Completed
+ORD02153,2026-06-08,CUST0256,Smartphone Case,Electronics,2,12.22,PayPal,Completed
+ORD01482,2026-06-09,CUST0041,Perfume,Beauty,1,49.31,Debit Card,Completed
+ORD02239,2026-06-09,CUST0039,Perfume,Beauty,1,50.99,Cash on Delivery,Returned
+ORD00199,2026-06-10,CUST0082,Bed Sheet Set,Home,4,37.14,UPI,Completed
+ORD00276,2026-06-10,CUST0255,Cotton T-Shirt,Fashion,1,15.91,UPI,Completed
+ORD01157,2026-06-10,CUST0234,Wireless Earbuds,Electronics,1,61.6,Credit Card,Completed
+ORD01826,2026-06-10,CUST0011,Perfume,Beauty,1,51.79,Debit Card,Completed
+ORD02321,2026-06-10,CUST0021,USB-C Cable,Electronics,1,7.99,Cash on Delivery,Cancelled
+ORD02066,2026-06-11,CUST0270,Denim Jacket,Fashion,1,57.94,Debit Card,Returned
+ORD00423,2026-06-12,CUST0082,Face Serum,Beauty,1,27.09,Debit Card,Completed
+ORD00755,2026-06-12,CUST0060,Novel Bestseller,Books,1,13.26,Debit Card,Completed
+ORD01075,2026-06-12,CUST0212,Air Fryer,Home,2,81.06,UPI,Cancelled
+ORD02031,2026-06-12,CUST0091,Running Shoes,Fashion,1,76.94,Debit Card,Completed
+ORD00180,2026-06-13,CUST0064,Hair Dryer,Beauty,1,40.0,Credit Card,Returned
+ORD00923,2026-06-13,CUST0186,Backpack,Fashion,3,34.6,PayPal,Completed
+ORD01392,2026-06-13,CUST0110,Wireless Earbuds,Electronics,1,53.89,UPI,Completed
+ORD02216,2026-06-14,CUST0264,Smartphone Case,Electronics,3,12.51,UPI,Completed
+ORD00520,2026-06-15,CUST0185,Smartphone Case,Electronics,1,13.0,Cash on Delivery,Completed
+ORD01062,2026-06-15,CUST0097,Desk Lamp,Home,3,23.33,Debit Card,Completed
+ORD00226,2026-06-16,CUST0234,Air Fryer,Home,1,97.08,Credit Card,Returned
+ORD00233,2026-06-16,CUST0107,Smartphone Case,Electronics,1,13.2,Debit Card,Completed
+ORD01233,2026-06-16,CUST0163,Power Bank,Electronics,1,30.57,Cash on Delivery,Completed
+ORD01580,2026-06-16,CUST0135,Power Bank,Electronics,1,27.25,UPI,Cancelled
+ORD01914,2026-06-16,CUST0141,Perfume,Beauty,1,45.13,UPI,Completed
+ORD00371,2026-06-17,CUST0212,Smartphone Case,Electronics,2,11.69,Cash on Delivery,Completed
+ORD00536,2026-06-17,CUST0004,Desk Lamp,Home,1,23.53,PayPal,Completed
+ORD00668,2026-06-17,CUST0255,Air Fryer,Home,1,84.24,UPI,Completed
+ORD00778,2026-06-17,CUST0172,Smartphone Case,Electronics,1,11.62,UPI,Completed
+ORD00929,2026-06-17,CUST0277,Denim Jacket,Fashion,1,50.52,UPI,Completed
+ORD01087,2026-06-17,CUST0114,Python Handbook,Books,1,27.06,Cash on Delivery,Completed
+ORD01505,2026-06-17,CUST0241,Air Fryer,Home,3,82.27,Debit Card,Completed
+ORD01799,2026-06-17,CUST0089,Cookbook,Books,1,22.98,Credit Card,Completed
+ORD00141,2026-06-18,CUST0155,Face Serum,Beauty,1,28.41,Credit Card,Completed
+ORD00521,2026-06-18,CUST0141,Desk Lamp,Home,2,23.82,UPI,Completed
+ORD00590,2026-06-18,CUST0107,Running Shoes,Fashion,1,72.54,Debit Card,Completed
+ORD00637,2026-06-18,CUST0117,Smart Watch,Electronics,1,121.75,Debit Card,Completed
+ORD00649,2026-06-18,CUST0056,Face Serum,Beauty,1,27.7,Credit Card,Cancelled
+ORD00077,2026-06-19,CUST0139,Smartphone Case,Electronics,2,13.01,PayPal,Completed
+ORD00533,2026-06-19,CUST0216,Smart Watch,Electronics,1,109.04,UPI,Completed
+ORD00844,2026-06-19,CUST0103,Desk Lamp,Home,1,23.24,Credit Card,Completed
+ORD00851,2026-06-19,CUST0298,Desk Lamp,Home,3,27.16,Credit Card,Returned
+ORD01953,2026-06-19,CUST0040,Backpack,Fashion,1,37.27,Credit Card,Completed
+ORD00090,2026-06-20,CUST0195,Denim Jacket,Fashion,1,54.37,Cash on Delivery,Cancelled
+ORD00807,2026-06-20,CUST0176,Cookbook,Books,1,21.14,UPI,Completed
+ORD01292,2026-06-20,CUST0149,Denim Jacket,Fashion,2,56.81,Debit Card,Completed
+ORD01420,2026-06-20,CUST0166,Perfume,Beauty,2,46.77,UPI,Completed
+ORD01516,2026-06-20,CUST0192,Perfume,Beauty,1,52.09,UPI,Returned
+ORD01730,2026-06-20,CUST0084,Wireless Earbuds,Electronics,3,55.87,PayPal,Cancelled
+ORD02037,2026-06-20,CUST0090,Wireless Earbuds,Electronics,1,59.83,Debit Card,Completed
+ORD00246,2026-06-21,CUST0253,Hair Dryer,Beauty,3,35.22,UPI,Completed
+ORD00281,2026-06-21,CUST0018,Desk Lamp,Home,2,22.87,PayPal,Completed
+ORD00285,2026-06-21,CUST0077,Wireless Earbuds,Electronics,1,60.41,Credit Card,Completed
+ORD00574,2026-06-21,CUST0043,Smart Watch,Electronics,1,122.83,Credit Card,Returned
+ORD00639,2026-06-21,CUST0070,Perfume,Beauty,1,51.93,PayPal,Completed
+ORD01821,2026-06-22,CUST0131,Wireless Earbuds,Electronics,1,56.56,Cash on Delivery,Completed
+ORD00884,2026-06-23,CUST0293,Wireless Earbuds,Electronics,1,63.96,Credit Card,Completed
+ORD00709,2026-06-24,CUST0144,Coffee Maker,Home,1,59.52,Cash on Delivery,Completed
+ORD01168,2026-06-24,CUST0071,Face Serum,Beauty,2,27.6,UPI,Completed
+ORD01289,2026-06-24,CUST0090,Perfume,Beauty,1,49.72,Cash on Delivery,Completed
+ORD01343,2026-06-24,CUST0137,Face Serum,Beauty,1,26.22,Credit Card,Completed
+ORD00185,2026-06-25,CUST0217,Hair Dryer,Beauty,1,36.39,Debit Card,Completed
+ORD00321,2026-06-25,CUST0161,Smart Watch,Electronics,1,122.67,UPI,Completed
+ORD01093,2026-06-25,CUST0145,Running Shoes,Fashion,1,75.92,UPI,Completed
+ORD00938,2026-06-26,CUST0061,USB-C Cable,Electronics,2,7.93,Credit Card,Completed
+ORD01962,2026-06-26,CUST0033,Smartphone Case,Electronics,1,11.38,UPI,Completed
+ORD01993,2026-06-26,CUST0070,USB-C Cable,Electronics,1,7.54,UPI,Completed
+ORD02009,2026-06-26,CUST0161,Smartphone Case,Electronics,1,13.15,PayPal,Completed
+ORD02341,2026-06-26,CUST0211,Python Handbook,Books,2,32.25,PayPal,Completed
+ORD02347,2026-06-26,CUST0045,Smart Watch,Electronics,1,111.95,Credit Card,Completed
+ORD02464,2026-06-26,CUST0245,Desk Lamp,Home,1,27.19,UPI,Completed
+ORD01713,2026-06-27,CUST0145,Coffee Maker,Home,1,63.35,UPI,Completed
+ORD00126,2026-06-28,CUST0257,Perfume,Beauty,3,51.17,Credit Card,Completed
+ORD00347,2026-06-28,CUST0289,Desk Lamp,Home,1,25.75,Debit Card,Completed
+ORD00764,2026-06-28,CUST0202,Backpack,Fashion,1,37.09,PayPal,Completed
+ORD01074,2026-06-28,CUST0144,Wireless Earbuds,Electronics,4,61.97,Credit Card,Completed
+ORD01873,2026-06-28,CUST0201,Cotton T-Shirt,Fashion,3,16.48,UPI,Completed
+ORD00234,2026-06-30,CUST0176,Perfume,Beauty,1,49.69,Cash on Delivery,Completed
+ORD02052,2026-06-30,CUST0295,Coffee Maker,Home,2,68.76,PayPal,Completed
+ORD00854,2026-07-01,CUST0192,Air Fryer,Home,2,83.03,UPI,Completed
+ORD02337,2026-07-01,CUST0063,Face Serum,Beauty,1,26.16,Debit Card,Completed
+ORD02357,2026-07-01,CUST0133,Bed Sheet Set,Home,2,39.83,Debit Card,Completed
+ORD00450,2026-07-02,CUST0025,Power Bank,Electronics,1,25.47,Credit Card,Completed
+ORD02149,2026-07-02,CUST0071,Perfume,Beauty,1,44.35,Cash on Delivery,Returned
+ORD02208,2026-07-02,CUST0186,Python Handbook,Books,2,29.85,UPI,Completed
+ORD02443,2026-07-02,CUST0115,USB-C Cable,Electronics,2,7.45,PayPal,Completed
+ORD00411,2026-07-03,CUST0244,Backpack,Fashion,1,33.15,Credit Card,Completed
+ORD01633,2026-07-03,CUST0112,Coffee Maker,Home,4,59.76,UPI,Completed
+ORD01793,2026-07-03,CUST0168,Perfume,Beauty,3,51.41,Debit Card,Completed
+ORD02499,2026-07-03,CUST0280,Power Bank,Electronics,2,28.66,UPI,Completed
+ORD01134,2026-07-04,CUST0138,Denim Jacket,Fashion,1,54.32,PayPal,Completed
+ORD01524,2026-07-04,CUST0027,Running Shoes,Fashion,1,71.87,Credit Card,Completed
+ORD00355,2026-07-05,CUST0079,USB-C Cable,Electronics,1,7.7,UPI,Completed
+ORD01263,2026-07-05,CUST0003,Bed Sheet Set,Home,3,42.94,Credit Card,Completed
+ORD02177,2026-07-05,CUST0285,USB-C Cable,Electronics,2,7.53,Debit Card,Completed
+ORD01547,2026-07-06,CUST0252,Perfume,Beauty,1,46.4,Credit Card,Completed
+ORD01624,2026-07-06,CUST0156,Bed Sheet Set,Home,1,40.56,Cash on Delivery,Cancelled
+ORD02068,2026-07-06,CUST0227,Novel Bestseller,Books,1,15.02,Credit Card,Completed
+ORD02210,2026-07-06,CUST0198,Cotton T-Shirt,Fashion,2,15.2,Debit Card,Completed
+ORD00020,2026-07-07,CUST0103,Coffee Maker,Home,2,63.69,UPI,Completed
+ORD01568,2026-07-07,CUST0194,Face Serum,Beauty,2,27.16,Credit Card,Completed
+ORD02044,2026-07-07,CUST0096,Denim Jacket,Fashion,1,56.27,Credit Card,Completed
+ORD00292,2026-07-08,CUST0170,Cookbook,Books,1,23.05,PayPal,Completed
+ORD00734,2026-07-08,CUST0116,Desk Lamp,Home,1,27.27,PayPal,Completed
+ORD01360,2026-07-08,CUST0023,Bed Sheet Set,Home,2,38.8,Credit Card,Completed
+ORD01618,2026-07-08,CUST0183,Perfume,Beauty,1,49.85,Debit Card,Completed
+ORD02213,2026-07-08,CUST0196,Hair Dryer,Beauty,2,35.53,Credit Card,Completed
+ORD02463,2026-07-08,CUST0261,Desk Lamp,Home,2,23.62,Cash on Delivery,Completed
+ORD00556,2026-07-09,CUST0022,Desk Lamp,Home,2,24.36,Debit Card,Returned
+ORD02069,2026-07-09,CUST0174,Cotton T-Shirt,Fashion,2,14.77,Debit Card,Returned
+ORD00102,2026-07-10,CUST0237,Python Handbook,Books,1,28.13,Debit Card,Completed
+ORD00390,2026-07-10,CUST0159,Perfume,Beauty,1,43.56,Credit Card,Completed
+ORD00638,2026-07-10,CUST0068,Air Fryer,Home,1,83.49,UPI,Completed
+ORD01756,2026-07-10,CUST0209,Smart Watch,Electronics,1,118.36,UPI,Returned
+ORD00329,2026-07-11,CUST0188,Bed Sheet Set,Home,1,42.05,PayPal,Completed
+ORD01945,2026-07-11,CUST0038,USB-C Cable,Electronics,1,8.08,Debit Card,Completed
+ORD01967,2026-07-11,CUST0096,Bed Sheet Set,Home,1,43.67,Cash on Delivery,Completed
+ORD01754,2026-07-12,CUST0084,Backpack,Fashion,1,37.81,UPI,Completed
+ORD02375,2026-07-12,CUST0216,Air Fryer,Home,1,96.13,Cash on Delivery,Cancelled
+ORD02380,2026-07-12,CUST0223,Cotton T-Shirt,Fashion,1,14.39,Debit Card,Completed
+ORD00504,2026-07-13,CUST0152,Smart Watch,Electronics,4,111.46,UPI,Returned
+ORD00703,2026-07-13,CUST0109,Backpack,Fashion,2,34.82,Credit Card,Completed
+ORD00745,2026-07-13,CUST0071,Hair Dryer,Beauty,1,41.53,Credit Card,Completed
+ORD01299,2026-07-13,CUST0094,Perfume,Beauty,1,51.61,Debit Card,Completed
+ORD01640,2026-07-14,CUST0103,Air Fryer,Home,1,83.44,PayPal,Completed
+ORD01901,2026-07-14,CUST0153,Hair Dryer,Beauty,3,39.2,Credit Card,Completed
+ORD00472,2026-07-15,CUST0268,Novel Bestseller,Books,1,12.9,Cash on Delivery,Completed
+ORD00479,2026-07-15,CUST0161,Bed Sheet Set,Home,2,43.48,UPI,Completed
+ORD00842,2026-07-15,CUST0093,Backpack,Fashion,3,35.89,UPI,Completed
+ORD00143,2026-07-16,CUST0167,USB-C Cable,Electronics,1,8.16,Credit Card,Completed
+ORD00622,2026-07-16,CUST0205,Desk Lamp,Home,1,24.49,Debit Card,Completed
+ORD01732,2026-07-16,CUST0046,Denim Jacket,Fashion,2,54.43,Credit Card,Returned
+ORD00591,2026-07-17,CUST0267,Desk Lamp,Home,1,24.91,Credit Card,Completed
+ORD01946,2026-07-17,CUST0070,Power Bank,Electronics,2,25.45,Debit Card,Completed
+ORD02215,2026-07-17,CUST0256,Hair Dryer,Beauty,1,41.19,Credit Card,Returned
+ORD01495,2026-07-18,CUST0210,Smart Watch,Electronics,1,113.23,Cash on Delivery,Completed
+ORD02297,2026-07-18,CUST0282,Cotton T-Shirt,Fashion,1,15.27,Debit Card,Completed
+ORD00144,2026-07-19,CUST0111,Running Shoes,Fashion,1,75.43,Debit Card,Completed
+ORD01196,2026-07-19,CUST0104,Face Serum,Beauty,2,23.57,Credit Card,Cancelled
+ORD01230,2026-07-19,CUST0196,Smart Watch,Electronics,1,128.55,Cash on Delivery,Completed
+ORD02302,2026-07-19,CUST0110,Smartphone Case,Electronics,2,12.09,UPI,Completed
+ORD00092,2026-07-20,CUST0039,Smartphone Case,Electronics,1,11.78,UPI,Completed
+ORD01110,2026-07-20,CUST0111,Hair Dryer,Beauty,1,36.31,UPI,Completed
+ORD01158,2026-07-20,CUST0061,Power Bank,Electronics,1,25.46,Credit Card,Completed
+ORD01336,2026-07-20,CUST0247,Running Shoes,Fashion,1,73.72,UPI,Completed
+ORD01501,2026-07-20,CUST0262,Air Fryer,Home,3,96.31,Credit Card,Completed
+ORD00038,2026-07-21,CUST0080,Hair Dryer,Beauty,1,38.8,UPI,Completed
+ORD00614,2026-07-21,CUST0262,Perfume,Beauty,1,52.09,Credit Card,Completed
+ORD01054,2026-07-21,CUST0090,Denim Jacket,Fashion,1,54.6,Debit Card,Completed
+ORD01359,2026-07-21,CUST0117,Desk Lamp,Home,1,26.07,Credit Card,Completed
+ORD01520,2026-07-21,CUST0274,Cotton T-Shirt,Fashion,2,15.11,Credit Card,Completed
+ORD02425,2026-07-21,CUST0213,Power Bank,Electronics,2,29.36,Credit Card,Returned
+ORD00037,2026-07-22,CUST0154,Desk Lamp,Home,3,23.02,Cash on Delivery,Completed
+ORD00207,2026-07-22,CUST0294,Cotton T-Shirt,Fashion,1,15.91,UPI,Completed
+ORD00830,2026-07-22,CUST0277,Smart Watch,Electronics,1,119.42,Cash on Delivery,Completed
+ORD01992,2026-07-22,CUST0003,Power Bank,Electronics,2,30.72,PayPal,Completed
+ORD02124,2026-07-22,CUST0118,Smart Watch,Electronics,1,117.57,PayPal,Completed
+ORD02195,2026-07-22,CUST0180,Backpack,Fashion,4,35.95,Debit Card,Completed
+ORD00992,2026-07-23,CUST0059,Wireless Earbuds,Electronics,1,58.3,UPI,Returned
+ORD01939,2026-07-23,CUST0272,USB-C Cable,Electronics,3,8.69,Cash on Delivery,Returned
+ORD02018,2026-07-23,CUST0048,Wireless Earbuds,Electronics,2,58.91,UPI,Completed
+ORD02074,2026-07-23,CUST0094,Smart Watch,Electronics,2,114.81,Credit Card,Completed
+ORD00415,2026-07-24,CUST0204,Smart Watch,Electronics,1,128.56,UPI,Returned
+ORD00693,2026-07-24,CUST0037,Novel Bestseller,Books,2,14.09,Debit Card,Completed
+ORD01922,2026-07-24,CUST0295,Smartphone Case,Electronics,2,12.07,Credit Card,Completed
+ORD00128,2026-07-25,CUST0188,Air Fryer,Home,1,88.1,Credit Card,Completed
+ORD00271,2026-07-25,CUST0272,Air Fryer,Home,1,85.37,Credit Card,Completed
+ORD02038,2026-07-25,CUST0274,Running Shoes,Fashion,2,66.76,Debit Card,Completed
+ORD00608,2026-07-26,CUST0286,Smartphone Case,Electronics,1,11.05,UPI,Completed
+ORD02157,2026-07-26,CUST0115,USB-C Cable,Electronics,1,7.8,Credit Card,Returned
+ORD00623,2026-07-27,CUST0102,Novel Bestseller,Books,1,14.43,Credit Card,Completed
+ORD02057,2026-07-27,CUST0167,Backpack,Fashion,1,33.74,Debit Card,Completed
+ORD02356,2026-07-28,CUST0094,Hair Dryer,Beauty,2,41.52,Debit Card,Completed
+ORD00011,2026-07-29,CUST0276,Smartphone Case,Electronics,1,12.2,Cash on Delivery,Completed
+ORD00041,2026-07-29,CUST0005,Air Fryer,Home,1,98.01,UPI,Completed
+ORD02065,2026-07-29,CUST0031,Air Fryer,Home,2,96.03,PayPal,Completed
+ORD02391,2026-07-29,CUST0088,Cookbook,Books,1,20.01,Debit Card,Completed
+ORD00147,2026-07-30,CUST0169,USB-C Cable,Electronics,2,7.86,Cash on Delivery,Cancelled
+ORD01156,2026-07-30,CUST0200,Backpack,Fashion,1,33.4,Credit Card,Completed
+ORD02252,2026-07-30,CUST0168,Cotton T-Shirt,Fashion,2,14.18,UPI,Completed
+ORD00960,2026-07-31,CUST0036,USB-C Cable,Electronics,1,7.83,Credit Card,Completed
+ORD01717,2026-07-31,CUST0241,Novel Bestseller,Books,3,13.48,Cash on Delivery,Completed
+ORD01956,2026-07-31,CUST0063,Smart Watch,Electronics,1,111.58,Credit Card,Completed
+ORD02136,2026-07-31,CUST0139,Face Serum,Beauty,1,25.04,UPI,Completed
+ORD00257,2026-08-01,CUST0030,Backpack,Fashion,1,36.21,Debit Card,Completed
+ORD02263,2026-08-02,CUST0094,Denim Jacket,Fashion,2,49.61,Credit Card,Returned
+ORD00122,2026-08-03,CUST0026,Running Shoes,Fashion,3,73.43,PayPal,Returned
+ORD01067,2026-08-04,CUST0109,Perfume,Beauty,1,43.77,Credit Card,Completed
+ORD01291,2026-08-04,CUST0178,Backpack,Fashion,1,38.29,Debit Card,Completed
+ORD00689,2026-08-05,CUST0068,Backpack,Fashion,1,37.12,UPI,Completed
+ORD00956,2026-08-05,CUST0209,Novel Bestseller,Books,1,14.97,UPI,Completed
+ORD01339,2026-08-05,CUST0024,Cookbook,Books,4,19.87,UPI,Completed
+ORD01460,2026-08-05,CUST0072,Coffee Maker,Home,1,62.83,Cash on Delivery,Cancelled
+ORD00896,2026-08-06,CUST0025,Cotton T-Shirt,Fashion,1,16.25,UPI,Completed
+ORD00897,2026-08-06,CUST0130,Backpack,Fashion,1,35.6,PayPal,Completed
+ORD01670,2026-08-06,CUST0100,Smartphone Case,Electronics,3,12.55,PayPal,Completed
+ORD01843,2026-08-06,CUST0100,Smart Watch,Electronics,1,127.82,Credit Card,Completed
+ORD02113,2026-08-06,CUST0177,Python Handbook,Books,1,31.17,Debit Card,Completed
+ORD02406,2026-08-06,CUST0144,Coffee Maker,Home,1,66.07,Credit Card,Returned
+ORD00079,2026-08-07,CUST0195,Smart Watch,Electronics,1,119.86,Debit Card,Completed
+ORD02389,2026-08-07,CUST0126,Air Fryer,Home,2,85.36,UPI,Completed
+ORD01532,2026-08-08,CUST0080,Coffee Maker,Home,1,60.99,Debit Card,Completed
+ORD01782,2026-08-08,CUST0096,Wireless Earbuds,Electronics,2,58.36,Cash on Delivery,Completed
+ORD02150,2026-08-08,CUST0226,Denim Jacket,Fashion,4,53.61,Cash on Delivery,Completed
+ORD00110,2026-08-09,CUST0197,Smartphone Case,Electronics,1,12.66,Credit Card,Completed
+ORD00300,2026-08-09,CUST0267,Face Serum,Beauty,1,25.38,Credit Card,Completed
+ORD01117,2026-08-09,CUST0145,Cotton T-Shirt,Fashion,1,15.32,Cash on Delivery,Completed
+ORD01191,2026-08-09,CUST0257,Bed Sheet Set,Home,1,37.82,Cash on Delivery,Completed
+ORD02053,2026-08-10,CUST0053,Hair Dryer,Beauty,1,35.45,Credit Card,Completed
+ORD00243,2026-08-11,CUST0119,Cookbook,Books,1,22.98,Cash on Delivery,Returned
+ORD00381,2026-08-11,CUST0222,Denim Jacket,Fashion,2,53.84,Credit Card,Completed
+ORD00763,2026-08-11,CUST0003,Coffee Maker,Home,1,59.07,Cash on Delivery,Completed
+ORD01542,2026-08-11,CUST0103,Power Bank,Electronics,1,27.65,Debit Card,Completed
+ORD01553,2026-08-12,CUST0182,Coffee Maker,Home,3,67.79,UPI,Completed
+ORD01912,2026-08-12,CUST0002,Wireless Earbuds,Electronics,2,61.56,PayPal,Completed
+ORD00863,2026-08-13,CUST0043,Bed Sheet Set,Home,1,38.0,UPI,Completed
+ORD02332,2026-08-13,CUST0196,Power Bank,Electronics,1,29.93,Credit Card,Completed
+ORD02453,2026-08-13,CUST0270,Bed Sheet Set,Home,1,37.29,UPI,Completed
+ORD00098,2026-08-14,CUST0021,Power Bank,Electronics,2,26.18,UPI,Completed
+ORD01108,2026-08-14,CUST0252,Denim Jacket,Fashion,2,55.25,Cash on Delivery,Completed
+ORD00320,2026-08-15,CUST0053,Python Handbook,Books,2,30.22,Debit Card,Completed
+ORD00539,2026-08-15,CUST0177,Cotton T-Shirt,Fashion,2,14.69,Credit Card,Returned
+ORD02089,2026-08-15,CUST0277,Coffee Maker,Home,1,65.73,Debit Card,Completed
+ORD02091,2026-08-15,CUST0256,Cotton T-Shirt,Fashion,2,15.68,Credit Card,Completed
+ORD00907,2026-08-16,CUST0284,Cookbook,Books,4,19.96,Debit Card,Completed
+ORD02377,2026-08-16,CUST0172,USB-C Cable,Electronics,1,7.4,Credit Card,Completed
+ORD00054,2026-08-17,CUST0165,Smart Watch,Electronics,1,118.61,Credit Card,Completed
+ORD00278,2026-08-17,CUST0214,USB-C Cable,Electronics,1,7.51,Credit Card,Completed
+ORD00741,2026-08-17,CUST0120,Coffee Maker,Home,3,58.98,Credit Card,Completed
+ORD00812,2026-08-17,CUST0179,Power Bank,Electronics,1,29.99,PayPal,Completed
+ORD02094,2026-08-17,CUST0286,Python Handbook,Books,3,30.11,Credit Card,Completed
+ORD02161,2026-08-17,CUST0125,Power Bank,Electronics,2,27.48,UPI,Completed
+ORD02468,2026-08-17,CUST0274,Backpack,Fashion,2,35.29,Credit Card,Completed
+ORD01094,2026-08-18,CUST0028,Power Bank,Electronics,2,29.17,Debit Card,Completed
+ORD00190,2026-08-19,CUST0171,Running Shoes,Fashion,1,67.93,Debit Card,Completed
+ORD02173,2026-08-19,CUST0203,Denim Jacket,Fashion,2,55.55,Debit Card,Completed
+ORD02415,2026-08-19,CUST0285,Face Serum,Beauty,2,27.64,Credit Card,Completed
+ORD02477,2026-08-19,CUST0275,Backpack,Fashion,2,32.25,Debit Card,Completed
+ORD00042,2026-08-20,CUST0283,Power Bank,Electronics,1,25.91,Debit Card,Returned
+ORD01070,2026-08-20,CUST0022,Wireless Earbuds,Electronics,1,59.26,Credit Card,Completed
+ORD01330,2026-08-20,CUST0242,Desk Lamp,Home,3,27.42,UPI,Completed
+ORD02086,2026-08-20,CUST0096,Hair Dryer,Beauty,4,41.24,Debit Card,Completed
+ORD00256,2026-08-21,CUST0251,Smartphone Case,Electronics,1,12.02,PayPal,Completed
+ORD01265,2026-08-21,CUST0236,Smartphone Case,Electronics,1,11.57,Credit Card,Completed
+ORD01514,2026-08-21,CUST0156,Smartphone Case,Electronics,1,10.83,Debit Card,Completed
+ORD00129,2026-08-22,CUST0196,Cotton T-Shirt,Fashion,2,16.32,Credit Card,Completed
+ORD00431,2026-08-22,CUST0053,Backpack,Fashion,1,38.5,Cash on Delivery,Completed
+ORD00723,2026-08-22,CUST0201,Novel Bestseller,Books,1,14.49,Credit Card,Completed
+ORD01682,2026-08-22,CUST0293,Backpack,Fashion,1,37.76,Cash on Delivery,Cancelled
+ORD00537,2026-08-23,CUST0130,Smart Watch,Electronics,1,120.87,UPI,Completed
+ORD01594,2026-08-23,CUST0087,Air Fryer,Home,3,93.45,PayPal,Completed
+ORD00551,2026-08-24,CUST0015,Backpack,Fashion,1,33.3,Debit Card,Completed
+ORD01063,2026-08-24,CUST0158,Backpack,Fashion,2,36.77,Cash on Delivery,Returned
+ORD01625,2026-08-24,CUST0162,USB-C Cable,Electronics,3,8.75,Credit Card,Completed
+ORD02075,2026-08-24,CUST0252,Air Fryer,Home,1,98.34,UPI,Returned
+ORD00416,2026-08-25,CUST0268,USB-C Cable,Electronics,2,7.38,Credit Card,Completed
+ORD00522,2026-08-25,CUST0040,Bed Sheet Set,Home,1,39.01,Cash on Delivery,Completed
+ORD01015,2026-08-25,CUST0012,Cotton T-Shirt,Fashion,1,13.6,Credit Card,Cancelled
+ORD01643,2026-08-25,CUST0293,Perfume,Beauty,1,49.35,UPI,Completed
+ORD00836,2026-08-26,CUST0012,Smart Watch,Electronics,4,117.07,Debit Card,Completed
+ORD02271,2026-08-26,CUST0133,Hair Dryer,Beauty,1,40.97,Debit Card,Completed
+ORD00085,2026-08-27,CUST0269,Bed Sheet Set,Home,1,43.84,PayPal,Completed
+ORD01149,2026-08-27,CUST0271,Cotton T-Shirt,Fashion,2,14.21,Credit Card,Completed
+ORD01794,2026-08-27,CUST0287,Cookbook,Books,3,22.46,UPI,Completed
+ORD01847,2026-08-27,CUST0267,Coffee Maker,Home,2,68.98,PayPal,Completed
+ORD02134,2026-08-27,CUST0013,Hair Dryer,Beauty,2,40.24,Credit Card,Completed
+ORD01086,2026-08-28,CUST0275,Wireless Earbuds,Electronics,1,57.68,Debit Card,Completed
+ORD01475,2026-08-28,CUST0133,Hair Dryer,Beauty,1,40.38,UPI,Completed
+ORD01574,2026-08-28,CUST0267,Air Fryer,Home,1,98.78,Credit Card,Returned
+ORD02273,2026-08-28,CUST0188,Hair Dryer,Beauty,2,41.14,UPI,Completed
+ORD00268,2026-08-29,CUST0090,USB-C Cable,Electronics,2,7.88,Debit Card,Cancelled
+ORD00831,2026-08-29,CUST0194,Backpack,Fashion,2,33.97,Cash on Delivery,Completed
+ORD01376,2026-08-29,CUST0056,Cotton T-Shirt,Fashion,4,13.64,UPI,Completed
+ORD01639,2026-08-29,CUST0051,Cookbook,Books,2,20.2,UPI,Returned
+ORD01904,2026-08-29,CUST0288,Smartphone Case,Electronics,3,11.39,Debit Card,Completed
+ORD02232,2026-08-29,CUST0220,Cotton T-Shirt,Fashion,1,14.86,Credit Card,Completed
+ORD02369,2026-08-29,CUST0165,Coffee Maker,Home,1,64.96,PayPal,Completed
+ORD00319,2026-08-30,CUST0220,Perfume,Beauty,1,49.97,Credit Card,Completed
+ORD00834,2026-08-30,CUST0044,Power Bank,Electronics,3,25.57,Debit Card,Completed
+ORD02214,2026-08-30,CUST0231,Coffee Maker,Home,1,61.56,UPI,Completed
+ORD02238,2026-08-30,CUST0207,USB-C Cable,Electronics,3,7.9,Credit Card,Completed
+ORD01413,2026-08-31,CUST0128,Smart Watch,Electronics,1,117.68,PayPal,Completed
+ORD02253,2026-08-31,CUST0285,Backpack,Fashion,1,37.56,Debit Card,Completed
+ORD00403,2026-09-01,CUST0248,Perfume,Beauty,2,47.34,UPI,Completed
+ORD00864,2026-09-01,CUST0211,Coffee Maker,Home,2,62.65,Debit Card,Completed
+ORD01304,2026-09-01,CUST0050,Bed Sheet Set,Home,2,40.52,UPI,Returned
+ORD01511,2026-09-01,CUST0019,Power Bank,Electronics,2,26.03,Credit Card,Completed
+ORD01725,2026-09-01,CUST0228,Coffee Maker,Home,2,59.9,Credit Card,Completed
+ORD01796,2026-09-01,CUST0263,Perfume,Beauty,1,52.1,Debit Card,Completed
+ORD02179,2026-09-01,CUST0294,Wireless Earbuds,Electronics,1,54.7,UPI,Completed
+ORD00617,2026-09-02,CUST0154,Desk Lamp,Home,1,26.54,Debit Card,Completed
+ORD00013,2026-09-03,CUST0033,Novel Bestseller,Books,1,14.27,Debit Card,Completed
+ORD00254,2026-09-03,CUST0042,Cookbook,Books,1,22.12,Debit Card,Returned
+ORD00506,2026-09-03,CUST0202,USB-C Cable,Electronics,1,8.72,Debit Card,Completed
+ORD00697,2026-09-03,CUST0195,Running Shoes,Fashion,1,72.03,Credit Card,Completed
+ORD00750,2026-09-03,CUST0093,Wireless Earbuds,Electronics,2,60.32,Credit Card,Completed
+ORD01286,2026-09-03,CUST0248,Hair Dryer,Beauty,1,39.41,UPI,Completed
+ORD02293,2026-09-03,CUST0065,Running Shoes,Fashion,1,69.23,Credit Card,Completed
+ORD01766,2026-09-04,CUST0154,Desk Lamp,Home,1,24.37,Debit Card,Completed
+ORD02495,2026-09-04,CUST0115,Novel Bestseller,Books,2,13.51,Credit Card,Completed
+ORD00535,2026-09-05,CUST0279,Perfume,Beauty,1,45.01,UPI,Completed
+ORD00793,2026-09-05,CUST0045,USB-C Cable,Electronics,1,7.69,Cash on Delivery,Completed
+ORD01384,2026-09-05,CUST0021,Python Handbook,Books,4,30.24,PayPal,Completed
+ORD01623,2026-09-05,CUST0252,Wireless Earbuds,Electronics,1,62.12,Credit Card,Completed
+ORD00017,2026-09-06,CUST0166,Running Shoes,Fashion,1,64.57,Debit Card,Cancelled
+ORD00802,2026-09-06,CUST0086,Wireless Earbuds,Electronics,1,63.39,PayPal,Completed
+ORD01758,2026-09-06,CUST0175,Denim Jacket,Fashion,1,58.65,Credit Card,Completed
+ORD02175,2026-09-06,CUST0093,Smartphone Case,Electronics,1,12.45,Debit Card,Completed
+ORD02211,2026-09-06,CUST0032,Denim Jacket,Fashion,1,60.34,Debit Card,Completed
+ORD00978,2026-09-07,CUST0225,Python Handbook,Books,2,30.75,UPI,Completed
+ORD01083,2026-09-08,CUST0034,USB-C Cable,Electronics,2,7.8,UPI,Completed
+ORD01223,2026-09-08,CUST0194,Denim Jacket,Fashion,1,51.81,Credit Card,Completed
+ORD01527,2026-09-08,CUST0139,Smart Watch,Electronics,1,112.24,UPI,Completed
+ORD01700,2026-09-08,CUST0212,Novel Bestseller,Books,1,13.4,Debit Card,Completed
+ORD01815,2026-09-08,CUST0194,Running Shoes,Fashion,1,68.66,Credit Card,Completed
+ORD00811,2026-09-09,CUST0106,Wireless Earbuds,Electronics,1,55.46,UPI,Completed
+ORD00939,2026-09-09,CUST0210,Desk Lamp,Home,1,24.35,Credit Card,Completed
+ORD01600,2026-09-09,CUST0056,Desk Lamp,Home,1,26.47,Cash on Delivery,Completed
+ORD01660,2026-09-09,CUST0271,Denim Jacket,Fashion,1,51.27,UPI,Completed
+ORD01925,2026-09-09,CUST0290,Smart Watch,Electronics,1,110.31,Debit Card,Completed
+ORD00662,2026-09-10,CUST0153,USB-C Cable,Electronics,1,7.34,Credit Card,Cancelled
+ORD01503,2026-09-10,CUST0228,Denim Jacket,Fashion,4,58.26,Cash on Delivery,Completed
+ORD01636,2026-09-10,CUST0080,Smartphone Case,Electronics,4,13.01,Cash on Delivery,Returned
+ORD00005,2026-09-11,CUST0136,Cotton T-Shirt,Fashion,2,15.69,UPI,Cancelled
+ORD01771,2026-09-11,CUST0241,Coffee Maker,Home,1,62.53,PayPal,Completed
+ORD00179,2026-09-12,CUST0071,Smartphone Case,Electronics,3,10.93,Debit Card,Completed
+ORD00707,2026-09-12,CUST0004,Smart Watch,Electronics,1,128.32,Credit Card,Completed
+ORD01559,2026-09-12,CUST0184,Smart Watch,Electronics,2,115.61,Credit Card,Cancelled
+ORD01722,2026-09-12,CUST0062,Hair Dryer,Beauty,1,34.66,Cash on Delivery,Completed
+ORD00643,2026-09-13,CUST0291,Bed Sheet Set,Home,2,40.77,Credit Card,Completed
+ORD01341,2026-09-13,CUST0204,Face Serum,Beauty,1,24.04,Credit Card,Completed
+ORD01703,2026-09-13,CUST0034,Perfume,Beauty,1,50.18,Debit Card,Completed
+ORD01830,2026-09-13,CUST0296,Perfume,Beauty,2,50.39,PayPal,Completed
+ORD00123,2026-09-14,CUST0181,Python Handbook,Books,1,28.14,Credit Card,Completed
+ORD00154,2026-09-14,CUST0227,Air Fryer,Home,1,84.88,UPI,Completed
+ORD01367,2026-09-14,CUST0242,Desk Lamp,Home,2,25.1,Debit Card,Completed
+ORD01506,2026-09-14,CUST0274,Desk Lamp,Home,2,24.69,PayPal,Completed
+ORD02131,2026-09-14,CUST0207,Face Serum,Beauty,1,27.61,Cash on Delivery,Returned
+ORD01988,2026-09-15,CUST0046,Backpack,Fashion,2,36.84,Debit Card,Completed
+ORD00016,2026-09-16,CUST0102,Cookbook,Books,1,23.16,UPI,Completed
+ORD00611,2026-09-16,CUST0124,Bed Sheet Set,Home,1,37.71,PayPal,Returned
+ORD00091,2026-09-17,CUST0051,Running Shoes,Fashion,3,65.91,Credit Card,Completed
+ORD00235,2026-09-17,CUST0248,Novel Bestseller,Books,1,13.29,UPI,Completed
+ORD02409,2026-09-17,CUST0144,USB-C Cable,Electronics,1,7.74,Debit Card,Completed
+ORD00224,2026-09-18,CUST0061,Cookbook,Books,1,20.23,Debit Card,Cancelled
+ORD00663,2026-09-18,CUST0294,Power Bank,Electronics,2,26.19,Debit Card,Completed
+ORD00918,2026-09-18,CUST0053,Wireless Earbuds,Electronics,2,53.6,Credit Card,Completed
+ORD02142,2026-09-18,CUST0229,Desk Lamp,Home,2,22.83,PayPal,Completed
+ORD02492,2026-09-18,CUST0224,Cotton T-Shirt,Fashion,3,13.91,Cash on Delivery,Completed
+ORD00666,2026-09-19,CUST0030,Smartphone Case,Electronics,1,12.55,UPI,Cancelled
+ORD02014,2026-09-19,CUST0143,Running Shoes,Fashion,1,71.82,Credit Card,Completed
+ORD02103,2026-09-19,CUST0101,Running Shoes,Fashion,3,71.07,Cash on Delivery,Completed
+ORD02387,2026-09-19,CUST0202,Bed Sheet Set,Home,1,38.25,UPI,Completed
+ORD02434,2026-09-19,CUST0161,Desk Lamp,Home,1,25.91,Debit Card,Completed
+ORD02451,2026-09-19,CUST0130,Smartphone Case,Electronics,1,12.71,Credit Card,Completed
+ORD00060,2026-09-20,CUST0259,Backpack,Fashion,1,37.85,Debit Card,Completed
+ORD00150,2026-09-21,CUST0286,Cookbook,Books,1,23.89,PayPal,Completed
+ORD00518,2026-09-21,CUST0085,Smartphone Case,Electronics,2,11.14,Credit Card,Completed
+ORD00543,2026-09-21,CUST0267,Perfume,Beauty,1,52.45,Credit Card,Completed
+ORD00805,2026-09-21,CUST0270,Cookbook,Books,2,22.94,UPI,Completed
+ORD00893,2026-09-21,CUST0096,Novel Bestseller,Books,1,13.79,Credit Card,Completed
+ORD01421,2026-09-21,CUST0191,Denim Jacket,Fashion,1,52.26,Debit Card,Returned
+ORD01441,2026-09-21,CUST0009,Denim Jacket,Fashion,1,56.89,Cash on Delivery,Returned
+ORD01613,2026-09-21,CUST0292,Cotton T-Shirt,Fashion,4,14.47,Credit Card,Completed
+ORD01626,2026-09-21,CUST0033,Desk Lamp,Home,1,26.15,UPI,Completed
+ORD00166,2026-09-22,CUST0260,Wireless Earbuds,Electronics,1,59.95,Cash on Delivery,Completed
+ORD00198,2026-09-22,CUST0223,Power Bank,Electronics,1,30.69,Cash on Delivery,Completed
+ORD00264,2026-09-22,CUST0009,Novel Bestseller,Books,1,12.79,UPI,Completed
+ORD01767,2026-09-22,CUST0022,Hair Dryer,Beauty,2,41.63,Debit Card,Completed
+ORD01813,2026-09-22,CUST0195,Smart Watch,Electronics,1,126.36,Credit Card,Completed
+ORD02146,2026-09-22,CUST0293,Power Bank,Electronics,1,28.02,Cash on Delivery,Completed
+ORD01428,2026-09-23,CUST0243,Cotton T-Shirt,Fashion,1,13.51,Credit Card,Completed
+ORD02277,2026-09-23,CUST0090,Perfume,Beauty,4,46.65,PayPal,Completed
+ORD00227,2026-09-24,CUST0154,Backpack,Fashion,1,35.05,UPI,Completed
+ORD00606,2026-09-24,CUST0137,Python Handbook,Books,1,31.41,PayPal,Completed
+ORD00626,2026-09-24,CUST0227,Cotton T-Shirt,Fashion,2,14.82,Cash on Delivery,Completed
+ORD01234,2026-09-24,CUST0202,Face Serum,Beauty,2,27.57,UPI,Completed
+ORD02289,2026-09-24,CUST0004,Smartphone Case,Electronics,1,12.43,Cash on Delivery,Returned
+ORD00584,2026-09-25,CUST0232,Smart Watch,Electronics,1,122.95,Credit Card,Completed
+ORD00981,2026-09-25,CUST0211,Running Shoes,Fashion,1,71.39,UPI,Completed
+ORD01538,2026-09-25,CUST0258,Coffee Maker,Home,1,62.06,Credit Card,Completed
+ORD02475,2026-09-25,CUST0293,Cotton T-Shirt,Fashion,1,14.33,Cash on Delivery,Completed
+ORD00600,2026-09-27,CUST0187,Desk Lamp,Home,2,23.69,UPI,Completed
+ORD01045,2026-09-27,CUST0041,Denim Jacket,Fashion,1,53.62,Credit Card,Completed
+ORD00303,2026-09-28,CUST0195,Perfume,Beauty,2,46.36,Debit Card,Completed
+ORD00958,2026-09-28,CUST0149,Smart Watch,Electronics,2,112.02,Credit Card,Returned
+ORD00982,2026-09-28,CUST0052,Backpack,Fashion,1,38.06,PayPal,Completed
+ORD02372,2026-09-28,CUST0207,Air Fryer,Home,1,91.2,Debit Card,Completed
+ORD01350,2026-09-29,CUST0223,Novel Bestseller,Books,3,14.79,Cash on Delivery,Completed
+ORD01578,2026-09-29,CUST0135,Perfume,Beauty,1,44.33,Credit Card,Completed
+ORD01991,2026-09-29,CUST0108,Coffee Maker,Home,4,69.31,Credit Card,Cancelled
+ORD00367,2026-09-30,CUST0125,Bed Sheet Set,Home,1,40.73,Debit Card,Completed
+ORD01250,2026-09-30,CUST0056,Bed Sheet Set,Home,2,39.43,UPI,Completed
+ORD02108,2026-09-30,CUST0110,Face Serum,Beauty,1,26.37,Debit Card,Completed
+ORD02121,2026-09-30,CUST0034,Cotton T-Shirt,Fashion,1,15.27,PayPal,Completed
+ORD00826,2026-10-01,CUST0050,USB-C Cable,Electronics,2,8.26,UPI,Completed
+ORD02164,2026-10-01,CUST0033,Wireless Earbuds,Electronics,1,53.97,Cash on Delivery,Completed
+ORD00944,2026-10-02,CUST0210,Desk Lamp,Home,1,27.0,Debit Card,Completed
+ORD01959,2026-10-02,CUST0270,Desk Lamp,Home,1,22.82,Credit Card,Completed
+ORD00302,2026-10-03,CUST0254,Hair Dryer,Beauty,1,35.69,Credit Card,Completed
+ORD01242,2026-10-03,CUST0040,Backpack,Fashion,1,34.44,Cash on Delivery,Completed
+ORD01390,2026-10-04,CUST0019,Cookbook,Books,3,22.56,Credit Card,Completed
+ORD01668,2026-10-04,CUST0181,Face Serum,Beauty,1,25.51,Cash on Delivery,Completed
+ORD02079,2026-10-04,CUST0157,Python Handbook,Books,2,27.35,UPI,Returned
+ORD00164,2026-10-05,CUST0162,Bed Sheet Set,Home,1,36.55,Debit Card,Completed
+ORD00336,2026-10-05,CUST0213,Bed Sheet Set,Home,1,36.6,PayPal,Completed
+ORD01236,2026-10-05,CUST0134,Backpack,Fashion,2,32.61,Debit Card,Completed
+ORD01875,2026-10-05,CUST0033,USB-C Cable,Electronics,1,8.61,Cash on Delivery,Returned
+ORD02045,2026-10-05,CUST0237,Face Serum,Beauty,1,26.17,Debit Card,Completed
+ORD02285,2026-10-05,CUST0096,Wireless Earbuds,Electronics,2,59.86,PayPal,Completed
+ORD02305,2026-10-05,CUST0007,Coffee Maker,Home,1,66.74,Cash on Delivery,Completed
+ORD00006,2026-10-06,CUST0186,Cotton T-Shirt,Fashion,1,15.61,Credit Card,Completed
+ORD01237,2026-10-06,CUST0079,Wireless Earbuds,Electronics,1,61.45,Cash on Delivery,Completed
+ORD01663,2026-10-06,CUST0019,Coffee Maker,Home,1,59.46,UPI,Returned
+ORD00229,2026-10-07,CUST0014,Hair Dryer,Beauty,1,36.22,UPI,Cancelled
+ORD00318,2026-10-07,CUST0095,Smart Watch,Electronics,1,123.78,Debit Card,Completed
+ORD00713,2026-10-07,CUST0243,Desk Lamp,Home,1,25.36,UPI,Completed
+ORD01016,2026-10-07,CUST0294,Hair Dryer,Beauty,3,41.65,Credit Card,Completed
+ORD02035,2026-10-07,CUST0179,Smartphone Case,Electronics,1,11.18,Cash on Delivery,Completed
+ORD00282,2026-10-08,CUST0119,Smartphone Case,Electronics,1,11.16,Credit Card,Completed
+ORD00384,2026-10-08,CUST0279,Denim Jacket,Fashion,2,60.38,PayPal,Completed
+ORD01377,2026-10-08,CUST0231,Backpack,Fashion,2,34.55,PayPal,Completed
+ORD00022,2026-10-09,CUST0031,Wireless Earbuds,Electronics,1,63.78,Cash on Delivery,Completed
+ORD00115,2026-10-09,CUST0148,Coffee Maker,Home,4,68.21,Debit Card,Completed
+ORD00859,2026-10-09,CUST0163,Smart Watch,Electronics,3,126.4,Debit Card,Completed
+ORD01090,2026-10-09,CUST0111,Air Fryer,Home,1,93.67,Debit Card,Cancelled
+ORD01694,2026-10-09,CUST0170,Perfume,Beauty,2,44.22,Credit Card,Completed
+ORD01438,2026-10-10,CUST0233,Hair Dryer,Beauty,1,37.8,Cash on Delivery,Completed
+ORD00710,2026-10-11,CUST0277,Running Shoes,Fashion,2,67.37,Credit Card,Completed
+ORD01229,2026-10-11,CUST0228,Face Serum,Beauty,1,27.59,UPI,Completed
+ORD00619,2026-10-12,CUST0196,Desk Lamp,Home,1,25.12,Debit Card,Completed
+ORD01227,2026-10-12,CUST0146,Smart Watch,Electronics,2,130.51,Cash on Delivery,Completed
+ORD01684,2026-10-12,CUST0165,Smartphone Case,Electronics,1,12.7,PayPal,Completed
+ORD01715,2026-10-12,CUST0244,Power Bank,Electronics,2,28.31,UPI,Completed
+ORD00189,2026-10-13,CUST0199,Face Serum,Beauty,4,24.72,Credit Card,Completed
+ORD00338,2026-10-13,CUST0184,Air Fryer,Home,3,95.32,Debit Card,Cancelled
+ORD02328,2026-10-13,CUST0172,Hair Dryer,Beauty,3,36.94,Credit Card,Completed
+ORD00698,2026-10-14,CUST0001,USB-C Cable,Electronics,2,8.26,Debit Card,Completed
+ORD00880,2026-10-14,CUST0226,Hair Dryer,Beauty,1,35.33,Credit Card,Completed
+ORD01947,2026-10-14,CUST0046,Smartphone Case,Electronics,1,12.3,Credit Card,Completed
+ORD00372,2026-10-15,CUST0202,Smartphone Case,Electronics,1,12.16,Debit Card,Cancelled
+ORD00984,2026-10-15,CUST0261,Face Serum,Beauty,1,25.59,UPI,Completed
+ORD01266,2026-10-15,CUST0229,Perfume,Beauty,2,48.21,Credit Card,Completed
+ORD01279,2026-10-15,CUST0148,Novel Bestseller,Books,2,13.41,Credit Card,Completed
+ORD01666,2026-10-15,CUST0090,Power Bank,Electronics,4,27.38,Credit Card,Completed
+ORD01979,2026-10-15,CUST0255,Backpack,Fashion,1,33.49,Cash on Delivery,Completed
+ORD02098,2026-10-15,CUST0274,Denim Jacket,Fashion,1,50.17,PayPal,Completed
+ORD00436,2026-10-16,CUST0244,USB-C Cable,Electronics,3,8.27,UPI,Completed
+ORD01447,2026-10-16,CUST0192,Python Handbook,Books,1,32.26,Cash on Delivery,Completed
+ORD01596,2026-10-16,CUST0054,Running Shoes,Fashion,3,66.92,UPI,Completed
+ORD00398,2026-10-17,CUST0172,Wireless Earbuds,Electronics,1,56.23,Credit Card,Completed
+ORD00683,2026-10-17,CUST0108,Cotton T-Shirt,Fashion,1,14.08,Credit Card,Completed
+ORD01222,2026-10-17,CUST0297,Smart Watch,Electronics,1,113.25,Cash on Delivery,Completed
+ORD02072,2026-10-17,CUST0118,Novel Bestseller,Books,1,15.06,Credit Card,Completed
+ORD00732,2026-10-18,CUST0001,Face Serum,Beauty,3,26.86,Credit Card,Completed
+ORD00988,2026-10-18,CUST0104,Smartphone Case,Electronics,2,11.62,UPI,Completed
+ORD00465,2026-10-19,CUST0198,Power Bank,Electronics,1,29.83,Cash on Delivery,Completed
+ORD00925,2026-10-19,CUST0078,Cookbook,Books,3,20.05,UPI,Completed
+ORD01057,2026-10-19,CUST0037,Cotton T-Shirt,Fashion,1,13.62,Cash on Delivery,Completed
+ORD01674,2026-10-19,CUST0206,Coffee Maker,Home,1,68.91,Credit Card,Completed
+ORD00136,2026-10-20,CUST0011,Smartphone Case,Electronics,1,11.6,Cash on Delivery,Completed
+ORD00215,2026-10-20,CUST0155,Bed Sheet Set,Home,1,42.44,UPI,Completed
+ORD01325,2026-10-20,CUST0271,Hair Dryer,Beauty,1,40.53,UPI,Completed
+ORD00430,2026-10-21,CUST0141,Power Bank,Electronics,1,27.31,Debit Card,Completed
+ORD00524,2026-10-21,CUST0144,USB-C Cable,Electronics,1,7.5,Debit Card,Completed
+ORD01130,2026-10-21,CUST0264,Cotton T-Shirt,Fashion,2,13.61,Debit Card,Completed
+ORD01412,2026-10-21,CUST0160,Running Shoes,Fashion,1,74.34,Cash on Delivery,Completed
+ORD00946,2026-10-22,CUST0287,Desk Lamp,Home,1,27.28,UPI,Completed
+ORD01169,2026-10-22,CUST0023,Wireless Earbuds,Electronics,1,62.19,Credit Card,Returned
+ORD01562,2026-10-22,CUST0200,Running Shoes,Fashion,3,63.22,Cash on Delivery,Completed
+ORD01724,2026-10-22,CUST0216,Wireless Earbuds,Electronics,1,58.59,Cash on Delivery,Completed
+ORD01961,2026-10-22,CUST0091,Bed Sheet Set,Home,1,39.79,Cash on Delivery,Completed
+ORD02279,2026-10-22,CUST0010,Desk Lamp,Home,1,24.64,Cash on Delivery,Completed
+ORD01000,2026-10-23,CUST0261,Smart Watch,Electronics,1,120.45,Credit Card,Completed
+ORD01620,2026-10-23,CUST0284,Power Bank,Electronics,2,26.45,Credit Card,Completed
+ORD01757,2026-10-23,CUST0239,Cotton T-Shirt,Fashion,1,15.12,UPI,Returned
+ORD00173,2026-10-24,CUST0217,Desk Lamp,Home,1,22.59,Debit Card,Cancelled
+ORD00514,2026-10-24,CUST0042,Coffee Maker,Home,2,69.66,Credit Card,Completed
+ORD00652,2026-10-24,CUST0232,Perfume,Beauty,1,48.01,Credit Card,Completed
+ORD00846,2026-10-24,CUST0083,Power Bank,Electronics,1,28.57,Debit Card,Completed
+ORD01536,2026-10-24,CUST0072,Perfume,Beauty,4,50.56,Credit Card,Completed
+ORD02440,2026-10-24,CUST0210,Smartphone Case,Electronics,1,12.29,Credit Card,Completed
+ORD00311,2026-10-25,CUST0023,Coffee Maker,Home,1,66.89,UPI,Cancelled
+ORD00428,2026-10-25,CUST0116,Face Serum,Beauty,2,24.8,Debit Card,Completed
+ORD01194,2026-10-25,CUST0218,Power Bank,Electronics,1,25.81,Credit Card,Completed
+ORD01268,2026-10-25,CUST0106,Coffee Maker,Home,2,59.48,Debit Card,Completed
+ORD01602,2026-10-25,CUST0226,Bed Sheet Set,Home,3,40.59,UPI,Cancelled
+ORD01882,2026-10-25,CUST0126,Cotton T-Shirt,Fashion,3,13.56,Credit Card,Completed
+ORD00008,2026-10-26,CUST0037,Cotton T-Shirt,Fashion,2,14.01,UPI,Completed
+ORD00505,2026-10-26,CUST0192,Cookbook,Books,4,19.85,Cash on Delivery,Completed
+ORD00894,2026-10-26,CUST0080,Denim Jacket,Fashion,3,55.3,UPI,Completed
+ORD01856,2026-10-26,CUST0078,Hair Dryer,Beauty,4,34.22,Credit Card,Completed
